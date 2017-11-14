@@ -9,7 +9,7 @@ more informations if needed
 """
 import pandas as pd
 
-negative_const = 377
+negative_const = 6636
 
 def lift_at_n(df, n):
     df.sort_values(by='XGB', ascending=False, inplace=True)
@@ -18,7 +18,7 @@ def lift_at_n(df, n):
     
 def main():
     result = pd.read_csv('data/result.csv', encoding='u8')
-    for n in xrange(400, 6000, 1000):
+    for n in xrange(7000, 30000, 1000):
         print n, lift_at_n(result, n)
     
 
