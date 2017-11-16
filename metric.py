@@ -11,6 +11,8 @@ import pandas as pd
 
 from sklearn.metrics import roc_auc_score
 
+import sys
+
 money_const = 2645239.2058
 
 def lift_at_n(df, n, pos):
@@ -55,22 +57,27 @@ def auc(df):
     
 def main():
     result = pd.read_csv('data/result.csv', encoding='u8')
-    num = len(result)
-    pos_num = int(num * 0.8)
-    pos = result['Label'].sum() 
-    for n in range((pos/100 + 1)*100, pos_num, 1000):
-        print n, lift_at_n(result, n, pos)
+    metric = sys.argv[1]
 
-    print rateOfBadAccount(result, num - pos_num)
+    if metric == 'lift':
+        try:
+            n = int(sys.argv[2])
+        except:
+            raise Exception('Please enter the n number')
+        pos = result['Label'].sum() 
+        print "the %d lift is %lf" %(n, lift_at_n(result, n, pos))
 
-    try:
+    #if metric == 'rateOfBadAccount':
+    #    print rateOfBadAccount(result, num - pos_num)
+
+    if metric == 'auc':
         print "The auc score is %lf" %(auc(result))
-    except:
-        pass
 
-    rlt = pickAccount(result, money_const)
-    rlt[['ID', 'XGB', 'Money']].to_csv('data/final_result.csv', index=False, encoding='u8')
-
+    #rlt = pickAccount(result, money_const)
+    #rlt[['ID', 'XGB', 'Money']].to_csv('data/final_result.csv', index=False, encoding='u8')
+    
+    raise Exception('This metris is not supported now')
+    
     return
 
 if __name__ == '__main__':
