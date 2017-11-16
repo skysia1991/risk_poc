@@ -6,6 +6,7 @@ import pandas as pd
 from sklearn.feature_extraction import DictVectorizer
 from transformer import *
 from config import getParam
+import sys
 
 def main():
     #Get param
@@ -19,10 +20,6 @@ def main():
 
     #Drop features
     drop_list = param['drop_list']
-    #drop_list = [u'资产编号',u'姓名']
-    #drop_list += [u'截至倒数第二期剩余期数（月）',u'截至倒数第二期历史最长逾期天数',u'截至倒数第二期已还本金（元）',u'截至倒数第二期逾期本金（元）',u'截至倒数第二期已还利息（元）',u'截至倒数第二期历史逾期次数',u'倒数第二期逾期天数',u'截至倒数第二期历史平均还款间隔（天）',u'截至倒数第二期剩余本金（元）',u'截至倒数第二期剩余利息（元）']
-    #drop_list += [u'截至倒数第三期剩余期数（月）',u'截至倒数第三期历史最长逾期天数',u'截至倒数第三期已还本金（元）',u'截至倒数第三期逾期本金（元）',u'截至倒数第三期已还利息（元）',u'截至倒数第三期历史逾期次数',u'倒数第三期逾期天数',u'截至倒数第三期历史平均还款间隔（天）',u'截至倒数第三期剩余本金（元）',u'截至倒数第三期剩余利息（元）']
-    #drop_list += [u'截至倒数第四期剩余期数（月）',u'截至倒数第四期历史最长逾期天数',u'截至倒数第四期已还本金（元）',u'截至倒数第四期逾期本金（元）',u'截至倒数第四期已还利息（元）',u'截至倒数第四期历史逾期次数',u'倒数第四期逾期天数',u'截至倒数第四期历史平均还款间隔（天）',u'截至倒数第四期剩余本金（元）',u'截至倒数第四期剩余利息（元）']
     df_train = train.drop(drop_list, axis=1)
     df_test = test.drop(drop_list, axis=1)
 
@@ -37,7 +34,6 @@ def main():
 
     #Deal with Date feature
     date_cols = param['date_cols']
-    #date_cols += [u'起始日',u'到期日']
     X_train = dateTransformer(X_train, date_cols)
     X_test = dateTransformer(X_test, date_cols)
 
@@ -62,7 +58,7 @@ def main():
         #dtest = xgb.DMatrix(vec_test, label=Y_test)
         param = {'max_depth':4, 'eta':0.1, 'silent':1, 'objective':'binary:logistic', 'nthread':29, 'eval_metric': 'auc'}
         evallist = [(dval, 'val'), (dtrain, 'train')]
-        num_round = 70
+        num_round = int(sys.argv[1])
         bst = xgb.train(param.items(), dtrain, num_round, evallist)
         break
         ###################################################################
@@ -74,6 +70,7 @@ def main():
     
     output_test['ID'] = test[ID].astype(str)
     output_test['Label'] = test[label]
+    #output_test['Money'] = test[u'本金余额']
     output_test[['ID', 'XGB', 'Label']].to_csv('data/result.csv', index=False, encoding='u8')
 
 if __name__ == "__main__":

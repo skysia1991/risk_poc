@@ -9,9 +9,10 @@ more informations if needed
 """
 import pandas as pd
 from sklearn.model_selection import train_test_split
-
+    
 def main():
-    data = pd.read_csv('data/data_set_end.csv', encoding='u8')
+    data = pd.read_csv('data/data_set_end_171115.csv', encoding='u8')
+    data = data[data[u'贷款期数（月）'] > 3]
     train, test = train_test_split(data, test_size=0.3)
     train.to_csv('data/train.csv', index=False, encoding='u8')
     test.to_csv('data/test.csv', index=False, encoding='u8')
