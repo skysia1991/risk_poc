@@ -59,6 +59,11 @@ def main():
     result = pd.read_csv('data/result.csv', encoding='u8')
     metric = sys.argv[1]
 
+    if metric == 'pick':
+        rlt = pickAccount(result, money_const)
+        rlt[['ID', 'XGB', 'Money']].to_csv('data/final_result.csv', index=False, encoding='u8')
+        return
+        
     if metric == 'lift':
         try:
             n = int(sys.argv[2])
@@ -67,18 +72,17 @@ def main():
         pos = result['Label'].sum() 
         print "the %d lift is %lf" %(n, lift_at_n(result, n, pos))
 
+        return
     #if metric == 'rateOfBadAccount':
     #    print rateOfBadAccount(result, num - pos_num)
 
     if metric == 'auc':
         print "The auc score is %lf" %(auc(result))
-
-    #rlt = pickAccount(result, money_const)
-    #rlt[['ID', 'XGB', 'Money']].to_csv('data/final_result.csv', index=False, encoding='u8')
+        
+        return
     
     raise Exception('This metris is not supported now')
     
-    return
 
 if __name__ == '__main__':
     main()

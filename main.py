@@ -70,8 +70,8 @@ def main():
     
     output_test['ID'] = test[ID].astype(str)
     output_test['Label'] = test[label]
-    #output_test['Money'] = test[u'本金余额']
-    output_test[['ID', 'XGB', 'Label']].to_csv('data/result.csv', index=False, encoding='u8')
+    output_test['Money'] = test[u'本金余额']
+    output_test[['ID', 'XGB', 'Label', 'Money']].to_csv('data/result.csv', index=False, encoding='u8')
 
 if __name__ == "__main__":
     main()
