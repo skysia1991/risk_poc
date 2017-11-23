@@ -9,15 +9,13 @@ more informations if needed
 """
 import pandas as pd
 from sklearn.model_selection import train_test_split
-    
+import sys
+
 def main():
-    data = pd.read_csv('data/data_set_end_171115.csv', encoding='u8')
-    data = data[data[u'贷款期数（月）'] > 3]
+    data = pd.read_csv('data/'+sys.argv[1], encoding='u8')
     train, test = train_test_split(data, test_size=0.3)
     train.to_csv('data/train.csv', index=False, encoding='u8')
     test.to_csv('data/test.csv', index=False, encoding='u8')
-    print train[u'标注'].value_counts()
-    print test[u'标注'].value_counts()
     return
 
     

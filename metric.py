@@ -66,12 +66,14 @@ def main():
             raise Exception('Please enter the n number')
         pos = result['Label'].sum() 
         print "the %d lift is %lf" %(n, lift_at_n(result, n, pos))
+        return
 
     #if metric == 'rateOfBadAccount':
     #    print rateOfBadAccount(result, num - pos_num)
 
     if metric == 'auc':
         print "The auc score is %lf" %(auc(result))
+        return
 
     #rlt = pickAccount(result, money_const)
     #rlt[['ID', 'XGB', 'Money']].to_csv('data/final_result.csv', index=False, encoding='u8')

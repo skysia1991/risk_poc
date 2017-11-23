@@ -7,6 +7,7 @@ from sklearn.feature_extraction import DictVectorizer
 from transformer import *
 from config import getParam
 import sys
+from feature_map import *
 
 def main():
     #Get param
@@ -44,6 +45,11 @@ def main():
     vec_train = vectorizer.fit_transform( dict_train )
     vec_test = vectorizer.transform( dict_test ) 
     
+    #Store the feature names
+    features = vectorizer.feature_names_
+    print features
+    feature_map('xgb.fmap', features)
+
     #Cross validation
     kf = KFold(n_splits=5, shuffle=True) 
     output_test = pd.DataFrame()
@@ -66,8 +72,13 @@ def main():
     dtrain = xgb.DMatrix(vec_train, label=Y_train)
     dtest = xgb.DMatrix(vec_test, label=Y_test)
     bst = xgb.train(param.items(), dtrain, num_round)
-    output_test['XGB'] = bst.predict(dtest)
+    #dump model
+    bst.dump_model('xgb.dump', fmap='xgb.fmap', with_stats=True)
+    bst.save_model('test.model')
+
+    print bst.get_score(fmap='xgb.fmap', importance_type='gain')
     
+    output_test['XGB'] = bst.predict(dtest)
     output_test['ID'] = test[ID].astype(str)
     output_test['Label'] = test[label]
     #output_test['Money'] = test[u'本金余额']
