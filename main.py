@@ -47,8 +47,7 @@ def main():
     
     #Store the feature names
     features = vectorizer.feature_names_
-    print features
-    feature_map('xgb.fmap', features)
+    feature_map('xgb'+str(sys.argv[2])+'.fmap', features)
 
     #Cross validation
     kf = KFold(n_splits=5, shuffle=True) 
@@ -73,10 +72,10 @@ def main():
     dtest = xgb.DMatrix(vec_test, label=Y_test)
     bst = xgb.train(param.items(), dtrain, num_round)
     #dump model
-    bst.dump_model('xgb.dump', fmap='xgb.fmap', with_stats=True)
-    bst.save_model('test.model')
+    #bst.dump_model('xgb'+str(sys.argv[2])+'.dump', fmap='xgb'+str(sys.argv[2])+'.fmap', with_stats=True)
+    bst.save_model('test'+str(sys.argv[2])+'.model')
 
-    print bst.get_score(fmap='xgb.fmap', importance_type='gain')
+    #print bst.get_score(fmap='xgb.fmap', importance_type='gain')
     
     output_test['XGB'] = bst.predict(dtest)
     output_test['ID'] = test[ID].astype(str)
