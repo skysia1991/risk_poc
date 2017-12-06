@@ -1,4 +1,5 @@
 #coding:utf-8
+from datetime import datetime
 from sklearn.model_selection import KFold
 from sklearn.metrics import roc_auc_score
 import xgboost as xgb
@@ -53,7 +54,7 @@ def main():
     kf = KFold(n_splits=5, shuffle=True) 
     output_test = pd.DataFrame()
     for train_index, val_index in kf.split(Y_train):
-        print("TRAIN:", train_index, "VAL:", val_index)
+        #print("TRAIN:", train_index, "VAL:", val_index)
         feature_train, feature_val = vec_train[train_index, :], vec_train[val_index, :]
         label_train, label_val = Y_train[train_index], Y_train[val_index]
             
@@ -72,11 +73,13 @@ def main():
     dtest = xgb.DMatrix(vec_test, label=Y_test)
     bst = xgb.train(param.items(), dtrain, num_round)
     #dump model
-    #bst.dump_model('xgb'+str(sys.argv[2])+'.dump', fmap='xgb'+str(sys.argv[2])+'.fmap', with_stats=True)
+    bst.dump_model('xgb'+str(sys.argv[2])+'.dump', fmap='xgb'+str(sys.argv[2])+'.fmap', with_stats=True)
     bst.save_model('test'+str(sys.argv[2])+'.model')
 
-    #print bst.get_score(fmap='xgb.fmap', importance_type='gain')
-    
+    feature_score =  bst.get_score(fmap='xgb.fmap', importance_type='gain')
+    for key, value in feature_score.iteritems():
+        print key.encode('u8'), value
+
     output_test['XGB'] = bst.predict(dtest)
     output_test['ID'] = test[ID].astype(str)
     output_test['Label'] = test[label]
