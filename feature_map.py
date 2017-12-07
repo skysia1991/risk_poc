@@ -14,7 +14,7 @@ def feature_map_w_load_file(infile_name, outfile_name):
         v = elm.split('\t')
         #print v[1].decode('u8').encode('unicode-escape')
         tmp = ""
-        for elm in unidecode(v[1].decode('u8')).split(' ')[:-1]:
+        for elm in unidecode(v[1].decode('unicode-escape')).split(' ')[:-1]:
             tmp += str(elm) + '_'
 
         outfile.write('{0}\t{1}\tq\n'.format(v[0], tmp[:-1]))
@@ -22,6 +22,6 @@ def feature_map_w_load_file(infile_name, outfile_name):
     outfile.close()
 
 if __name__ == "__main__":
-    feature_map_w_load_file('xgb.fmap', 'xgb_uni.fmap')
+    feature_map_w_load_file('xgbrand.fmap', 'xgbrand_uni.fmap')
         
 
