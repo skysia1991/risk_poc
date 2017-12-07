@@ -3,7 +3,8 @@ from unidecode import unidecode
 def feature_map(file_name,features):
     outfile = open(file_name, 'w')
     for i, feat in enumerate(features):
-        outfile.write('{0}\t{1}\tq\n'.format(i, feat.encode('u8')))
+        outfile.write('{0}\t{1}\tq\n'.format(i, feat.encode('unicode-escape')))
+        #outfile.write('{0}\t{1}\tq\n'.format(i, feat.encode('u8')))
     outfile.close()
 
 def feature_map_w_load_file(infile_name, outfile_name):

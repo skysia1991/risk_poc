@@ -1,0 +1,2388 @@
+booster[0]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=1,no=2,missing=1,gain=374.561,cover=2287.75
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=42.937,cover=2249.75
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=3.83511,cover=2014
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<567] yes=13,no=14,missing=14,gain=1.22743,cover=2013
+				13:leaf=-0.128889,cover=10.25
+				14:leaf=-0.196157,cover=2002.75
+			8:leaf=-0,cover=1
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=9,no=10,missing=9,gain=22.6904,cover=235.75
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=3.83857,cover=211.25
+				15:leaf=-0.163092,cover=199.5
+				16:leaf=-0.0901961,cover=11.75
+			10:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1877.5] yes=17,no=18,missing=18,gain=7.95539,cover=24.5
+				17:leaf=0.12,cover=1.5
+				18:leaf=-0.0708333,cover=23
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<239.5] yes=5,no=6,missing=6,gain=4.60729,cover=38
+		5:leaf=-0.05,cover=1
+		6:[\u5730\u533a=\u56db\u5ddd\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=4.88336,cover=37
+			11:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<6337.5] yes=19,no=20,missing=19,gain=3.94403,cover=36
+				19:leaf=0.149206,cover=30.5
+				20:leaf=0.0461538,cover=5.5
+			12:leaf=-0.05,cover=1
+booster[1]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=1,no=2,missing=1,gain=307.219,cover=2267.01
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=36.0496,cover=2229.19
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=3.16894,cover=1994.82
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<567] yes=15,no=16,missing=16,gain=0.938654,cover=1993.82
+				15:leaf=-0.117606,cover=10.2075
+				16:leaf=-0.178317,cover=1983.61
+			8:leaf=-0,cover=1
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=9,no=10,missing=9,gain=19.6514,cover=234.371
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=17,no=18,missing=17,gain=8.61605,cover=195.284
+				17:leaf=-0.149714,cover=194.035
+				18:leaf=0.0706494,cover=1.24843
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=19,no=20,missing=20,gain=5.56971,cover=39.0876
+				19:leaf=-0.101022,cover=21.3634
+				20:leaf=-0.0241891,cover=17.7242
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<6145.5] yes=5,no=6,missing=5,gain=3.3874,cover=37.8267
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2011] yes=11,no=12,missing=12,gain=4.09134,cover=32.0798
+			11:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<273] yes=21,no=22,missing=21,gain=4.18587,cover=2.73721
+				21:leaf=-0.0851569,cover=1.49414
+				22:leaf=0.103155,cover=1.24307
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=23,no=24,missing=24,gain=1.64613,cover=29.3426
+				23:leaf=0.056733,cover=4.22889
+				24:leaf=0.145091,cover=25.1137
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0212] yes=13,no=14,missing=14,gain=3.10235,cover=5.74692
+			13:leaf=-0.0575015,cover=1.74907
+			14:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0639] yes=25,no=26,missing=26,gain=1.3576,cover=3.99785
+				25:leaf=0.124378,cover=1.74907
+				26:leaf=0.0129343,cover=2.24878
+booster[2]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=257.836,cover=2213.46
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=31.2381,cover=2174.11
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=2.70822,cover=1944.04
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<567] yes=15,no=16,missing=16,gain=0.854767,cover=1943.04
+				15:leaf=-0.108024,cover=10.0959
+				16:leaf=-0.164851,cover=1932.94
+			8:leaf=-0,cover=1
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=9,no=10,missing=9,gain=15.2729,cover=230.071
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=4.19172,cover=192.447
+				17:leaf=-0.139442,cover=181.105
+				18:leaf=-0.0672728,cover=11.3413
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=7.25385,cover=37.6244
+				19:leaf=-0.0815295,cover=31.9232
+				20:leaf=0.0356443,cover=5.70119
+	2:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<682.5] yes=5,no=6,missing=5,gain=5.86296,cover=39.3538
+		5:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<394] yes=11,no=12,missing=12,gain=3.2854,cover=35.8798
+			11:leaf=-0.0175505,cover=1.73202
+			12:[\u5730\u533a=\u6df1\u5733\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=3.54746,cover=34.1478
+				21:leaf=0.120648,cover=32.9111
+				22:leaf=-0.0309265,cover=1.23668
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2324.5] yes=13,no=14,missing=14,gain=5.78401,cover=3.47404
+			13:leaf=-0.121692,cover=1.73151
+			14:leaf=0.0846221,cover=1.74253
+booster[3]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=1,no=2,missing=1,gain=218.257,cover=2137.43
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<492.5] yes=3,no=4,missing=3,gain=30.4637,cover=2100.64
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=2.3813,cover=1841.13
+			7:leaf=-0.15435,cover=1840.13
+			8:leaf=-0,cover=1
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=9,no=10,missing=9,gain=17.5306,cover=259.51
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=15,no=16,missing=15,gain=6.2433,cover=216.808
+				15:leaf=-0.129451,cover=215.327
+				16:leaf=0.0497359,cover=1.48058
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<9.5] yes=17,no=18,missing=18,gain=5.17322,cover=42.702
+				17:leaf=-0.0940347,cover=18.7771
+				18:leaf=-0.0235426,cover=23.9249
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5564.5] yes=5,no=6,missing=6,gain=3.40319,cover=36.7953
+		5:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<17891.5] yes=11,no=12,missing=11,gain=5.2035,cover=18.6793
+			11:[\u5e74\u9f84<21.5] yes=19,no=20,missing=19,gain=5.16154,cover=14.7493
+				19:leaf=0.0127658,cover=6.30546
+				20:leaf=0.131843,cover=8.44387
+			12:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<28805] yes=21,no=22,missing=21,gain=1.47994,cover=3.92993
+				21:leaf=-0.0742392,cover=2.44631
+				22:leaf=0.0307229,cover=1.48362
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<8547.5] yes=13,no=14,missing=13,gain=4.05307,cover=18.116
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1777.5] yes=23,no=24,missing=24,gain=0.994384,cover=16.127
+				23:leaf=0.0424102,cover=1.92488
+				24:leaf=0.150581,cover=14.2022
+			14:leaf=-0.00667845,cover=1.98899
+booster[4]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=188.258,cover=2046.57
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=28.5406,cover=2008.58
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=2.11618,cover=1789.75
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=15,no=16,missing=15,gain=1.33323,cover=1788.75
+				15:leaf=-0.146202,cover=1735.58
+				16:leaf=-0.120577,cover=53.1677
+			8:leaf=-0,cover=1
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=9,no=10,missing=9,gain=12.1832,cover=218.832
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=17,no=18,missing=17,gain=6.40034,cover=181.495
+				17:leaf=-0.118361,cover=180.245
+				18:leaf=0.0684528,cover=1.24968
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<471.5] yes=19,no=20,missing=20,gain=4.31779,cover=37.3369
+				19:leaf=0.00897406,cover=8.7194
+				20:leaf=-0.0701411,cover=28.6175
+	2:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<682.5] yes=5,no=6,missing=5,gain=4.62121,cover=37.9903
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2011] yes=11,no=12,missing=11,gain=2.67453,cover=34.5885
+			11:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<394.5] yes=21,no=22,missing=21,gain=3.86347,cover=3.8993
+				21:leaf=-0.0588236,cover=2.45507
+				22:leaf=0.105681,cover=1.44424
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=23,no=24,missing=24,gain=2.15129,cover=30.6892
+				23:leaf=0.0287652,cover=4.35713
+				24:leaf=0.112796,cover=26.3321
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2324.5] yes=13,no=14,missing=14,gain=4.73869,cover=3.40177
+			13:leaf=-0.113555,cover=1.69274
+			14:leaf=0.0746572,cover=1.70903
+booster[5]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=162.869,cover=1946.63
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=28.2703,cover=1909.49
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=1.91692,cover=1697.35
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<567] yes=15,no=16,missing=16,gain=1.52684,cover=1696.35
+				15:leaf=-0.0808198,cover=9.32048
+				16:leaf=-0.138761,cover=1687.03
+			8:leaf=-0,cover=1
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=9,no=10,missing=9,gain=10.9726,cover=212.146
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=4.3418,cover=175.615
+				17:leaf=-0.113055,cover=164.927
+				18:leaf=-0.041934,cover=10.6879
+			10:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3817.5] yes=19,no=20,missing=20,gain=6.61912,cover=36.5312
+				19:leaf=0.0266513,cover=8.75734
+				20:leaf=-0.0701885,cover=27.7739
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4562] yes=5,no=6,missing=5,gain=4.18978,cover=37.1363
+		5:[\u884c\u4e1a=\u91d1\u878d\u4e1a<-9.53674e-07] yes=11,no=12,missing=11,gain=3.34998,cover=27.4299
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<9050] yes=21,no=22,missing=21,gain=2.03298,cover=26.238
+				21:leaf=0.0289614,cover=4.08792
+				22:leaf=0.114479,cover=22.1501
+			12:leaf=-0.0416116,cover=1.19194
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1657.5] yes=13,no=14,missing=13,gain=4.65439,cover=9.70638
+			13:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<6743.5] yes=23,no=24,missing=23,gain=3.94592,cover=5.918
+				23:leaf=-0.0761437,cover=4.76395
+				24:leaf=0.0848776,cover=1.15404
+			14:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<47000] yes=25,no=26,missing=25,gain=0.127959,cover=3.78839
+				25:leaf=0.110715,cover=2.11293
+				26:leaf=0.0351266,cover=1.67545
+booster[6]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=142.426,cover=1841.89
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=3,no=4,missing=3,gain=28.3587,cover=1805.62
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=1.75761,cover=1600.48
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=15,no=16,missing=15,gain=1.73486,cover=1599.48
+				15:leaf=-0.133362,cover=1551.26
+				16:leaf=-0.106308,cover=48.2281
+			8:leaf=-0,cover=1
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=9,no=10,missing=9,gain=10.2807,cover=205.139
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=17,no=18,missing=17,gain=5.57623,cover=168.633
+				17:leaf=-0.104132,cover=167.383
+				18:leaf=0.0685503,cover=1.24964
+			10:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<34290] yes=19,no=20,missing=19,gain=3.85888,cover=36.5063
+				19:leaf=-0.0235679,cover=28.7082
+				20:leaf=-0.100649,cover=7.79812
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5564.5] yes=5,no=6,missing=5,gain=3.66727,cover=36.2629
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5249.5] yes=11,no=12,missing=12,gain=5.57164,cover=19.6326
+			11:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<675.5] yes=21,no=22,missing=22,gain=3.38081,cover=17.7979
+				21:leaf=0.109713,cover=6.3582
+				22:leaf=0.0204525,cover=11.4397
+			12:leaf=-0.0957905,cover=1.83477
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<9759] yes=13,no=14,missing=13,gain=3.30305,cover=16.6302
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2349.5] yes=23,no=24,missing=24,gain=1.04933,cover=15.3985
+				23:leaf=0.0462288,cover=3.32286
+				24:leaf=0.130921,cover=12.0757
+			14:leaf=-0.0319623,cover=1.2317
+booster[7]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=125.08,cover=1735.59
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=3,no=4,missing=3,gain=28.8601,cover=1700.21
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=1.63801,cover=1471.77
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=15,no=16,missing=15,gain=0.66645,cover=1470.77
+				15:leaf=-0.128611,cover=1430.97
+				16:leaf=-0.10451,cover=39.8049
+			8:leaf=-0,cover=1
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=9,no=10,missing=9,gain=10.8002,cover=228.438
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=3.9625,cover=189.416
+				17:leaf=-0.102329,cover=178.594
+				18:leaf=-0.0356464,cover=10.822
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=5.85692,cover=39.0222
+				19:leaf=-0.0553059,cover=33.4404
+				20:leaf=0.0489785,cover=5.5818
+	2:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<682.5] yes=5,no=6,missing=5,gain=3.47155,cover=35.3828
+		5:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<28110] yes=11,no=12,missing=11,gain=2.50647,cover=32.1237
+			11:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1220] yes=21,no=22,missing=22,gain=2.44596,cover=23.4277
+				21:leaf=0.0954889,cover=8.28807
+				22:leaf=0.0274319,cover=15.1397
+			12:[\u5230\u671f\u65e5_month<10] yes=23,no=24,missing=23,gain=0.343821,cover=8.69596
+				23:leaf=0.128825,cover=7.6342
+				24:leaf=0.0287366,cover=1.06176
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2324.5] yes=13,no=14,missing=14,gain=3.58219,cover=3.25914
+			13:leaf=-0.104264,cover=1.62903
+			14:leaf=0.0620577,cover=1.63011
+booster[8]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<25.5] yes=1,no=2,missing=1,gain=110.662,cover=1630.07
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=3,no=4,missing=3,gain=29.53,cover=1595.53
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=1.53003,cover=1375.72
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=15,no=16,missing=15,gain=0.787934,cover=1374.72
+				15:leaf=-0.12466,cover=1296.37
+				16:leaf=-0.107054,cover=78.3525
+			8:leaf=-0,cover=1
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=9,no=10,missing=9,gain=9.91733,cover=219.807
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=3.61305,cover=181.226
+				17:leaf=-0.0967207,cover=170.536
+				18:leaf=-0.0327689,cover=10.69
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=4.89756,cover=38.5813
+				19:leaf=-0.0506774,cover=32.9623
+				20:leaf=0.0445584,cover=5.61906
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3529.5] yes=5,no=6,missing=5,gain=3.38039,cover=34.5476
+		5:[\u884c\u4e1a=\u91d1\u878d\u4e1a<-9.53674e-07] yes=11,no=12,missing=11,gain=2.79188,cover=23.2334
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<9050] yes=21,no=22,missing=21,gain=2.06979,cover=22.0423
+				21:leaf=0.0194515,cover=3.98986
+				22:leaf=0.104436,cover=18.0524
+			12:leaf=-0.0406416,cover=1.19117
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5920.5] yes=13,no=14,missing=13,gain=4.10456,cover=11.3141
+			13:[\u5730\u533a=\u5e7f\u4e1c\u5206\u90e8<-9.53674e-07] yes=23,no=24,missing=23,gain=2.81195,cover=6.5088
+				23:leaf=-0.0691051,cover=4.99759
+				24:leaf=0.0593809,cover=1.51121
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<9759] yes=25,no=26,missing=26,gain=2.6995,cover=4.80532
+				25:leaf=0.113332,cover=3.58616
+				26:leaf=-0.033038,cover=1.21916
+booster[9]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<22.5] yes=1,no=2,missing=1,gain=98.3241,cover=1526.86
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=3,no=4,missing=3,gain=29.3168,cover=1491.62
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3266] yes=7,no=8,missing=7,gain=1.43839,cover=1281.21
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=13,no=14,missing=13,gain=1.04364,cover=1280.21
+				13:leaf=-0.120633,cover=1245.26
+				14:leaf=-0.0939813,cover=34.9499
+			8:leaf=-0,cover=1
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=9,no=10,missing=9,gain=8.52074,cover=210.408
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=15,no=16,missing=15,gain=4.21403,cover=172.58
+				15:leaf=-0.089759,cover=171.136
+				16:leaf=0.0541246,cover=1.44377
+			10:[\u5e74\u9f84<18.5] yes=17,no=18,missing=17,gain=3.99892,cover=37.8276
+				17:leaf=0.0870258,cover=1.6362
+				18:leaf=-0.0422727,cover=36.1914
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<41666] yes=5,no=6,missing=6,gain=4.60795,cover=35.2397
+		5:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<682.5] yes=11,no=12,missing=11,gain=2.63361,cover=33.7288
+			11:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<287] yes=19,no=20,missing=20,gain=2.15061,cover=30.2668
+				19:leaf=-0.03677,cover=1.20312
+				20:leaf=0.0766499,cover=29.0637
+			12:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<258.28] yes=21,no=22,missing=22,gain=3.05724,cover=3.46199
+				21:leaf=-0.0975135,cover=1.42835
+				22:leaf=0.0535993,cover=2.03364
+		6:leaf=-0.0825848,cover=1.51096
+booster[10]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<6.5] yes=1,no=2,missing=1,gain=88.9124,cover=1427.26
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<851.5] yes=3,no=4,missing=3,gain=19.7999,cover=1361.96
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=7,no=8,missing=8,gain=1.44307,cover=1207.92
+			7:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=15,no=16,missing=15,gain=0.822248,cover=730.169
+				15:leaf=-0.120319,cover=729.096
+				16:leaf=-0.0156446,cover=1.07285
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.375] yes=17,no=18,missing=18,gain=3.04975,cover=477.755
+				17:leaf=-0.113957,cover=410.721
+				18:leaf=-0.0869296,cover=67.0339
+		4:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=9,no=10,missing=9,gain=7.13439,cover=154.037
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=19,no=20,missing=19,gain=4.31088,cover=151.541
+				19:leaf=-0.0817908,cover=150.291
+				20:leaf=0.067615,cover=1.24991
+			10:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1178.5] yes=21,no=22,missing=21,gain=1.65802,cover=2.49568
+				21:leaf=-0.018528,cover=1.06389
+				22:leaf=0.116708,cover=1.43179
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=5,no=6,missing=6,gain=14.707,cover=65.2981
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2705.5] yes=11,no=12,missing=12,gain=5.16842,cover=34.3313
+			11:[\u8d77\u59cb\u65e5_day<14.5] yes=23,no=24,missing=23,gain=5.52202,cover=19.148
+				23:leaf=-0.0589092,cover=8.4222
+				24:leaf=0.0439045,cover=10.7258
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8751] yes=25,no=26,missing=26,gain=4.47102,cover=15.1833
+				25:leaf=-0.1018,cover=12.6662
+				26:leaf=0.0326557,cover=2.51706
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=13,no=14,missing=14,gain=2.7252,cover=30.9668
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<6145.5] yes=27,no=28,missing=27,gain=2.68934,cover=25.066
+				27:leaf=0.0530942,cover=21.0234
+				28:leaf=-0.0300457,cover=4.04258
+			14:leaf=0.113607,cover=5.90083
+booster[11]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=1,no=2,missing=1,gain=82.8965,cover=1332.29
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<851.5] yes=3,no=4,missing=3,gain=16.0894,cover=1247.94
+		3:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<552.5] yes=7,no=8,missing=8,gain=1.39514,cover=1112.05
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=15,no=16,missing=15,gain=2.1532,cover=3.78265
+				15:leaf=-0.0881439,cover=2.21625
+				16:leaf=0.0381754,cover=1.56639
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3169] yes=17,no=18,missing=17,gain=1.31349,cover=1108.27
+				17:leaf=-0.114006,cover=1107.13
+				18:leaf=-0.00340597,cover=1.13746
+		4:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=9,no=10,missing=9,gain=4.53599,cover=135.887
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=19,no=20,missing=19,gain=3.97412,cover=134.08
+				19:leaf=-0.0800399,cover=132.831
+				20:leaf=0.0638792,cover=1.2492
+			10:leaf=0.0580838,cover=1.80672
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=5,no=6,missing=6,gain=17.3215,cover=84.3516
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2705.5] yes=11,no=12,missing=12,gain=6.38227,cover=54.1568
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<24660] yes=21,no=22,missing=21,gain=5.23787,cover=29.0113
+				21:leaf=-0.0309966,cover=22.5626
+				22:leaf=0.0652648,cover=6.44865
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8751] yes=23,no=24,missing=24,gain=10.3433,cover=25.1456
+				23:leaf=-0.104864,cover=20.8777
+				24:leaf=0.0554255,cover=4.26788
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=13,no=14,missing=14,gain=2.57377,cover=30.1948
+			13:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<495] yes=25,no=26,missing=26,gain=2.68076,cover=24.6372
+				25:leaf=0.0896998,cover=5.84432
+				26:leaf=0.0154392,cover=18.7929
+			14:leaf=0.109628,cover=5.55758
+booster[12]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=1,no=2,missing=1,gain=77.3638,cover=1242.13
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<776] yes=3,no=4,missing=3,gain=16.8829,cover=1159.57
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=7,no=8,missing=8,gain=1.37886,cover=1022.71
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<664.5] yes=15,no=16,missing=15,gain=0.474978,cover=623.752
+				15:leaf=-0.115185,cover=622.352
+				16:leaf=-0.0285155,cover=1.40042
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.078] yes=17,no=18,missing=18,gain=2.03126,cover=398.956
+				17:leaf=-0.108839,cover=319.756
+				18:leaf=-0.0867717,cover=79.2006
+		4:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=9,no=10,missing=9,gain=4.06545,cover=136.863
+			9:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=19,no=20,missing=19,gain=3.62055,cover=135.002
+				19:leaf=-0.0790001,cover=126.235
+				20:leaf=-0.0111576,cover=8.76634
+			10:leaf=0.053248,cover=1.86154
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=5,no=6,missing=6,gain=14.6524,cover=82.5544
+		5:[\u5730\u533a=\u5e7f\u4e1c\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=5.81334,cover=53.029
+			11:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<3787.5] yes=21,no=22,missing=22,gain=5.21216,cover=41.9126
+				21:leaf=-0.0264302,cover=26.9857
+				22:leaf=-0.100048,cover=14.9269
+			12:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<781.5] yes=23,no=24,missing=23,gain=4.6152,cover=11.1164
+				23:leaf=-0.061593,cover=3.35321
+				24:leaf=0.0651624,cover=7.76314
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=13,no=14,missing=14,gain=2.41772,cover=29.5255
+			13:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<495] yes=25,no=26,missing=26,gain=2.39543,cover=24.3024
+				25:leaf=0.0851507,cover=5.60676
+				26:leaf=0.0140461,cover=18.6956
+			14:leaf=0.106024,cover=5.22307
+booster[13]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=1,no=2,missing=1,gain=72.1828,cover=1157.45
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<380] yes=3,no=4,missing=3,gain=17.6747,cover=1076.59
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=7,no=8,missing=8,gain=1.43733,cover=932.971
+			7:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=0.51189,cover=572.491
+				15:leaf=-0.113159,cover=571.058
+				16:leaf=-0.0272913,cover=1.43313
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=17,no=18,missing=18,gain=2.34233,cover=360.48
+				17:leaf=-0.10534,cover=319.312
+				18:leaf=-0.0752128,cover=41.1681
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=9,no=10,missing=9,gain=3.93852,cover=143.619
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<19.5] yes=19,no=20,missing=19,gain=3.06915,cover=39.8119
+				19:leaf=-0.102788,cover=38.5172
+				20:leaf=0.0330255,cover=1.29466
+			10:[\u5230\u671f\u65e5_day<30.5] yes=21,no=22,missing=21,gain=3.78758,cover=103.807
+				21:leaf=-0.061539,cover=102.018
+				22:leaf=0.0618018,cover=1.78867
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<31] yes=5,no=6,missing=6,gain=12.4558,cover=80.8564
+		5:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2705.5] yes=11,no=12,missing=12,gain=5.09358,cover=51.9743
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<9.5] yes=23,no=24,missing=24,gain=4.93481,cover=28.7562
+				23:leaf=-0.0504239,cover=12.7795
+				24:leaf=0.0301546,cover=15.9767
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8751] yes=25,no=26,missing=26,gain=8.99342,cover=23.2182
+				25:leaf=-0.0975112,cover=18.9094
+				26:leaf=0.0526122,cover=4.30879
+		6:[\u5e74\u9f84<30.5] yes=13,no=14,missing=13,gain=2.44949,cover=28.882
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<8547.5] yes=27,no=28,missing=27,gain=2.60465,cover=23.5278
+				27:leaf=0.0383519,cover=22.3187
+				28:leaf=-0.0770717,cover=1.20907
+			14:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<263.28] yes=29,no=30,missing=29,gain=0.0203629,cover=5.35423
+				29:leaf=0.110857,cover=4.20852
+				30:leaf=0.0330565,cover=1.14571
+booster[14]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=1,no=2,missing=1,gain=67.985,cover=1077.99
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=3,no=4,missing=3,gain=3.42077,cover=896.397
+		3:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<552.5] yes=7,no=8,missing=8,gain=2.32932,cover=864.084
+			7:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0478] yes=15,no=16,missing=16,gain=2.03753,cover=2.81139
+				15:leaf=-0.0725534,cover=1.4706
+				16:leaf=0.0579748,cover=1.34079
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3169] yes=17,no=18,missing=17,gain=1.55755,cover=861.272
+				17:leaf=-0.107158,cover=860.169
+				18:leaf=0.0063226,cover=1.10273
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5888] yes=9,no=10,missing=10,gain=8.10964,cover=32.3139
+			9:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=19,no=20,missing=19,gain=2.25373,cover=29.8683
+				19:leaf=-0.0892086,cover=28.7834
+				20:leaf=0.033502,cover=1.08496
+			10:[\u8d77\u59cb\u65e5_month<6.5] yes=21,no=22,missing=21,gain=0.747573,cover=2.44553
+				21:leaf=0.119653,cover=1.13531
+				22:leaf=0.0124555,cover=1.31023
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=5,no=6,missing=5,gain=26.2597,cover=181.595
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=11,no=12,missing=11,gain=3.99009,cover=131.653
+			11:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<92.7] yes=23,no=24,missing=24,gain=2.92371,cover=34.9369
+				23:leaf=-0.0229391,cover=6.06422
+				24:leaf=-0.103674,cover=28.8727
+			12:[\u884c\u4e1a=\u91d1\u878d\u4e1a<-9.53674e-07] yes=25,no=26,missing=25,gain=3.90868,cover=96.7162
+				25:leaf=-0.0536862,cover=93.6418
+				26:leaf=0.049455,cover=3.07441
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2422] yes=13,no=14,missing=13,gain=6.6837,cover=49.942
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<555.5] yes=27,no=28,missing=28,gain=3.73187,cover=18.9699
+				27:leaf=-0.0285757,cover=2.87363
+				28:leaf=0.0864478,cover=16.0963
+			14:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<676] yes=29,no=30,missing=30,gain=4.7823,cover=30.9721
+				29:leaf=0.0432066,cover=11.5473
+				30:leaf=-0.035258,cover=19.4247
+booster[15]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=1,no=2,missing=1,gain=66.1603,cover=1003.69
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=3,no=4,missing=3,gain=3.63116,cover=827.641
+		3:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<552.5] yes=7,no=8,missing=8,gain=2.24908,cover=796.923
+			7:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0478] yes=15,no=16,missing=16,gain=1.82511,cover=2.79289
+				15:leaf=-0.0702656,cover=1.40271
+				16:leaf=0.0534647,cover=1.39018
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<3169] yes=17,no=18,missing=17,gain=1.48901,cover=794.13
+				17:leaf=-0.105068,cover=793.026
+				18:leaf=0.00598683,cover=1.10413
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5888] yes=9,no=10,missing=10,gain=7.2804,cover=30.7182
+			9:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=19,no=20,missing=19,gain=2.06937,cover=28.1857
+				19:leaf=-0.0857594,cover=27.0764
+				20:leaf=0.0313716,cover=1.10937
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<7] yes=21,no=22,missing=22,gain=0.638172,cover=2.53242
+				21:leaf=0.0124289,cover=1.36935
+				22:leaf=0.110553,cover=1.16307
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=5,no=6,missing=5,gain=22.393,cover=176.048
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=11,no=12,missing=11,gain=3.76148,cover=126.853
+			11:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<92.7] yes=23,no=24,missing=24,gain=2.73975,cover=33.0406
+				23:leaf=-0.0212331,cover=5.98115
+				24:leaf=-0.100041,cover=27.0594
+			12:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=25,no=26,missing=25,gain=3.89857,cover=93.8122
+				25:leaf=-0.0523414,cover=86.4251
+				26:leaf=0.0209577,cover=7.38706
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2422] yes=13,no=14,missing=13,gain=5.69321,cover=49.1954
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<555.5] yes=27,no=28,missing=28,gain=3.27083,cover=18.3477
+				27:leaf=-0.0263269,cover=2.89162
+				28:leaf=0.0815228,cover=15.4561
+			14:[\u8d77\u59cb\u65e5_day<18.5] yes=29,no=30,missing=29,gain=4.12939,cover=30.8477
+				29:leaf=-0.0370344,cover=17.0159
+				30:leaf=0.0342343,cover=13.8318
+booster[16]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<492.5] yes=1,no=2,missing=1,gain=64.3919,cover=934.672
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=2.98017,cover=746.29
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.694688,cover=447.127
+			7:leaf=-0.107951,cover=445.929
+			8:leaf=-0.0159031,cover=1.19762
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.74382,cover=299.163
+			9:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<418.5] yes=15,no=16,missing=16,gain=0.446574,cover=262.978
+				15:leaf=-0.0156843,cover=1.0726
+				16:leaf=-0.0983177,cover=261.906
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1150.5] yes=17,no=18,missing=17,gain=5.05671,cover=36.1847
+				17:leaf=-0.061053,cover=34.9086
+				18:leaf=0.0967584,cover=1.2761
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=5,no=6,missing=5,gain=20.6612,cover=188.383
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=4.23859,cover=138.192
+			11:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<2.5] yes=19,no=20,missing=20,gain=4.83151,cover=129.016
+				19:leaf=-0.0783963,cover=70.5154
+				20:leaf=-0.0383944,cover=58.5007
+			12:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5393] yes=21,no=22,missing=22,gain=7.45771,cover=9.17559
+				21:leaf=0.0700794,cover=6.08384
+				22:leaf=-0.0995698,cover=3.09175
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2422] yes=13,no=14,missing=13,gain=4.91177,cover=50.1911
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1008] yes=23,no=24,missing=24,gain=2.60073,cover=18.9569
+				23:leaf=0.00174311,cover=5.9769
+				24:leaf=0.0808541,cover=12.98
+			14:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<676] yes=25,no=26,missing=26,gain=3.70743,cover=31.2343
+				25:leaf=0.0364195,cover=11.7597
+				26:leaf=-0.0322893,cover=19.4745
+booster[17]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<492.5] yes=1,no=2,missing=1,gain=62.8336,cover=870.779
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=3.23892,cover=688.057
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.684601,cover=410.098
+			7:leaf=-0.106448,cover=408.915
+			8:leaf=-0.0151431,cover=1.18292
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.76772,cover=277.96
+			9:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=0.456207,cover=243.296
+				15:leaf=-0.09667,cover=237.43
+				16:leaf=-0.0513628,cover=5.86663
+			10:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=17,no=18,missing=17,gain=4.56291,cover=34.6634
+				17:leaf=-0.0601377,cover=32.2039
+				18:leaf=0.0636932,cover=2.45949
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<4.5] yes=5,no=6,missing=5,gain=17.9874,cover=182.721
+		5:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=3.64606,cover=125.273
+			11:[\u5e74\u9f84<39.5] yes=19,no=20,missing=19,gain=3.62962,cover=122.807
+				19:leaf=-0.0607675,cover=118.124
+				20:leaf=0.0246293,cover=4.68312
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0002] yes=21,no=22,missing=22,gain=2.02811,cover=2.46655
+				21:leaf=-0.0291327,cover=1.29955
+				22:leaf=0.1122,cover=1.167
+		6:[\u5e74\u9f84<29.5] yes=13,no=14,missing=13,gain=4.77528,cover=57.4475
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10860] yes=23,no=24,missing=23,gain=5.62003,cover=46.0088
+				23:leaf=0.00987011,cover=41.633
+				24:leaf=-0.0986365,cover=4.37579
+			14:[\u5e74\u9f84<42.5] yes=25,no=26,missing=25,gain=2.17332,cover=11.4387
+				25:leaf=0.082596,cover=10.1025
+				26:leaf=-0.0333473,cover=1.33618
+booster[18]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=61.4491,cover=812.104
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=3.41366,cover=632.617
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.675827,cover=375.867
+			7:leaf=-0.105047,cover=374.698
+			8:leaf=-0.014419,cover=1.16904
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=6.03361,cover=256.75
+			9:[\u6027\u522b=\u7537<-9.53674e-07] yes=15,no=16,missing=15,gain=0.543602,cover=223.739
+				15:leaf=-0.0963221,cover=198.602
+				16:leaf=-0.0715273,cover=25.137
+			10:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=17,no=18,missing=17,gain=4.96013,cover=33.0109
+				17:leaf=-0.0564973,cover=30.93
+				18:leaf=0.0790779,cover=2.08092
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<9.5] yes=5,no=6,missing=5,gain=15.6812,cover=179.487
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=11,no=12,missing=11,gain=3.79872,cover=125.552
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=19,no=20,missing=19,gain=1.85355,cover=33.4971
+				19:leaf=-0.0949352,cover=23.6853
+				20:leaf=-0.0376055,cover=9.81177
+			12:[\u884c\u4e1a=\u91d1\u878d\u4e1a<-9.53674e-07] yes=21,no=22,missing=21,gain=3.27024,cover=92.0549
+				21:leaf=-0.0432277,cover=88.9635
+				22:leaf=0.0503275,cover=3.09136
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3544] yes=13,no=14,missing=13,gain=5.68268,cover=53.9346
+			13:[\u5230\u671f\u65e5_day<28.5] yes=23,no=24,missing=23,gain=2.53705,cover=24.2544
+				23:leaf=0.0627673,cover=19.9546
+				24:leaf=-0.0180298,cover=4.29987
+			14:[\u5230\u671f\u65e5_day<17.5] yes=25,no=26,missing=25,gain=4.0545,cover=29.6802
+				25:leaf=-0.0499014,cover=15.4389
+				26:leaf=0.0219135,cover=14.2413
+booster[19]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=59.7873,cover=757.848
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=3.68799,cover=583.169
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.667928,cover=344.301
+			7:leaf=-0.103728,cover=343.145
+			8:leaf=-0.0137292,cover=1.15593
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=6.01904,cover=238.868
+			9:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=0.602307,cover=207.087
+				15:leaf=-0.0927165,cover=201.866
+				16:leaf=-0.0438864,cover=5.22108
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1150.5] yes=17,no=18,missing=17,gain=4.49476,cover=31.7813
+				17:leaf=-0.0516257,cover=30.5047
+				18:leaf=0.096738,cover=1.27652
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<22.5] yes=5,no=6,missing=5,gain=13.4577,cover=174.679
+		5:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=11,no=12,missing=12,gain=5.6031,cover=147.198
+			11:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=19,no=20,missing=19,gain=5.74437,cover=77.6854
+				19:leaf=-0.0674908,cover=71.6769
+				20:leaf=0.0301638,cover=6.00845
+			12:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1704] yes=21,no=22,missing=22,gain=4.24741,cover=69.5126
+				21:leaf=-0.046906,cover=31.3554
+				22:leaf=0.00229026,cover=38.1573
+		6:[\u5e74\u9f84<28.5] yes=13,no=14,missing=13,gain=2.4545,cover=27.4807
+			13:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<471.5] yes=23,no=24,missing=24,gain=4.23423,cover=20.5082
+				23:leaf=0.09007,cover=4.56607
+				24:leaf=-0.0107115,cover=15.9421
+			14:[\u5230\u671f\u65e5_day<4.5] yes=25,no=26,missing=25,gain=0.35568,cover=6.97248
+				25:leaf=0.0237769,cover=1.77415
+				26:leaf=0.0939194,cover=5.19833
+booster[20]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=58.2021,cover=707.781
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=3.97027,cover=537.63
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.660651,cover=315.254
+			7:leaf=-0.102474,cover=314.11
+			8:leaf=-0.0130722,cover=1.14353
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.98548,cover=222.376
+			9:[\u6027\u522b=\u7537<-9.53674e-07] yes=15,no=16,missing=15,gain=0.745054,cover=191.753
+				15:leaf=-0.0923491,cover=169.784
+				16:leaf=-0.0647459,cover=21.9693
+			10:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=17,no=18,missing=17,gain=4.33133,cover=30.623
+				17:leaf=-0.0508437,cover=28.4927
+				18:leaf=0.0750657,cover=2.13029
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<9.5] yes=5,no=6,missing=5,gain=11.8408,cover=170.152
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=11,no=12,missing=11,gain=3.69288,cover=117.436
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=19,no=20,missing=19,gain=1.87535,cover=30.5614
+				19:leaf=-0.0906475,cover=21.2463
+				20:leaf=-0.0321463,cover=9.31506
+			12:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=21,no=22,missing=21,gain=3.34011,cover=86.8748
+				21:leaf=-0.0393341,cover=79.7666
+				22:leaf=0.0291006,cover=7.10811
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2422] yes=13,no=14,missing=13,gain=4.54528,cover=52.7156
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<555.5] yes=23,no=24,missing=24,gain=3.33464,cover=18.8377
+				23:leaf=-0.0240502,cover=4.20028
+				24:leaf=0.0716531,cover=14.6374
+			14:[\u5230\u671f\u65e5_month<3.5] yes=25,no=26,missing=25,gain=3.30921,cover=33.8779
+				25:leaf=0.0217608,cover=16.3911
+				26:leaf=-0.0390949,cover=17.4868
+booster[21]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=56.2594,cover=661.823
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=4.25553,cover=495.862
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.653633,cover=288.575
+			7:leaf=-0.101268,cover=287.443
+			8:leaf=-0.0124464,cover=1.13182
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.92259,cover=207.288
+			9:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<27172.5] yes=15,no=16,missing=15,gain=0.872502,cover=177.697
+				15:leaf=-0.0898317,cover=162.995
+				16:leaf=-0.0560882,cover=14.7015
+			10:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=17,no=18,missing=17,gain=4.19656,cover=29.5911
+				17:leaf=-0.0487195,cover=27.2807
+				18:leaf=0.0721673,cover=2.31042
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=5,no=6,missing=6,gain=10.6644,cover=165.961
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=5.06165,cover=72.1053
+			11:[\u5730\u533a=\u82cf\u5dde\u5206\u90e8<-9.53674e-07] yes=19,no=20,missing=19,gain=3.57589,cover=66.094
+				19:leaf=-0.0675957,cover=62.0864
+				20:leaf=0.0246901,cover=4.00759
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0571] yes=21,no=22,missing=22,gain=4.41015,cover=6.01129
+				21:leaf=-0.0628309,cover=2.31324
+				22:leaf=0.0891721,cover=3.69806
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5544.5] yes=13,no=14,missing=14,gain=6.22582,cover=93.8554
+			13:[\u8d77\u59cb\u65e5_month<7.5] yes=23,no=24,missing=23,gain=3.55583,cover=82.3562
+				23:leaf=-0.00620295,cover=76.1842
+				24:leaf=-0.0799771,cover=6.172
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<9759] yes=25,no=26,missing=25,gain=1.89774,cover=11.4993
+				25:leaf=0.0761412,cover=10.3658
+				26:leaf=-0.0361749,cover=1.13343
+booster[22]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=54.3043,cover=619.908
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=4.55225,cover=457.616
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.646702,cover=264.11
+			7:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=15,no=16,missing=15,gain=0.0212886,cover=262.989
+				15:leaf=-0.100733,cover=257.089
+				16:leaf=-0.061785,cover=5.89989
+			8:leaf=-0.0118504,cover=1.12074
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.85304,cover=193.506
+			9:[\u6027\u522b=\u7537<-9.53674e-07] yes=17,no=18,missing=17,gain=0.954042,cover=164.813
+				17:leaf=-0.088392,cover=145.546
+				18:leaf=-0.057718,cover=19.2664
+			10:[\u6027\u522b=\u5973<-9.53674e-07] yes=19,no=20,missing=19,gain=4.27524,cover=28.6934
+				19:leaf=0.0460297,cover=4.67107
+				20:leaf=-0.0514225,cover=24.0223
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=5,no=6,missing=6,gain=9.20263,cover=162.291
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=4.40002,cover=69.2299
+			11:[\u5730\u533a=\u82cf\u5dde\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=3.17497,cover=63.1195
+				21:leaf=-0.0642057,cover=59.042
+				22:leaf=0.022384,cover=4.07759
+			12:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0571] yes=23,no=24,missing=24,gain=3.69061,cover=6.1103
+				23:leaf=-0.0599175,cover=2.23583
+				24:leaf=0.0790179,cover=3.87447
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2018] yes=13,no=14,missing=14,gain=5.73274,cover=93.0616
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2299] yes=25,no=26,missing=26,gain=5.16115,cover=39.0553
+				25:leaf=0.0091096,cover=17.419
+				26:leaf=-0.0628373,cover=21.6363
+			14:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2204] yes=27,no=28,missing=28,gain=6.35695,cover=54.0063
+				27:leaf=0.108119,cover=5.9106
+				28:leaf=0.00541233,cover=48.0957
+booster[23]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=52.4318,cover=581.848
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=4.84119,cover=422.671
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<18.5] yes=7,no=8,missing=7,gain=0.655698,cover=241.762
+			7:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=15,no=16,missing=15,gain=0.0420323,cover=240.554
+				15:leaf=-0.0996538,cover=234.877
+				16:leaf=-0.0600675,cover=5.677
+			8:leaf=-0.01283,cover=1.20832
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.73358,cover=180.908
+			9:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<27172.5] yes=17,no=18,missing=17,gain=1.05304,cover=153.02
+				17:leaf=-0.0857516,cover=140.047
+				18:leaf=-0.048791,cover=12.9728
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1150.5] yes=19,no=20,missing=19,gain=3.9591,cover=27.8881
+				19:leaf=-0.0415523,cover=26.6229
+				20:leaf=0.0976805,cover=1.26524
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=5,no=6,missing=5,gain=8.46855,cover=159.177
+		5:[\u5e74\u9f84<39.5] yes=11,no=12,missing=11,gain=3.75349,cover=101.391
+			11:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=3.15795,cover=96.6673
+				21:leaf=-0.0456831,cover=94.8618
+				22:leaf=0.0650243,cover=1.80553
+			12:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<32090] yes=23,no=24,missing=23,gain=3.18275,cover=4.72344
+				23:leaf=-0.0182353,cover=3.23504
+				24:leaf=0.127581,cover=1.4884
+		6:[\u5e74\u9f84<29.5] yes=13,no=14,missing=13,gain=5.02418,cover=57.7863
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10860] yes=25,no=26,missing=25,gain=6.03112,cover=47.4461
+				25:leaf=0.00824324,cover=42.2479
+				26:leaf=-0.097254,cover=5.19819
+			14:[\u5e74\u9f84<42.5] yes=27,no=28,missing=27,gain=1.67463,cover=10.3402
+				27:leaf=0.0821932,cover=9.21616
+				28:leaf=-0.0273758,cover=1.12409
+booster[24]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=50.2532,cover=546.386
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=5.12105,cover=390.632
+		3:[\u5730\u533a=\u8fbd\u5b81\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=0.715686,cover=221.332
+			7:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=15,no=16,missing=15,gain=0.107972,cover=220.298
+				15:leaf=-0.0985585,cover=215.005
+				16:leaf=-0.0569137,cover=5.29324
+			8:leaf=-0.00705181,cover=1.03421
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.60155,cover=169.299
+			9:[\u6027\u522b=\u7537<-9.53674e-07] yes=17,no=18,missing=17,gain=1.15312,cover=142.237
+				17:leaf=-0.0843533,cover=125.226
+				18:leaf=-0.0505625,cover=17.0111
+			10:[\u5e74\u9f84<23.5] yes=19,no=20,missing=19,gain=3.99074,cover=27.0621
+				19:leaf=-0.074529,cover=10.5966
+				20:leaf=0.00194026,cover=16.4655
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=5,no=6,missing=6,gain=7.34281,cover=155.754
+		5:[\u884c\u4e1a=\u91d1\u878d\u4e1a<-9.53674e-07] yes=11,no=12,missing=11,gain=4.41414,cover=64.6982
+			11:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=21,no=22,missing=21,gain=3.70217,cover=61.6585
+				21:leaf=-0.0587159,cover=56.1763
+				22:leaf=0.0237497,cover=5.48223
+			12:[\u8d77\u59cb\u65e5_day<20] yes=23,no=24,missing=23,gain=2.44683,cover=3.03972
+				23:leaf=-0.0277458,cover=1.46581
+				24:leaf=0.119415,cover=1.57391
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5544.5] yes=13,no=14,missing=14,gain=4.79392,cover=91.0562
+			13:[\u8d77\u59cb\u65e5_month<7.5] yes=25,no=26,missing=25,gain=3.17763,cover=80.1769
+				25:leaf=-0.00386565,cover=74.3579
+				26:leaf=-0.0752597,cover=5.81905
+			14:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.021] yes=27,no=28,missing=28,gain=1.74613,cover=10.8793
+				27:leaf=-0.0265761,cover=1.56397
+				28:leaf=0.0735214,cover=9.31531
+booster[25]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<403] yes=1,no=2,missing=1,gain=48.0364,cover=514.386
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=3,no=4,missing=4,gain=5.38387,cover=361.5
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<18.5] yes=7,no=8,missing=7,gain=0.721695,cover=202.656
+			7:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=15,no=16,missing=16,gain=0.189322,cover=201.555
+				15:leaf=-0.10218,cover=122.855
+				16:leaf=-0.0869833,cover=78.6999
+			8:leaf=-0.00779785,cover=1.10117
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=9,no=10,missing=10,gain=5.39028,cover=158.844
+			9:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<27172.5] yes=17,no=18,missing=17,gain=1.21896,cover=132.391
+				17:leaf=-0.0815497,cover=120.854
+				18:leaf=-0.0414388,cover=11.5372
+			10:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=19,no=20,missing=19,gain=3.9041,cover=26.4532
+				19:leaf=-0.039948,cover=24.2388
+				20:leaf=0.0781616,cover=2.21439
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=5,no=6,missing=5,gain=6.69368,cover=152.886
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0403] yes=11,no=12,missing=11,gain=4.81572,cover=79.1491
+			11:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=2.22096,cover=17.4135
+				21:leaf=-0.0924038,cover=16.2918
+				22:leaf=0.0309929,cover=1.12171
+			12:[\u5e74\u9f84<39.5] yes=23,no=24,missing=23,gain=4.33155,cover=61.7356
+				23:leaf=-0.0307844,cover=58.524
+				24:leaf=0.0748512,cover=3.2116
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<11512] yes=13,no=14,missing=13,gain=5.4589,cover=73.737
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1777.5] yes=25,no=26,missing=25,gain=4.56393,cover=65.4304
+				25:leaf=0.00284237,cover=56.8398
+				26:leaf=0.0774758,cover=8.59063
+			14:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<663] yes=27,no=28,missing=28,gain=2.67903,cover=8.30654
+				27:leaf=0.0433602,cover=1.21214
+				28:leaf=-0.0901784,cover=7.0944
+booster[26]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=46.0906,cover=484.951
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=3,no=4,missing=3,gain=8.84743,cover=196.339
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<13347.5] yes=7,no=8,missing=7,gain=7.25424,cover=108.866
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=15,no=16,missing=15,gain=4.48162,cover=52.8641
+				15:leaf=-0.0410628,cover=30.6584
+				16:leaf=0.0169685,cover=22.2057
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2108] yes=17,no=18,missing=17,gain=2.7209,cover=56.0024
+				17:leaf=-0.0727759,cover=54.1922
+				18:leaf=0.0363494,cover=1.81021
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10633] yes=9,no=10,missing=9,gain=5.46281,cover=87.4726
+			9:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=19,no=20,missing=20,gain=6.43208,cover=70.6857
+				19:leaf=-0.0557795,cover=11.0753
+				20:leaf=0.0242199,cover=59.6104
+			10:[\u5e74\u9f84<30.5] yes=21,no=22,missing=21,gain=4.1032,cover=16.7869
+				21:leaf=-0.0729391,cover=13.8393
+				22:leaf=0.0451452,cover=2.94757
+	2:[\u6027\u522b=\u7537<-9.53674e-07] yes=5,no=6,missing=5,gain=2.65111,cover=288.612
+		5:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=2.78966,cover=256.196
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=23,no=24,missing=23,gain=0.960124,cover=250.003
+				23:leaf=-0.0954495,cover=228.819
+				24:leaf=-0.0654166,cover=21.1846
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-1.5] yes=25,no=26,missing=26,gain=2.22317,cover=6.19303
+				25:leaf=-0.0761833,cover=2.72283
+				26:leaf=0.0293582,cover=3.47021
+		6:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=13,no=14,missing=13,gain=3.97592,cover=32.4158
+			13:[\u5230\u671f\u65e5_day<4.5] yes=27,no=28,missing=27,gain=0.128227,cover=17.6634
+				27:leaf=-0.0327909,cover=1.85184
+				28:leaf=-0.092467,cover=15.8115
+			14:[\u8d77\u59cb\u65e5_day<17.5] yes=29,no=30,missing=29,gain=5.53007,cover=14.7525
+				29:leaf=0.0430818,cover=7.11565
+				30:leaf=-0.0721781,cover=7.6368
+booster[27]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=44.105,cover=458.449
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=3,no=4,missing=3,gain=7.55615,cover=191.817
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<13347.5] yes=7,no=8,missing=7,gain=6.52555,cover=105.157
+			7:[\u5e74\u9f84<33.5] yes=15,no=16,missing=15,gain=4.08068,cover=52.0913
+				15:leaf=-0.0238876,cover=48.1611
+				16:leaf=0.0718158,cover=3.93028
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2108] yes=17,no=18,missing=17,gain=2.45722,cover=53.0661
+				17:leaf=-0.0696029,cover=51.1996
+				18:leaf=0.033304,cover=1.86655
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10633] yes=9,no=10,missing=9,gain=4.59529,cover=86.6595
+			9:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=19,no=20,missing=20,gain=5.40658,cover=70.4684
+				19:leaf=-0.0527618,cover=10.6193
+				20:leaf=0.0217474,cover=59.8492
+			10:[\u5e74\u9f84<30.5] yes=21,no=22,missing=21,gain=3.60263,cover=16.1911
+				21:leaf=-0.0694222,cover=13.1722
+				22:leaf=0.0409935,cover=3.01884
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=5,no=6,missing=6,gain=2.94815,cover=266.632
+		5:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=11,no=12,missing=11,gain=0.357725,cover=162.226
+			11:leaf=-0.096261,cover=157.964
+			12:[\u5230\u671f\u65e5_day<30.5] yes=23,no=24,missing=23,gain=0.677265,cover=4.26196
+				23:leaf=0.00086006,cover=1.89376
+				24:leaf=-0.0734386,cover=2.3682
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0918] yes=13,no=14,missing=14,gain=3.71867,cover=104.406
+			13:[\u6027\u522b=\u7537<-9.53674e-07] yes=25,no=26,missing=25,gain=1.53038,cover=79.1615
+				25:leaf=-0.087335,cover=69.5835
+				26:leaf=-0.0384971,cover=9.578
+			14:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<12094] yes=27,no=28,missing=27,gain=6.78399,cover=25.2442
+				27:leaf=-0.079683,cover=14.0795
+				28:leaf=0.021602,cover=11.1647
+booster[28]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=42.1313,cover=434.282
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=3,no=4,missing=3,gain=6.40026,cover=187.771
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<13347.5] yes=7,no=8,missing=7,gain=5.89304,cover=101.869
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=15,no=16,missing=15,gain=3.82875,cover=51.4896
+				15:leaf=-0.0372545,cover=29.2498
+				16:leaf=0.0168551,cover=22.2398
+			8:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=17,no=18,missing=17,gain=2.64955,cover=50.3792
+				17:leaf=-0.0739157,cover=39.7124
+				18:leaf=-0.0161167,cover=10.6668
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2204.5] yes=9,no=10,missing=10,gain=4.4671,cover=85.9019
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=19,no=20,missing=20,gain=6.93639,cover=9.90385
+				19:leaf=-0.0758137,cover=2.16958
+				20:leaf=0.100771,cover=7.73428
+			10:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=21,no=22,missing=22,gain=4.19807,cover=75.9981
+				21:leaf=-0.0151407,cover=72.773
+				22:leaf=0.0874675,cover=3.22506
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=5,no=6,missing=6,gain=3.11502,cover=246.511
+		5:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=11,no=12,missing=11,gain=0.380813,cover=148.553
+			11:[\u884c\u4e1a=\u4f20\u7edf\u5236\u9020\u4e1a<-9.53674e-07] yes=23,no=24,missing=23,gain=0.0829132,cover=144.444
+				23:leaf=-0.0963163,cover=138.999
+				24:leaf=-0.0563704,cover=5.44525
+			12:[\u5230\u671f\u65e5_day<30.5] yes=25,no=26,missing=25,gain=0.634525,cover=4.10909
+				25:leaf=0.000803342,cover=1.89526
+				26:leaf=-0.0717327,cover=2.21383
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0918] yes=13,no=14,missing=14,gain=3.6184,cover=97.9582
+			13:[\u6027\u522b=\u7537<-9.53674e-07] yes=27,no=28,missing=27,gain=1.52942,cover=73.4665
+				27:leaf=-0.0855685,cover=64.216
+				28:leaf=-0.0361917,cover=9.25053
+			14:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<12094] yes=29,no=30,missing=29,gain=6.05423,cover=24.4918
+				29:leaf=-0.0773915,cover=13.1259
+				30:leaf=0.0192828,cover=11.3658
+booster[29]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=40.075,cover=412.175
+	1:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=3,no=4,missing=3,gain=5.59752,cover=183.943
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4211] yes=7,no=8,missing=8,gain=5.21586,cover=161.917
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3597] yes=15,no=16,missing=16,gain=6.69817,cover=72.4694
+				15:leaf=-0.0176715,cover=63.6884
+				16:leaf=0.0711423,cover=8.781
+			8:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=4.59297,cover=89.4478
+				17:leaf=-0.0462546,cover=86.9927
+				18:leaf=0.0735165,cover=2.45504
+		4:[\u5e74\u9f84<21.5] yes=9,no=10,missing=9,gain=2.8992,cover=22.0254
+			9:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<4816] yes=19,no=20,missing=19,gain=5.82517,cover=8.38481
+				19:leaf=-0.0698881,cover=5.9027
+				20:leaf=0.0891681,cover=2.48211
+			10:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<7457.5] yes=21,no=22,missing=21,gain=3.52985,cover=13.6406
+				21:leaf=0.0812387,cover=10.216
+				22:leaf=-0.0281968,cover=3.42461
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=5,no=6,missing=6,gain=3.27129,cover=228.232
+		5:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=11,no=12,missing=11,gain=0.400922,cover=136.153
+			11:[\u5730\u533a=\u798f\u5efa\u5206\u90e8<-9.53674e-07] yes=23,no=24,missing=23,gain=0.152261,cover=132.184
+				23:leaf=-0.0953404,cover=127.124
+				24:leaf=-0.0531151,cover=5.06066
+			12:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=25,no=26,missing=26,gain=0.659654,cover=3.96861
+				25:leaf=-0.0708143,cover=2.13094
+				26:leaf=0.0030724,cover=1.83767
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.8377] yes=13,no=14,missing=14,gain=3.50538,cover=92.0792
+			13:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<17704] yes=27,no=28,missing=27,gain=2.62891,cover=75.8726
+				27:leaf=-0.0863695,cover=56.401
+				28:leaf=-0.0404062,cover=19.4716
+			14:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=29,no=30,missing=29,gain=4.40508,cover=16.2066
+				29:leaf=-0.0400871,cover=14.8652
+				30:leaf=0.107633,cover=1.34139
+booster[30]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=38.0436,cover=391.984
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=3,no=4,missing=3,gain=5.40498,cover=180.471
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<13347.5] yes=7,no=8,missing=7,gain=4.94096,cover=96.8849
+			7:[\u5e74\u9f84<33.5] yes=13,no=14,missing=13,gain=3.33529,cover=50.5681
+				13:leaf=-0.0200317,cover=46.4763
+				14:leaf=0.0653121,cover=4.09177
+			8:[\u5386\u53f2\u903e\u671f\u6b21\u6570<1.5] yes=15,no=16,missing=16,gain=2.87315,cover=46.3169
+				15:leaf=-0.0815231,cover=23.4039
+				16:leaf=-0.030097,cover=22.913
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.1395] yes=9,no=10,missing=9,gain=3.78122,cover=83.5856
+			9:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10633] yes=17,no=18,missing=17,gain=4.11027,cover=77.1481
+				17:leaf=0.00551576,cover=62.5108
+				18:leaf=-0.0517415,cover=14.6373
+			10:[\u8d77\u59cb\u65e5_day<20.5] yes=19,no=20,missing=19,gain=3.92725,cover=6.43746
+				19:leaf=0.118442,cover=4.11405
+				20:leaf=-0.0284067,cover=2.32341
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=3.50399,cover=211.513
+		5:leaf=-0.0989263,cover=75.3208
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=11,no=12,missing=11,gain=5.84547,cover=136.193
+			11:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=4.14965,cover=119.919
+				21:leaf=-0.0807754,cover=116.119
+				22:leaf=0.0206512,cover=3.80058
+			12:[\u8d77\u59cb\u65e5_day<17.5] yes=23,no=24,missing=23,gain=5.08139,cover=16.2731
+				23:leaf=0.0424212,cover=7.86119
+				24:leaf=-0.0632516,cover=8.41195
+booster[31]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=35.7921,cover=373.787
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=3,no=4,missing=4,gain=5.13094,cover=177.495
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5347] yes=7,no=8,missing=8,gain=4.92019,cover=81.1679
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3568] yes=13,no=14,missing=14,gain=4.40132,cover=47.128
+				13:leaf=-0.0337802,cover=32.4424
+				14:leaf=0.0305534,cover=14.6856
+			8:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=15,no=16,missing=15,gain=3.18771,cover=34.0399
+				15:leaf=-0.073822,cover=30.3373
+				16:leaf=0.0197236,cover=3.70261
+		4:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1243.5] yes=9,no=10,missing=9,gain=4.88244,cover=96.3268
+			9:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<142.475] yes=17,no=18,missing=17,gain=3.98785,cover=71.9278
+				17:leaf=-0.00826756,cover=68.886
+				18:leaf=-0.110679,cover=3.04186
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<163.625] yes=19,no=20,missing=20,gain=5.02301,cover=24.399
+				19:leaf=0.126192,cover=4.06008
+				20:leaf=0.0139414,cover=20.3389
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=3.70697,cover=196.292
+		5:leaf=-0.0982743,cover=68.5889
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=11,no=12,missing=11,gain=5.52375,cover=127.703
+			11:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=21,no=22,missing=21,gain=3.86584,cover=111.586
+				21:leaf=-0.0787078,cover=107.715
+				22:leaf=0.018724,cover=3.87159
+			12:[\u8d77\u59cb\u65e5_day<17.5] yes=23,no=24,missing=23,gain=4.33975,cover=16.1169
+				23:leaf=0.0372877,cover=8.16934
+				24:leaf=-0.0607533,cover=7.94758
+booster[32]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=33.5103,cover=357.322
+	1:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=3,no=4,missing=3,gain=4.50873,cover=174.873
+		3:[\u6027\u522b=\u7537<-9.53674e-07] yes=7,no=8,missing=7,gain=3.38031,cover=120.869
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<899.5] yes=15,no=16,missing=15,gain=4.19333,cover=106.703
+				15:leaf=-0.0574637,cover=39.5064
+				16:leaf=-0.0163546,cover=67.1971
+			8:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<10850] yes=17,no=18,missing=17,gain=4.96276,cover=14.1657
+				17:leaf=0.0906971,cover=4.94271
+				18:leaf=-0.0246077,cover=9.22296
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2422] yes=9,no=10,missing=10,gain=2.96901,cover=54.0034
+			9:[\u5230\u671f\u65e5_day<21.5] yes=19,no=20,missing=19,gain=3.71826,cover=8.44847
+				19:leaf=0.10284,cover=5.46145
+				20:leaf=-0.0251752,cover=2.98702
+			10:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=21,no=22,missing=21,gain=2.94196,cover=45.5549
+				21:leaf=-0.00913262,cover=42.7671
+				22:leaf=0.0827374,cover=2.7878
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=3.89684,cover=182.45
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.0122668,cover=62.4672
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<11676] yes=23,no=24,missing=23,gain=0.265257,cover=2.60559
+				23:leaf=-0.00122272,cover=1.00113
+				24:leaf=-0.0630426,cover=1.60446
+			12:leaf=-0.0990548,cover=59.8616
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=5.19304,cover=119.982
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=25,no=26,missing=25,gain=3.59449,cover=104.01
+				25:leaf=-0.0765719,cover=100.073
+				26:leaf=0.0169953,cover=3.93697
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5088.5] yes=27,no=28,missing=28,gain=4.21563,cover=15.9728
+				27:leaf=0.0314478,cover=9.31625
+				28:leaf=-0.0666235,cover=6.6566
+booster[33]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=31.27,cover=341.965
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1834] yes=3,no=4,missing=3,gain=4.099,cover=172.018
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4408] yes=7,no=8,missing=7,gain=3.70338,cover=95.6858
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3486] yes=15,no=16,missing=15,gain=4.7803,cover=52.2618
+				15:leaf=-0.0248477,cover=41.4181
+				16:leaf=0.047071,cover=10.8437
+			8:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<35.5] yes=17,no=18,missing=17,gain=3.00771,cover=43.424
+				17:leaf=-0.0535844,cover=42.3513
+				18:leaf=0.0744143,cover=1.07263
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1987] yes=9,no=10,missing=10,gain=4.54612,cover=76.3321
+			9:[\u5230\u671f\u65e5_day<23] yes=19,no=20,missing=19,gain=2.91996,cover=3.6891
+				19:leaf=0.141184,cover=2.68285
+				20:leaf=-0.0281734,cover=1.00624
+			10:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<2.5] yes=21,no=22,missing=22,gain=3.49346,cover=72.643
+				21:leaf=-0.0371994,cover=20.0645
+				22:leaf=0.0108731,cover=52.5785
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.07653,cover=169.947
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.0343377,cover=56.9651
+			11:[\u8d37\u6b3e\u671f\u6570\uff08\u6708\uff09<10.5] yes=23,no=24,missing=23,gain=0.238349,cover=2.5106
+				23:leaf=-0.00186936,cover=1.01473
+				24:leaf=-0.0612745,cover=1.49588
+			12:leaf=-0.0985107,cover=54.4545
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=4.85184,cover=112.982
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=25,no=26,missing=25,gain=3.3346,cover=97.1238
+				25:leaf=-0.0743673,cover=93.1266
+				26:leaf=0.0154415,cover=3.99716
+			14:[\u8d77\u59cb\u65e5_day<17.5] yes=27,no=28,missing=27,gain=3.69092,cover=15.8583
+				27:leaf=0.0334858,cover=8.40936
+				28:leaf=-0.0576914,cover=7.44893
+booster[34]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=29.036,cover=328.089
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1142.5] yes=3,no=4,missing=3,gain=3.80437,cover=169.52
+		3:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<8408.5] yes=7,no=8,missing=7,gain=5.17953,cover=62.8739
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28.5] yes=15,no=16,missing=16,gain=3.97254,cover=36.9541
+				15:leaf=0.00688191,cover=31.5856
+				16:leaf=-0.0795299,cover=5.36851
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<926.5] yes=17,no=18,missing=17,gain=7.27847,cover=25.9198
+				17:leaf=-0.096197,cover=18.9403
+				18:leaf=0.0199659,cover=6.97952
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1309.5] yes=9,no=10,missing=10,gain=4.31194,cover=106.646
+			9:[\u5230\u671f\u65e5_day<18] yes=19,no=20,missing=19,gain=2.16384,cover=3.93765
+				19:leaf=0.00185016,cover=1.80162
+				20:leaf=0.14041,cover=2.13603
+			10:[\u5e74\u9f84<18.5] yes=21,no=22,missing=21,gain=3.22096,cover=102.708
+				21:leaf=0.0790116,cover=3.34008
+				22:leaf=-0.00901882,cover=99.368
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.23876,cover=158.57
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.0549083,cover=51.9652
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<7676.5] yes=23,no=24,missing=23,gain=0.232184,cover=2.42355
+				23:leaf=-0.00133544,cover=1.00429
+				24:leaf=-0.0599074,cover=1.41926
+			12:leaf=-0.0979585,cover=49.5417
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=4.515,cover=106.604
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=25,no=26,missing=25,gain=3.0855,cover=90.8687
+				25:leaf=-0.0720951,cover=86.8162
+				26:leaf=0.0140422,cover=4.05254
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5088.5] yes=27,no=28,missing=28,gain=3.62992,cover=15.7356
+				27:leaf=0.0284949,cover=9.53087
+				28:leaf=-0.0637282,cover=6.20475
+booster[35]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=26.8466,cover=315.958
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=3,no=4,missing=4,gain=3.63741,cover=167.707
+		3:[\u884c\u4e1a=\u5efa\u7b51\u4e1a<-9.53674e-07] yes=7,no=8,missing=7,gain=3.89024,cover=59.3039
+			7:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=15,no=16,missing=15,gain=3.86372,cover=57.7956
+				15:leaf=-0.0446211,cover=52.0088
+				16:leaf=0.0368248,cover=5.7868
+			8:leaf=0.0927453,cover=1.50827
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<499.5] yes=9,no=10,missing=10,gain=3.70451,cover=108.403
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<834] yes=17,no=18,missing=17,gain=7.62684,cover=29.2959
+				17:leaf=-0.00460477,cover=20.7481
+				18:leaf=0.103189,cover=8.54784
+			10:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<5180] yes=19,no=20,missing=19,gain=5.06901,cover=79.1076
+				19:leaf=0.142327,cover=1.08757
+				20:leaf=-0.0157598,cover=78.02
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=5,no=6,missing=6,gain=4.38648,cover=148.251
+		5:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=11,no=12,missing=11,gain=0.859523,cover=83.4357
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<9.53674e-07] yes=21,no=22,missing=22,gain=0.736903,cover=80.7754
+				21:leaf=-0.0901041,cover=75.2467
+				22:leaf=-0.0403503,cover=5.52874
+			12:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3526.5] yes=23,no=24,missing=24,gain=0.930402,cover=2.66025
+				23:leaf=0.0309836,cover=1.2632
+				24:leaf=-0.0599267,cover=1.39706
+		6:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<12127.5] yes=13,no=14,missing=13,gain=4.55095,cover=64.8153
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=25,no=26,missing=25,gain=1.43154,cover=35.3682
+				25:leaf=-0.0770909,cover=33.787
+				26:leaf=0.0129379,cover=1.58125
+			14:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0918] yes=27,no=28,missing=28,gain=7.37025,cover=29.4471
+				27:leaf=-0.0514561,cover=20.5063
+				28:leaf=0.0529134,cover=8.94075
+booster[36]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=24.8074,cover=304.487
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<15346.5] yes=3,no=4,missing=3,gain=3.3296,cover=165.662
+		3:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1504.5] yes=7,no=8,missing=7,gain=4.87243,cover=156.072
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1834] yes=15,no=16,missing=15,gain=3.3087,cover=153.23
+				15:leaf=-0.0221643,cover=86.5051
+				16:leaf=0.00731357,cover=66.7254
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1571] yes=17,no=18,missing=18,gain=0.990028,cover=2.84164
+				17:leaf=0.0135576,cover=1.14412
+				18:leaf=0.138333,cover=1.69752
+		4:[\u5e74\u9f84<29.5] yes=9,no=10,missing=9,gain=1.23551,cover=9.58969
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<2200] yes=19,no=20,missing=19,gain=0.606848,cover=7.03781
+				19:leaf=-0.0944839,cover=6.01186
+				20:leaf=-0.0059117,cover=1.02596
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<11.5] yes=21,no=22,missing=22,gain=2.21267,cover=2.55188
+				21:leaf=-0.0647024,cover=1.52576
+				22:leaf=0.0756076,cover=1.02612
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.58205,cover=138.825
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.139696,cover=43.6805
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<12500] yes=23,no=24,missing=23,gain=0.188224,cover=2.15685
+				23:leaf=-0.00104554,cover=1.00044
+				24:leaf=-0.0546023,cover=1.15641
+			12:leaf=-0.096889,cover=41.5236
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=4.44817,cover=95.1444
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=25,no=26,missing=25,gain=2.69033,cover=80.3709
+				25:leaf=-0.0676317,cover=76.2717
+				26:leaf=0.0127114,cover=4.09917
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3577.5] yes=27,no=28,missing=28,gain=3.40342,cover=14.7735
+				27:leaf=0.048565,cover=6.20977
+				28:leaf=-0.042441,cover=8.56374
+booster[37]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=22.6778,cover=294.301
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4211] yes=3,no=4,missing=3,gain=3.12459,cover=164.011
+		3:[\u5e74\u9f84<33.5] yes=7,no=8,missing=7,gain=3.53501,cover=81.8914
+			7:[\u5e74\u9f84<26.5] yes=15,no=16,missing=15,gain=3.33155,cover=71.828
+				15:leaf=0.00896156,cover=53.6806
+				16:leaf=-0.0395168,cover=18.1474
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3522] yes=17,no=18,missing=18,gain=6.20454,cover=10.0634
+				17:leaf=0.00306266,cover=7.32146
+				18:leaf=0.161784,cover=2.74197
+		4:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1218] yes=9,no=10,missing=9,gain=3.87457,cover=82.1195
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<926.5] yes=19,no=20,missing=19,gain=5.51267,cover=24.9356
+				19:leaf=-0.083502,cover=17.8602
+				20:leaf=0.0178279,cover=7.0754
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<84.52] yes=21,no=22,missing=22,gain=3.54752,cover=57.1839
+				21:leaf=0.071858,cover=4.06589
+				22:leaf=-0.0157387,cover=53.118
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.68271,cover=130.29
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=0.162733,cover=39.8975
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=23,no=24,missing=23,gain=0.0405601,cover=37.7978
+				23:leaf=-0.0986893,cover=35.2767
+				24:leaf=-0.0444333,cover=2.52107
+			12:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<12900] yes=25,no=26,missing=25,gain=0.179363,cover=2.09974
+				25:leaf=-0.000822965,cover=1.00151
+				26:leaf=-0.0531011,cover=1.09823
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=4.07314,cover=90.3927
+			13:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=27,no=28,missing=27,gain=2.46487,cover=75.6606
+				27:leaf=-0.0651786,cover=71.5151
+				28:leaf=0.0115785,cover=4.14553
+			14:[\u8d77\u59cb\u65e5_day<17.5] yes=29,no=30,missing=29,gain=3.26276,cover=14.7321
+				29:leaf=0.0370543,cover=8.17183
+				30:leaf=-0.0516892,cover=6.56028
+booster[38]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=20.6738,cover=285.092
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<15346.5] yes=3,no=4,missing=3,gain=2.96632,cover=162.49
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1243.5] yes=7,no=8,missing=7,gain=4.06411,cover=153.54
+			7:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<142.475] yes=15,no=16,missing=15,gain=4.59584,cover=126.488
+				15:leaf=-0.00800995,cover=120.601
+				16:leaf=-0.0921281,cover=5.88651
+			8:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<176.625] yes=17,no=18,missing=18,gain=4.42365,cover=27.0518
+				17:leaf=0.0991486,cover=5.87807
+				18:leaf=0.00648826,cover=21.1738
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=9,no=10,missing=10,gain=1.24369,cover=8.94996
+			9:leaf=-0.0893719,cover=5.16789
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=1.93745,cover=3.78208
+				19:leaf=-0.0546916,cover=2.6581
+				20:leaf=0.0657913,cover=1.12397
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.75993,cover=122.603
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.223073,cover=36.5084
+			11:leaf=-0.0327079,cover=1.92302
+			12:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=21,no=22,missing=21,gain=0.0717636,cover=34.5854
+				21:leaf=-0.0982775,cover=32.1773
+				22:leaf=-0.0424727,cover=2.40813
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=3.69504,cover=86.0941
+			13:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=23,no=24,missing=23,gain=2.50398,cover=71.3877
+				23:leaf=-0.063596,cover=65.9551
+				24:leaf=0.00595832,cover=5.43254
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5088.5] yes=25,no=26,missing=26,gain=3.02692,cover=14.7064
+				25:leaf=0.0303247,cover=9.38047
+				26:leaf=-0.057443,cover=5.32597
+booster[39]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=18.6873,cover=276.855
+	1:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.1395] yes=3,no=4,missing=3,gain=2.79894,cover=161.214
+		3:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=7,no=8,missing=8,gain=3.90202,cover=147.731
+			7:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=15,no=16,missing=15,gain=4.25829,cover=97.5032
+				15:leaf=-0.0304453,cover=87.7539
+				16:leaf=0.0366216,cover=9.74924
+			8:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=17,no=18,missing=17,gain=4.94775,cover=50.2276
+				17:leaf=0.0899867,cover=5.81551
+				18:leaf=-0.00148917,cover=44.4121
+		4:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<230] yes=9,no=10,missing=9,gain=6.81075,cover=13.4827
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<6.5] yes=19,no=20,missing=20,gain=1.7707,cover=7.65199
+				19:leaf=-0.0672958,cover=3.92339
+				20:leaf=0.0199939,cover=3.72861
+			10:[\u5386\u53f2\u903e\u671f\u6b21\u6570<4.5] yes=21,no=22,missing=22,gain=4.13005,cover=5.83073
+				21:leaf=0.141495,cover=4.79985
+				22:leaf=-0.0432529,cover=1.03087
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.808,cover=115.642
+		5:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=11,no=12,missing=11,gain=0.270685,cover=33.4115
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=23,no=24,missing=23,gain=0.115866,cover=31.5902
+				23:leaf=-0.0978932,cover=29.3247
+				24:leaf=-0.0398556,cover=2.26549
+			12:leaf=-0.029929,cover=1.82133
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=3.32705,cover=82.2301
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<426.5] yes=25,no=26,missing=25,gain=2.66285,cover=67.5332
+				25:leaf=-0.0696098,cover=45.1038
+				26:leaf=-0.0258968,cover=22.4294
+			14:[\u8d77\u59cb\u65e5_day<17.5] yes=27,no=28,missing=27,gain=2.72369,cover=14.697
+				27:leaf=0.0324815,cover=8.45944
+				28:leaf=-0.0490337,cover=6.23753
+booster[40]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=16.9025,cover=269.341
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4211] yes=3,no=4,missing=3,gain=2.8062,cover=159.993
+		3:[\u5e74\u9f84<33.5] yes=7,no=8,missing=7,gain=3.05764,cover=80.5736
+			7:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201] yes=15,no=16,missing=16,gain=3.10238,cover=70.669
+				15:leaf=-0.0878433,cover=2.93403
+				16:leaf=0.00346907,cover=67.735
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3522] yes=17,no=18,missing=18,gain=5.08298,cover=9.90463
+				17:leaf=0.00519012,cover=7.15276
+				18:leaf=0.149675,cover=2.75187
+		4:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1218] yes=9,no=10,missing=9,gain=3.21491,cover=79.4198
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<926.5] yes=19,no=20,missing=19,gain=5.19469,cover=22.9781
+				19:leaf=-0.0807894,cover=16.0374
+				20:leaf=0.0194655,cover=6.94074
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<84.52] yes=21,no=22,missing=22,gain=2.80153,cover=56.4417
+				21:leaf=0.0629752,cover=4.22397
+				22:leaf=-0.0138341,cover=52.2177
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.8224,cover=109.348
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=0.314069,cover=30.599
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=23,no=24,missing=23,gain=0.120494,cover=28.8836
+				23:leaf=-0.097461,cover=26.6512
+				24:leaf=-0.039177,cover=2.23232
+			12:leaf=-0.0271085,cover=1.71543
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=2.99015,cover=78.7488
+			13:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0764] yes=25,no=26,missing=26,gain=2.76396,cover=64.0767
+				25:leaf=-0.0657513,cover=46.4054
+				26:leaf=-0.0181005,cover=17.6713
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5088.5] yes=27,no=28,missing=28,gain=2.56378,cover=14.6721
+				27:leaf=0.0267979,cover=9.63946
+				28:leaf=-0.0548206,cover=5.03265
+booster[41]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=15.1819,cover=262.367
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<15346.5] yes=3,no=4,missing=3,gain=2.66336,cover=158.74
+		3:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1504.5] yes=7,no=8,missing=7,gain=3.35034,cover=150.401
+			7:[\u8d77\u59cb\u65e5_month<7.5] yes=15,no=16,missing=15,gain=2.59688,cover=147.34
+				15:leaf=-0.00195946,cover=138.084
+				16:leaf=-0.0541326,cover=9.25588
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1571] yes=17,no=18,missing=18,gain=0.933736,cover=3.06077
+				17:leaf=0.0059326,cover=1.1728
+				18:leaf=0.117165,cover=1.88797
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=9,no=10,missing=10,gain=1.23526,cover=8.3393
+			9:leaf=-0.0874675,cover=4.6925
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=1.74251,cover=3.6468
+				19:leaf=-0.0516217,cover=2.50536
+				20:leaf=0.0631306,cover=1.14144
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.80649,cover=103.627
+		5:[\u5230\u671f\u65e5_day<1.5] yes=11,no=12,missing=11,gain=0.379619,cover=28.0457
+			11:leaf=-0.0230114,cover=1.56929
+			12:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=21,no=22,missing=21,gain=0.147619,cover=26.4764
+				21:leaf=-0.0970147,cover=24.3334
+				22:leaf=-0.0373568,cover=2.14298
+		6:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<27172.5] yes=13,no=14,missing=13,gain=2.87738,cover=75.5816
+			13:[\u5730\u533a=\u798f\u5efa\u5206\u90e8<-9.53674e-07] yes=23,no=24,missing=23,gain=3.20358,cover=69.4676
+				23:leaf=-0.0519976,cover=66.2659
+				24:leaf=0.0410387,cover=3.20178
+			14:[\u5230\u671f\u65e5_day<25.5] yes=25,no=26,missing=25,gain=5.63681,cover=6.11392
+				25:leaf=-0.0444469,cover=4.16059
+				26:leaf=0.129405,cover=1.95332
+booster[42]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=1,no=2,missing=2,gain=13.5754,cover=256.291
+	1:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=3,no=4,missing=3,gain=6.67606,cover=110.604
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-3.5] yes=7,no=8,missing=8,gain=4.9787,cover=108.067
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1344.5] yes=15,no=16,missing=16,gain=0.554453,cover=27.0889
+				15:leaf=-0.010708,cover=1.10528
+				16:leaf=-0.0940681,cover=25.9836
+			8:[\u5230\u671f\u65e5_day<27.5] yes=17,no=18,missing=17,gain=3.59869,cover=80.9777
+				17:leaf=-0.050273,cover=67.5037
+				18:leaf=0.00585595,cover=13.474
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<356.5] yes=9,no=10,missing=9,gain=7.86909,cover=2.53703
+			9:leaf=0.210419,cover=1.18321
+			10:leaf=-0.063066,cover=1.35383
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=5,no=6,missing=5,gain=3.42888,cover=145.687
+		5:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=11,no=12,missing=11,gain=4.26452,cover=78.4254
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<49320] yes=19,no=20,missing=19,gain=3.8741,cover=71.1838
+				19:leaf=-0.030141,cover=69.0325
+				20:leaf=0.0841418,cover=2.15133
+			12:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<12150] yes=21,no=22,missing=21,gain=3.75493,cover=7.24159
+				21:leaf=-0.0335374,cover=2.79238
+				22:leaf=0.099935,cover=4.44921
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2207.5] yes=13,no=14,missing=14,gain=5.96254,cover=67.2619
+			13:[\u8d77\u59cb\u65e5_day<7.5] yes=23,no=24,missing=23,gain=3.82995,cover=7.2521
+				23:leaf=-0.0296022,cover=1.62481
+				24:leaf=0.126637,cover=5.62729
+			14:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1106.5] yes=25,no=26,missing=26,gain=3.09562,cover=60.0098
+				25:leaf=-0.0501637,cover=8.74786
+				26:leaf=0.011223,cover=51.2619
+booster[43]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=12.4039,cover=250.123
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<15346.5] yes=3,no=4,missing=3,gain=2.48698,cover=156.149
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2608.5] yes=7,no=8,missing=7,gain=2.95757,cover=148.226
+			7:[\u8d77\u59cb\u65e5_day<18.5] yes=15,no=16,missing=15,gain=2.32818,cover=144.253
+				15:leaf=-0.0167935,cover=72.6985
+				16:leaf=0.00845121,cover=71.554
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<11957.5] yes=17,no=18,missing=17,gain=1.58936,cover=3.97355
+				17:leaf=0.104643,cover=2.88468
+				18:leaf=-0.0181085,cover=1.08887
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=9,no=10,missing=10,gain=1.18364,cover=7.92281
+			9:leaf=-0.085961,cover=4.35243
+			10:[\u5e74\u9f84<29.5] yes=19,no=20,missing=19,gain=1.54697,cover=3.57038
+				19:leaf=-0.0494395,cover=2.39995
+				20:leaf=0.058846,cover=1.17043
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.67436,cover=93.9738
+		5:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=11,no=12,missing=11,gain=0.488228,cover=23.6538
+			11:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=21,no=22,missing=21,gain=0.250716,cover=22.2817
+				21:leaf=-0.0961437,cover=20.409
+				22:leaf=-0.0312404,cover=1.87269
+			12:leaf=-0.0162421,cover=1.37214
+		6:[\u6027\u522b=\u7537<-9.53674e-07] yes=13,no=14,missing=13,gain=2.95881,cover=70.32
+			13:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<9976] yes=23,no=24,missing=23,gain=3.03122,cover=56.7256
+				23:leaf=-0.0733751,cover=23.8426
+				24:leaf=-0.0257889,cover=32.883
+			14:[\u8d77\u59cb\u65e5_day<17.5] yes=25,no=26,missing=25,gain=2.54001,cover=13.5944
+				25:leaf=0.0388032,cover=8.0571
+				26:leaf=-0.0430233,cover=5.53725
+booster[44]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=1,no=2,missing=2,gain=11.0262,cover=244.935
+	1:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=3,no=4,missing=3,gain=5.80408,cover=101.649
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-3.5] yes=7,no=8,missing=8,gain=4.85394,cover=99.0151
+			7:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=0.5805,cover=23.1453
+				15:leaf=-0.0929064,cover=21.9602
+				16:leaf=-0.0107547,cover=1.18513
+			8:[\u5230\u671f\u65e5_day<27.5] yes=17,no=18,missing=17,gain=3.28434,cover=75.8698
+				17:leaf=-0.0460474,cover=62.7074
+				18:leaf=0.00825715,cover=13.1624
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<356.5] yes=9,no=10,missing=9,gain=6.38217,cover=2.63352
+			9:leaf=0.183186,cover=1.36492
+			10:leaf=-0.0609135,cover=1.2686
+	2:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=5,no=6,missing=5,gain=3.16136,cover=143.286
+		5:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=11,no=12,missing=11,gain=3.06548,cover=138.645
+			11:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.059] yes=19,no=20,missing=19,gain=3.34662,cover=92.071
+				19:leaf=-0.0301949,cover=43.0933
+				20:leaf=0.00766003,cover=48.9777
+			12:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<17907] yes=21,no=22,missing=21,gain=2.37429,cover=46.5735
+				21:leaf=0.0399405,cover=26.7075
+				22:leaf=-0.00512751,cover=19.8659
+		6:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=13,no=14,missing=13,gain=1.7,cover=4.6416
+			13:leaf=-0.105315,cover=3.41681
+			14:leaf=0.0163653,cover=1.2248
+booster[45]:
+0:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=1,no=2,missing=2,gain=9.96466,cover=239.688
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=3,no=4,missing=3,gain=2.24562,cover=153.505
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4444.5] yes=7,no=8,missing=7,gain=2.07352,cover=151.167
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1132.5] yes=13,no=14,missing=14,gain=2.30751,cover=79.5784
+				13:leaf=-0.0190854,cover=24.8983
+				14:leaf=0.0170698,cover=54.6801
+			8:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=2.756,cover=71.5885
+				15:leaf=-0.0216492,cover=69.2655
+				16:leaf=0.0720678,cover=2.32299
+		4:leaf=0.0775103,cover=2.3384
+	2:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=5,no=6,missing=6,gain=4.45405,cover=86.183
+		5:[\u5230\u671f\u65e5_day<1.5] yes=9,no=10,missing=9,gain=0.585443,cover=20.098
+			9:leaf=-0.00963718,cover=1.19911
+			10:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26104] yes=17,no=18,missing=17,gain=0.308603,cover=18.8989
+				17:leaf=-0.0951657,cover=17.177
+				18:leaf=-0.0272738,cover=1.72193
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.059] yes=11,no=12,missing=12,gain=3.00313,cover=66.085
+			11:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=19,no=20,missing=19,gain=6.11069,cover=26.5175
+				19:leaf=-0.0737265,cover=24.0446
+				20:leaf=0.0715405,cover=2.47285
+			12:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<9976] yes=21,no=22,missing=21,gain=5.48225,cover=39.5676
+				21:leaf=-0.0593597,cover=15.3552
+				22:leaf=0.0151199,cover=24.2124
+booster[46]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-3.5] yes=1,no=2,missing=2,gain=8.84557,cover=235.118
+	1:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=3,no=4,missing=3,gain=2.30084,cover=20.5171
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<10.5] yes=7,no=8,missing=7,gain=0.662272,cover=19.2706
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1430] yes=13,no=14,missing=14,gain=0.666674,cover=18.2598
+				13:leaf=-0.00618263,cover=1.02107
+				14:leaf=-0.0957419,cover=17.2387
+			8:leaf=-0.00405632,cover=1.01081
+		4:leaf=0.0324414,cover=1.24653
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=5,no=6,missing=5,gain=4.52933,cover=214.601
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.078] yes=9,no=10,missing=10,gain=5.37216,cover=103.551
+			9:[\u6027\u522b=\u7537<-9.53674e-07] yes=15,no=16,missing=15,gain=1.99207,cover=73.7305
+				15:leaf=-0.0481732,cover=60.6288
+				16:leaf=-0.00483838,cover=13.1017
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-1.5] yes=17,no=18,missing=18,gain=5.22286,cover=29.8205
+				17:leaf=-0.08234,cover=4.23797
+				18:leaf=0.0269992,cover=25.5825
+		6:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=11,no=12,missing=12,gain=2.72869,cover=111.05
+			11:leaf=0.110239,cover=1.30962
+			12:[\u5e74\u9f84<18.5] yes=19,no=20,missing=19,gain=2.7682,cover=109.741
+				19:leaf=0.0753883,cover=3.71498
+				20:leaf=-0.00290456,cover=106.026
+booster[47]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-3.5] yes=1,no=2,missing=2,gain=8.08187,cover=231.166
+	1:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=3,no=4,missing=3,gain=2.17659,cover=19.0098
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<10.5] yes=7,no=8,missing=7,gain=0.648018,cover=17.7237
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1430] yes=13,no=14,missing=14,gain=0.65992,cover=16.7165
+				13:leaf=-0.00588616,cover=1.01589
+				14:leaf=-0.0951244,cover=15.7006
+			8:leaf=-0.00385967,cover=1.00722
+		4:leaf=0.0300837,cover=1.28605
+	2:[\u5386\u53f2\u903e\u671f\u6b21\u6570<10] yes=5,no=6,missing=6,gain=3.88845,cover=212.157
+		5:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=9,no=10,missing=9,gain=2.4233,cover=146.671
+			9:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.055] yes=15,no=16,missing=15,gain=2.2371,cover=141.45
+				15:leaf=-0.00331694,cover=124.486
+				16:leaf=0.0344149,cover=16.9644
+			10:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1346.5] yes=17,no=18,missing=18,gain=1.94692,cover=5.22111
+				17:leaf=0.0318928,cover=1.17564
+				18:leaf=-0.0906236,cover=4.04547
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.059] yes=11,no=12,missing=12,gain=2.81719,cover=65.4854
+			11:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=19,no=20,missing=19,gain=5.48059,cover=25.3271
+				19:leaf=-0.0719231,cover=22.6834
+				20:leaf=0.0633909,cover=2.64365
+			12:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<9976] yes=21,no=22,missing=21,gain=5.21454,cover=40.1583
+				21:leaf=-0.0581593,cover=14.9716
+				22:leaf=0.0144614,cover=25.1867
+booster[48]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-3.5] yes=1,no=2,missing=2,gain=7.34597,cover=227.803
+	1:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=3,no=4,missing=3,gain=2.05665,cover=17.6442
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<10.5] yes=7,no=8,missing=7,gain=0.632869,cover=16.3204
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1430] yes=13,no=14,missing=14,gain=0.652253,cover=15.3166
+				13:leaf=-0.00560392,cover=1.01097
+				14:leaf=-0.0944762,cover=14.3056
+			8:leaf=-0.00367257,cover=1.00381
+		4:leaf=0.0279061,cover=1.32378
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1142.5] yes=5,no=6,missing=5,gain=3.55869,cover=210.159
+		5:[\u6027\u522b=\u7537<-9.53674e-07] yes=9,no=10,missing=9,gain=3.626,cover=112.476
+			9:[\u5386\u53f2\u903e\u671f\u6b21\u6570<3.5] yes=15,no=16,missing=15,gain=4.66182,cover=91.0877
+				15:leaf=-0.0351979,cover=87.1759
+				16:leaf=0.0658643,cover=3.91178
+			10:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3684] yes=17,no=18,missing=18,gain=5.10452,cover=21.388
+				17:leaf=0.0592366,cover=11.1793
+				18:leaf=-0.0344753,cover=10.2088
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1309.5] yes=11,no=12,missing=12,gain=4.69236,cover=97.6835
+			11:[\u5230\u671f\u65e5_day<18] yes=19,no=20,missing=19,gain=1.55072,cover=3.43928
+				19:leaf=0.0120744,cover=1.47052
+				20:leaf=0.146847,cover=1.96877
+			12:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=21,no=22,missing=21,gain=3.26962,cover=94.2442
+				21:leaf=0.00368445,cover=90.9983
+				22:leaf=-0.086071,cover=3.24591
+booster[49]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=6.70225,cover=224.341
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1243.5] yes=3,no=4,missing=3,gain=2.22032,cover=13.1018
+		3:leaf=-0.0931531,cover=11.8624
+		4:leaf=0.028536,cover=1.23943
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=5,no=6,missing=5,gain=3.56622,cover=211.24
+		5:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<2507.11] yes=7,no=8,missing=7,gain=4.87679,cover=100.894
+			7:[\u5730\u533a=\u798f\u5efa\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=6.06534,cover=73.999
+				11:leaf=-0.0422966,cover=70.6786
+				12:leaf=0.0809695,cover=3.32045
+			8:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2762.5] yes=13,no=14,missing=14,gain=6.26968,cover=26.8948
+				13:leaf=0.14902,cover=2.04075
+				14:leaf=-0.00299418,cover=24.8541
+		6:[\u5230\u671f\u65e5_day<17.5] yes=9,no=10,missing=9,gain=3.53554,cover=110.346
+			9:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<84.225] yes=15,no=16,missing=15,gain=4.56947,cover=51.3348
+				15:leaf=0.0115244,cover=27.9143
+				16:leaf=-0.0473812,cover=23.4206
+			10:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<5856.5] yes=17,no=18,missing=17,gain=4.37045,cover=59.011
+				17:leaf=0.0915592,cover=6.45407
+				18:leaf=0.00947206,cover=52.557
+booster[50]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=6.12585,cover=221.297
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1619.5] yes=3,no=4,missing=4,gain=2.16669,cover=12.095
+		3:leaf=0.0285381,cover=1.23007
+		4:leaf=-0.092363,cover=10.865
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=5,no=6,missing=6,gain=3.13981,cover=209.202
+		5:[\u6027\u522b=\u7537<-9.53674e-07] yes=7,no=8,missing=7,gain=3.98751,cover=55.669
+			7:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2540.5] yes=11,no=12,missing=11,gain=3.02143,cover=45.2106
+				11:leaf=-0.0488209,cover=41.5498
+				12:leaf=0.0382777,cover=3.66083
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.1189] yes=13,no=14,missing=14,gain=3.3487,cover=10.4584
+				13:leaf=-0.00305024,cover=8.91898
+				14:leaf=0.126788,cover=1.53938
+		6:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=9,no=10,missing=9,gain=2.67757,cover=153.533
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<499.5] yes=15,no=16,missing=16,gain=2.33974,cover=148.967
+				15:leaf=0.0216487,cover=41.3429
+				16:leaf=-0.00606531,cover=107.624
+			10:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=17,no=18,missing=17,gain=1.76791,cover=4.56548
+				17:leaf=-0.0985591,cover=3.41434
+				18:leaf=0.0239448,cover=1.15114
+booster[51]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=5.5737,cover=218.716
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1243.5] yes=3,no=4,missing=3,gain=2.10954,cover=11.18
+		3:leaf=-0.0916772,cover=9.9327
+		4:leaf=0.0277734,cover=1.24729
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=5,no=6,missing=6,gain=3.07544,cover=207.536
+		5:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<20.335] yes=7,no=8,missing=8,gain=0.574391,cover=5.2047
+			7:leaf=-0.00401925,cover=1.01724
+			8:leaf=-0.0903808,cover=4.18746
+		6:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<210.5] yes=9,no=10,missing=10,gain=3.78062,cover=202.332
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<402.5] yes=11,no=12,missing=11,gain=4.06626,cover=26.6548
+				11:leaf=-0.0149344,cover=11.5813
+				12:leaf=0.0617302,cover=15.0734
+			10:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.9123] yes=13,no=14,missing=13,gain=3.44417,cover=175.677
+				13:leaf=-0.0165716,cover=149.403
+				14:leaf=0.0221158,cover=26.2742
+booster[52]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=5.05466,cover=216.659
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1619.5] yes=3,no=4,missing=4,gain=2.05025,cover=10.3526
+		3:leaf=0.0276371,cover=1.24063
+		4:leaf=-0.090805,cover=9.11193
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=5,no=6,missing=6,gain=2.78786,cover=206.307
+		5:[\u5230\u671f\u65e5_day<6.5] yes=7,no=8,missing=7,gain=0.558326,cover=4.89757
+			7:leaf=-0.00334776,cover=1.00683
+			8:leaf=-0.0886101,cover=3.89073
+		6:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<210.5] yes=9,no=10,missing=10,gain=3.06524,cover=201.409
+			9:[\u5e74\u9f84<21.5] yes=11,no=12,missing=11,gain=4.10781,cover=27.0466
+				11:leaf=0.0792618,cover=8.53021
+				12:leaf=-0.00146224,cover=18.5164
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=13,no=14,missing=14,gain=3.09784,cover=174.363
+				13:leaf=-0.0328852,cover=42.3864
+				14:leaf=-0.00206584,cover=131.976
+booster[53]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=4.57215,cover=214.578
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1243.5] yes=3,no=4,missing=3,gain=1.98933,cover=9.60034
+		3:leaf=-0.0900384,cover=8.3435
+		4:leaf=0.0268797,cover=1.25684
+	2:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=5,no=6,missing=5,gain=2.69163,cover=204.977
+		5:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=7,no=8,missing=7,gain=4.21716,cover=185.809
+			7:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<30.5] yes=11,no=12,missing=11,gain=4.24094,cover=109.926
+				11:leaf=-0.0261232,cover=106.575
+				12:leaf=0.0751683,cover=3.35103
+			8:[\u884c\u4e1a=\u533b\u9662<-9.53674e-07] yes=13,no=14,missing=13,gain=2.25442,cover=75.8822
+				13:leaf=0.00525302,cover=74.8808
+				14:leaf=0.11293,cover=1.00147
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.059] yes=9,no=10,missing=10,gain=4.1893,cover=19.1688
+			9:[\u5730\u533a=\u5b89\u5fbd\u5206\u90e8<-9.53674e-07] yes=15,no=16,missing=15,gain=2.51717,cover=8.46909
+				15:leaf=-0.0475396,cover=7.06903
+				16:leaf=0.0701884,cover=1.40006
+			10:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2244] yes=17,no=18,missing=18,gain=3.88396,cover=10.6997
+				17:leaf=-0.0435393,cover=1.9521
+				18:leaf=0.0942926,cover=8.7476
+booster[54]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=4.20234,cover=212.195
+	1:leaf=-0.0866466,cover=5.70178
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1142.5] yes=3,no=4,missing=3,gain=3.06892,cover=206.493
+		3:[\u5230\u671f\u65e5_day<4.5] yes=5,no=6,missing=5,gain=3.5438,cover=109.308
+			5:[\u5e74\u9f84<22.5] yes=9,no=10,missing=9,gain=7.40069,cover=11.6155
+				9:leaf=0.130922,cover=3.79939
+				10:leaf=-0.0244298,cover=7.81607
+			6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.078] yes=11,no=12,missing=12,gain=3.40101,cover=97.6925
+				11:leaf=-0.0357086,cover=68.9101
+				12:leaf=0.00497638,cover=28.7824
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1309.5] yes=7,no=8,missing=8,gain=4.03667,cover=97.185
+			7:[\u5230\u671f\u65e5_day<18] yes=13,no=14,missing=13,gain=1.2362,cover=3.43713
+				13:leaf=0.0132504,cover=1.42985
+				14:leaf=0.136816,cover=2.00728
+			8:[\u5e74\u9f84<18.5] yes=15,no=16,missing=15,gain=2.25975,cover=93.7479
+				15:leaf=0.0747244,cover=3.12533
+				16:leaf=-0.00094423,cover=90.6225
+booster[55]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=3.86973,cover=209.975
+	1:leaf=-0.0854268,cover=5.24275
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1142.5] yes=3,no=4,missing=3,gain=2.57588,cover=204.733
+		3:[\u5230\u671f\u65e5_day<4.5] yes=5,no=6,missing=5,gain=2.98269,cover=107.442
+			5:[\u5e74\u9f84<22.5] yes=9,no=10,missing=9,gain=5.72369,cover=11.8276
+				9:leaf=0.111096,cover=4.18574
+				10:leaf=-0.0227373,cover=7.6419
+			6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.078] yes=11,no=12,missing=12,gain=2.91133,cover=95.6146
+				11:leaf=-0.033293,cover=66.7102
+				12:leaf=0.00447611,cover=28.9043
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1309.5] yes=7,no=8,missing=8,gain=3.40582,cover=97.2903
+			7:[\u5230\u671f\u65e5_day<18] yes=13,no=14,missing=13,gain=0.992344,cover=3.55719
+				13:leaf=0.0124313,cover=1.43715
+				14:leaf=0.122825,cover=2.12004
+			8:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<564.5] yes=15,no=16,missing=16,gain=2.21575,cover=93.7331
+				15:leaf=-0.0488438,cover=6.82292
+				16:leaf=0.00669973,cover=86.9102
+booster[56]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=3.57774,cover=208.106
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1619.5] yes=3,no=4,missing=4,gain=2.02352,cover=8.02985
+		3:leaf=0.0320668,cover=1.17384
+		4:leaf=-0.087853,cover=6.85601
+	2:[\u6027\u522b=\u7537<-9.53674e-07] yes=5,no=6,missing=5,gain=2.71654,cover=200.076
+		5:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=7,no=8,missing=8,gain=3.28637,cover=169.883
+			7:[\u5e74\u9f84<21.5] yes=11,no=12,missing=11,gain=2.57644,cover=40.3569
+				11:leaf=0.011151,cover=9.40168
+				12:leaf=-0.0473757,cover=30.9552
+			8:[\u5e74\u9f84<33.5] yes=13,no=14,missing=13,gain=2.66171,cover=129.526
+				13:leaf=-0.00676682,cover=114.141
+				14:leaf=0.0363117,cover=15.3853
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3684] yes=9,no=10,missing=9,gain=3.67804,cover=30.1937
+			9:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=15,no=16,missing=16,gain=5.39525,cover=16.4521
+				15:leaf=0.104964,cover=8.38773
+				16:leaf=-0.00587125,cover=8.06437
+			10:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<17071.5] yes=17,no=18,missing=17,gain=9.75061,cover=13.7416
+				17:leaf=-0.0724941,cover=9.1416
+				18:leaf=0.0920775,cover=4.60002
+booster[57]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=3.33714,cover=206.693
+	1:leaf=-0.0832708,cover=4.51435
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=3,no=4,missing=4,gain=2.64066,cover=202.178
+		3:[\u5230\u671f\u65e5_day<6.5] yes=5,no=6,missing=5,gain=0.480089,cover=4.59353
+			5:leaf=-0.00541573,cover=1.04356
+			6:leaf=-0.0862581,cover=3.54997
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4405] yes=7,no=8,missing=7,gain=2.83383,cover=197.585
+			7:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0592] yes=9,no=10,missing=10,gain=2.9969,cover=97.9243
+				9:leaf=0.0260546,cover=51.2547
+				10:leaf=-0.00867073,cover=46.6697
+			8:[\u5730\u533a=\u5e7f\u4e1c\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=4.4815,cover=99.6604
+				11:leaf=-0.0242599,cover=81.4736
+				12:leaf=0.0295176,cover=18.1868
+booster[58]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=3.05316,cover=205.425
+	1:leaf=-0.0819295,cover=4.16385
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=3,no=4,missing=4,gain=2.38338,cover=201.261
+		3:[\u5230\u671f\u65e5_day<6.5] yes=5,no=6,missing=5,gain=0.456457,cover=4.33869
+			5:leaf=-0.0051524,cover=1.03857
+			6:leaf=-0.0844024,cover=3.30012
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<208.5] yes=7,no=8,missing=8,gain=2.43961,cover=196.923
+			7:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=9,no=10,missing=9,gain=3.70805,cover=26.6405
+				9:leaf=0.0088711,cover=23.1679
+				10:leaf=0.108818,cover=3.47265
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.9123] yes=11,no=12,missing=11,gain=2.52854,cover=170.282
+				11:leaf=-0.0119409,cover=143.429
+				12:leaf=0.020995,cover=26.8531
+booster[59]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=2.79703,cover=204.486
+	1:leaf=-0.0805527,cover=3.84503
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=3,no=4,missing=4,gain=2.15565,cover=200.64
+		3:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<20.895] yes=5,no=6,missing=6,gain=0.452327,cover=4.10489
+			5:leaf=-0.00381369,cover=1.00837
+			6:leaf=-0.0826003,cover=3.09652
+		4:[\u5e74\u9f84<26.0298] yes=7,no=8,missing=7,gain=2.32827,cover=196.536
+			7:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=9,no=10,missing=9,gain=3.62077,cover=124.947
+				9:leaf=0.00169081,cover=117.388
+				10:leaf=0.0690784,cover=7.55904
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.1336] yes=11,no=12,missing=11,gain=5.51888,cover=71.5882
+				11:leaf=-0.0275747,cover=61.4526
+				12:leaf=0.0490228,cover=10.1356
+booster[60]:
+0:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-5.5] yes=1,no=2,missing=2,gain=2.59031,cover=203.507
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1619.5] yes=3,no=4,missing=4,gain=2.02324,cover=6.58103
+		3:leaf=0.0369797,cover=1.10642
+		4:leaf=-0.085053,cover=5.47461
+	2:[\u6027\u522b=\u7537<-9.53674e-07] yes=5,no=6,missing=5,gain=2.21408,cover=196.926
+		5:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<8.5] yes=7,no=8,missing=7,gain=2.99198,cover=166.532
+			7:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=11,no=12,missing=11,gain=4.19579,cover=124.217
+				11:leaf=-0.0216944,cover=110.325
+				12:leaf=0.0349762,cover=13.8926
+			8:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1570.5] yes=13,no=14,missing=13,gain=3.03389,cover=42.3149
+				13:leaf=0.0605977,cover=10.056
+				14:leaf=-0.000100078,cover=32.2589
+		6:[\u5230\u671f\u65e5_day<6.5] yes=9,no=10,missing=9,gain=3.07688,cover=30.3934
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<105.5] yes=15,no=16,missing=15,gain=6.64533,cover=6.87879
+				15:leaf=0.1289,cover=5.02881
+				16:leaf=-0.0633708,cover=1.84998
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<96.495] yes=17,no=18,missing=17,gain=3.71711,cover=23.5146
+				17:leaf=-0.0118355,cover=21.0814
+				18:leaf=0.100029,cover=2.43328
+booster[61]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=2.40748,cover=201.919
+	1:leaf=-0.0781493,cover=3.34334
+	2:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.8566] yes=3,no=4,missing=4,gain=2.17802,cover=198.576
+		3:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5042] yes=5,no=6,missing=6,gain=4.53135,cover=190.193
+			5:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10098.5] yes=9,no=10,missing=9,gain=3.35416,cover=183.501
+				9:leaf=0.00213723,cover=155.514
+				10:leaf=-0.034903,cover=27.987
+			6:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<814] yes=11,no=12,missing=11,gain=2.73593,cover=6.69185
+				11:leaf=0.0145465,cover=4.06903
+				12:leaf=0.138177,cover=2.62282
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2253.5] yes=7,no=8,missing=7,gain=2.10504,cover=8.38295
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1949.5] yes=13,no=14,missing=14,gain=3.16747,cover=4.36566
+				13:leaf=-0.0589747,cover=2.71523
+				14:leaf=0.084122,cover=1.65044
+			8:leaf=-0.0940781,cover=4.01729
+booster[62]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1142.5] yes=1,no=2,missing=1,gain=2.26355,cover=200.861
+	1:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-2.5] yes=3,no=4,missing=4,gain=2.95546,cover=104.692
+		3:[\u884c\u4e1a=\u670d\u52a1\u4e1a<-9.53674e-07] yes=7,no=8,missing=7,gain=0.863262,cover=9.74377
+			7:[\u8d77\u59cb\u65e5_day<5.5] yes=15,no=16,missing=15,gain=0.433885,cover=7.6727
+				15:leaf=-0.0124485,cover=1.27282
+				16:leaf=-0.0874206,cover=6.39988
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4993] yes=17,no=18,missing=18,gain=0.00149576,cover=2.07107
+				17:leaf=-0.00552894,cover=1.06839
+				18:leaf=-0.000388273,cover=1.00267
+		4:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<344.5] yes=9,no=10,missing=9,gain=3.14185,cover=94.9487
+			9:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<571.5] yes=19,no=20,missing=20,gain=2.27718,cover=56.96
+				19:leaf=0.0502622,cover=3.06518
+				20:leaf=-0.0281985,cover=53.8948
+			10:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<9132.5] yes=21,no=22,missing=21,gain=3.968,cover=37.9887
+				21:leaf=0.0805232,cover=6.21493
+				22:leaf=-0.00157921,cover=31.7737
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1309.5] yes=5,no=6,missing=6,gain=2.1669,cover=96.1684
+		5:[\u5230\u671f\u65e5_day<18] yes=11,no=12,missing=11,gain=0.799174,cover=3.90602
+			11:leaf=0.00705955,cover=1.53677
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=23,no=24,missing=23,gain=0.0172087,cover=2.36925
+				23:leaf=0.118676,cover=1.17782
+				24:leaf=0.0344536,cover=1.19143
+		6:[\u5730\u533a=\u6d59\u4e1c\u5206\u90e8<-9.53674e-07] yes=13,no=14,missing=13,gain=2.00338,cover=92.2624
+			13:[\u5e74\u9f84<18.5] yes=25,no=26,missing=25,gain=1.85222,cover=89.9408
+				25:leaf=0.0657806,cover=3.16615
+				26:leaf=-0.00246149,cover=86.7747
+			14:[\u5386\u53f2\u903e\u671f\u6b21\u6570<3.5] yes=27,no=28,missing=28,gain=1.90171,cover=2.32162
+				27:leaf=0.130636,cover=1.3114
+				28:leaf=-0.018468,cover=1.01021
+booster[63]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=2.1167,cover=199.507
+	1:leaf=-0.0759793,cover=2.95968
+	2:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=3,no=4,missing=3,gain=1.97977,cover=196.547
+		3:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=5,no=6,missing=5,gain=2.0285,cover=194.337
+			5:[\u6027\u522b=\u7537<-9.53674e-07] yes=7,no=8,missing=7,gain=1.97685,cover=191.795
+				7:leaf=-0.00637504,cover=161.925
+				8:leaf=0.0212267,cover=29.8704
+			6:leaf=-0.07838,cover=2.54189
+		4:leaf=0.0757972,cover=2.21033
+booster[64]:
+0:[\u884c\u4e1a=\u5728\u6821\u5927\u5b66\u751f<-9.53674e-07] yes=1,no=2,missing=1,gain=2.05362,cover=198.737
+	1:[\u5408\u540c\u5229\u7387\uff08%\uff09<18.8928] yes=3,no=4,missing=3,gain=2.68803,cover=185.21
+		3:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<13.5] yes=7,no=8,missing=7,gain=1.77941,cover=6.72165
+			7:leaf=-0.0882437,cover=4.57179
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<6083] yes=15,no=16,missing=16,gain=1.32509,cover=2.14985
+				15:leaf=0.065979,cover=1.11166
+				16:leaf=-0.0476344,cover=1.03819
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.8566] yes=9,no=10,missing=10,gain=2.57273,cover=178.488
+			9:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5042] yes=17,no=18,missing=18,gain=3.84175,cover=171.224
+				17:leaf=0.00144682,cover=164.66
+				18:leaf=0.074347,cover=6.56316
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<67] yes=19,no=20,missing=20,gain=1.58402,cover=7.26421
+				19:leaf=0.0340528,cover=1.14928
+				20:leaf=-0.0712277,cover=6.11494
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=5,no=6,missing=5,gain=5.1163,cover=13.5276
+		5:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<6708] yes=11,no=12,missing=12,gain=0.696211,cover=8.56328
+			11:leaf=-0.0922126,cover=7.5492
+			12:leaf=-0.00227267,cover=1.01409
+		6:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<538.5] yes=13,no=14,missing=14,gain=2.96109,cover=4.96436
+			13:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0214] yes=21,no=22,missing=22,gain=0.101731,cover=2.2426
+				21:leaf=0.124509,cover=1.13269
+				22:leaf=0.0319872,cover=1.10991
+			14:[\u5230\u671f\u65e5_day<14.5] yes=23,no=24,missing=23,gain=1.14974,cover=2.72176
+				23:leaf=-0.081021,cover=1.09713
+				24:leaf=0.0214194,cover=1.62463
+booster[65]:
+0:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=1,no=2,missing=2,gain=1.97398,cover=197.904
+	1:[\u5e74\u9f84<24.5] yes=3,no=4,missing=3,gain=0.416809,cover=3.88341
+		3:leaf=-0.0810989,cover=2.84189
+		4:leaf=-0.00479183,cover=1.04151
+	2:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<34.53] yes=5,no=6,missing=6,gain=2.12809,cover=194.021
+		5:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<65.5] yes=7,no=8,missing=8,gain=2.95007,cover=2.93933
+			7:leaf=-0.0318998,cover=1.28609
+			8:leaf=0.133415,cover=1.65324
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<284.5] yes=9,no=10,missing=10,gain=2.7988,cover=191.081
+			9:[\u5230\u671f\u65e5_day<10.5] yes=11,no=12,missing=11,gain=0.552097,cover=3.80919
+				11:leaf=-0.00595394,cover=1.00471
+				12:leaf=-0.0957566,cover=2.80448
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<80.985] yes=13,no=14,missing=14,gain=2.29055,cover=187.272
+				13:leaf=0.0266316,cover=24.9588
+				14:leaf=-0.00534774,cover=162.313
+booster[66]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1718] yes=1,no=2,missing=1,gain=1.92262,cover=197.444
+	1:[\u5730\u533a=\u4e91\u5357\u5206\u90e8<-9.53674e-07] yes=3,no=4,missing=3,gain=2.42965,cover=125.077
+		3:[\u8d77\u59cb\u65e5_day<5.5] yes=7,no=8,missing=7,gain=2.35906,cover=119.658
+			7:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=15,no=16,missing=15,gain=5.4255,cover=18.7206
+				15:leaf=-0.0021769,cover=17.0327
+				16:leaf=0.150577,cover=1.68785
+			8:[\u884c\u4e1a=\u9910\u996e/\u9152\u5e97/\u65c5\u6e38<-9.53674e-07] yes=17,no=18,missing=17,gain=3.21013,cover=100.938
+				17:leaf=-0.0252049,cover=91.3943
+				18:leaf=0.0333735,cover=9.54358
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<7611] yes=9,no=10,missing=10,gain=3.45235,cover=5.41819
+			9:[\u5e74\u9f84<22.5] yes=19,no=20,missing=19,gain=3.28946,cover=4.06371
+				19:leaf=-0.0219168,cover=1.46205
+				20:leaf=0.14312,cover=2.60166
+			10:leaf=-0.0599298,cover=1.35448
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1106.5] yes=5,no=6,missing=6,gain=2.22915,cover=72.3676
+		5:[\u884c\u4e1a=\u670d\u52a1\u4e1a<-9.53674e-07] yes=11,no=12,missing=11,gain=3.90082,cover=11.6013
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=21,no=22,missing=22,gain=3.51238,cover=8.46551
+				21:leaf=-0.103096,cover=5.5511
+				22:leaf=0.0224307,cover=2.91442
+			12:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2363] yes=23,no=24,missing=24,gain=1.72546,cover=3.13584
+				23:leaf=0.0957547,cover=2.05764
+				24:leaf=-0.0305274,cover=1.0782
+		6:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<189.24] yes=13,no=14,missing=14,gain=4.88468,cover=60.7662
+			13:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1370] yes=25,no=26,missing=26,gain=1.55661,cover=8.95903
+				25:leaf=0.0300078,cover=4.4765
+				26:leaf=0.118952,cover=4.48254
+			14:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.021] yes=27,no=28,missing=27,gain=5.71946,cover=51.8072
+				27:leaf=-0.0846276,cover=5.255
+				28:leaf=0.017116,cover=46.5522
+booster[67]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=1.90008,cover=196.172
+	1:leaf=-0.0737415,cover=2.66481
+	2:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=3,no=4,missing=4,gain=1.72194,cover=193.507
+		3:[\u5386\u53f2\u903e\u671f\u6b21\u6570<1.5] yes=5,no=6,missing=6,gain=0.405667,cover=3.51871
+			5:leaf=-0.00287779,cover=1.00036
+			6:leaf=-0.0780697,cover=2.51835
+		4:[\u5e74\u9f84<26.0298] yes=7,no=8,missing=7,gain=1.98433,cover=189.989
+			7:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<499.5] yes=9,no=10,missing=9,gain=2.98112,cover=121.52
+				9:leaf=0.0166556,cover=93.2373
+				10:leaf=-0.0199133,cover=28.2823
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.1336] yes=11,no=12,missing=11,gain=4.03319,cover=68.4691
+				11:leaf=-0.0232599,cover=58.4149
+				12:leaf=0.042661,cover=10.0542
+booster[68]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=1,no=2,missing=1,gain=1.77881,cover=195.689
+	1:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=3,no=4,missing=3,gain=1.83449,cover=193.637
+		3:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=5,no=6,missing=5,gain=1.81118,cover=191.249
+			5:[\u884c\u4e1a=\u5728\u6821\u5927\u5b66\u751f<-9.53674e-07] yes=7,no=8,missing=7,gain=1.86472,cover=185.558
+				7:leaf=0.00251081,cover=172.847
+				8:leaf=-0.035795,cover=12.7105
+			6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=9,no=10,missing=9,gain=2.17299,cover=5.69134
+				9:leaf=-0.0870631,cover=4.0352
+				10:leaf=0.0308996,cover=1.65614
+		4:leaf=-0.0763946,cover=2.38753
+	2:leaf=0.0735111,cover=2.05205
+booster[69]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=1.72566,cover=195.071
+	1:leaf=-0.0720516,cover=2.46449
+	2:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.8566] yes=3,no=4,missing=4,gain=1.73904,cover=192.607
+		3:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5042] yes=5,no=6,missing=6,gain=2.64216,cover=184.921
+			5:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10098.5] yes=9,no=10,missing=9,gain=2.47877,cover=177.937
+				9:leaf=0.0036373,cover=151.878
+				10:leaf=-0.0292002,cover=26.0582
+			6:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<814] yes=11,no=12,missing=11,gain=2.25875,cover=6.98398
+				11:leaf=0.00561345,cover=4.19924
+				12:leaf=0.113565,cover=2.78473
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2253.5] yes=7,no=8,missing=7,gain=1.96744,cover=7.68629
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1949.5] yes=13,no=14,missing=14,gain=2.7018,cover=4.18815
+				13:leaf=-0.0547653,cover=2.49599
+				14:leaf=0.0785474,cover=1.69216
+			8:leaf=-0.0905128,cover=3.49814
+booster[70]:
+0:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=1,no=2,missing=1,gain=1.78051,cover=194.416
+	1:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=3,no=4,missing=3,gain=2.98601,cover=175.19
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1340.5] yes=7,no=8,missing=7,gain=3.09954,cover=131.252
+			7:[\u8d37\u6b3e\u671f\u6570\uff08\u6708\uff09<10.5] yes=15,no=16,missing=15,gain=3.40574,cover=117.968
+				15:leaf=-0.00467327,cover=74.134
+				16:leaf=-0.0396623,cover=43.8344
+			8:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<3.5] yes=17,no=18,missing=18,gain=8.54443,cover=13.2833
+				17:leaf=-0.061309,cover=5.21764
+				18:leaf=0.0917242,cover=8.06568
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-4] yes=9,no=10,missing=9,gain=3.70473,cover=43.9386
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1379] yes=19,no=20,missing=20,gain=3.10574,cover=3.96455
+				19:leaf=-0.0224745,cover=1.23667
+				20:leaf=0.144902,cover=2.72788
+			10:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<164.085] yes=21,no=22,missing=22,gain=2.52257,cover=39.974
+				21:leaf=0.0364991,cover=15.9563
+				22:leaf=-0.0135063,cover=24.0177
+	2:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<12180] yes=5,no=6,missing=5,gain=3.88261,cover=19.2254
+		5:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<5462.5] yes=11,no=12,missing=11,gain=1.71387,cover=3.98219
+			11:leaf=0.0360355,cover=1.01288
+			12:leaf=-0.0847091,cover=2.96931
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4911.5] yes=13,no=14,missing=13,gain=5.97985,cover=15.2432
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3588.5] yes=23,no=24,missing=24,gain=5.37291,cover=6.10064
+				23:leaf=0.0120144,cover=3.00694
+				24:leaf=0.192374,cover=3.0937
+			14:[\u5e74\u9f84<20.5] yes=25,no=26,missing=25,gain=7.04024,cover=9.14257
+				25:leaf=0.128386,cover=1.95908
+				26:leaf=-0.0516205,cover=7.1835
+booster[71]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=1.55657,cover=193.113
+	1:leaf=-0.0701581,cover=2.25939
+	2:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.8566] yes=3,no=4,missing=4,gain=1.58326,cover=190.854
+		3:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=5,no=6,missing=5,gain=2.08622,cover=183.534
+			5:[\u5386\u53f2\u903e\u671f\u6b21\u6570<2.5] yes=9,no=10,missing=9,gain=2.35411,cover=165.369
+				9:leaf=-0.00929593,cover=121.61
+				10:leaf=0.0175014,cover=43.7588
+			6:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.059] yes=11,no=12,missing=12,gain=3.96702,cover=18.1653
+				11:leaf=-0.0187985,cover=8.03052
+				12:leaf=0.0715312,cover=10.1348
+		4:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<2253.5] yes=7,no=8,missing=7,gain=1.8227,cover=7.31952
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1949.5] yes=13,no=14,missing=14,gain=2.32842,cover=4.06344
+				13:leaf=-0.0520829,cover=2.37639
+				14:leaf=0.0726959,cover=1.68705
+			8:leaf=-0.0888906,cover=3.25608
+booster[72]:
+0:[\u6027\u522b=\u7537<-9.53674e-07] yes=1,no=2,missing=1,gain=1.53875,cover=192.489
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<402.5] yes=3,no=4,missing=4,gain=2.75353,cover=162.19
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=7,no=8,missing=7,gain=3.12169,cover=13.6961
+			7:leaf=-0.0896788,cover=6.8643
+			8:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<46.26] yes=15,no=16,missing=16,gain=3.87271,cover=6.8318
+				15:leaf=0.0604506,cover=3.97308
+				16:leaf=-0.0730632,cover=2.85873
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<201.5] yes=9,no=10,missing=10,gain=5.28101,cover=148.493
+			9:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=17,no=18,missing=17,gain=1.72196,cover=13.004
+				17:leaf=0.0681949,cover=11.9002
+				18:leaf=-0.0376642,cover=1.10374
+			10:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5893] yes=19,no=20,missing=20,gain=2.50869,cover=135.49
+				19:leaf=-0.00381926,cover=128.09
+				20:leaf=-0.0602813,cover=7.39904
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3684] yes=5,no=6,missing=5,gain=2.90377,cover=30.2998
+		5:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=11,no=12,missing=12,gain=4.27094,cover=16.9725
+			11:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<871.5] yes=21,no=22,missing=21,gain=3.58381,cover=9.0916
+				21:leaf=0.119823,cover=6.90161
+				22:leaf=-0.0176122,cover=2.18999
+			12:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<860.5] yes=23,no=24,missing=23,gain=2.06774,cover=7.8809
+				23:leaf=-0.0620816,cover=3.13393
+				24:leaf=0.0308153,cover=4.74697
+		6:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<17071.5] yes=13,no=14,missing=13,gain=7.97832,cover=13.3273
+			13:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<3.5] yes=25,no=26,missing=26,gain=0.410424,cover=8.5681
+				25:leaf=-0.0880612,cover=5.16667
+				26:leaf=-0.0301309,cover=3.40143
+			14:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<2533.37] yes=27,no=28,missing=27,gain=6.93179,cover=4.75917
+				27:leaf=0.210579,cover=1.35516
+				28:leaf=-0.00987352,cover=3.40401
+booster[73]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=1,no=2,missing=1,gain=1.47907,cover=192.116
+	1:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=3,no=4,missing=3,gain=1.66103,cover=190.279
+		3:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=5,no=6,missing=5,gain=1.5998,cover=188.093
+			5:[\u8d77\u59cb\u65e5_month<7.5] yes=7,no=8,missing=7,gain=1.47453,cover=182.784
+				7:leaf=0.0028142,cover=171.353
+				8:leaf=-0.0328481,cover=11.4304
+			6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=9,no=10,missing=9,gain=1.94355,cover=5.3095
+				9:leaf=-0.0849254,cover=3.65758
+				10:leaf=0.0282991,cover=1.65192
+		4:leaf=-0.0741165,cover=2.18573
+	2:leaf=0.0702365,cover=1.83684
+booster[74]:
+0:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=1,no=2,missing=2,gain=1.46874,cover=191.69
+	1:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<21.08] yes=3,no=4,missing=4,gain=0.347088,cover=3.29961
+		3:leaf=-0.00369386,cover=1.00115
+		4:leaf=-0.0748717,cover=2.29846
+	2:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<34.53] yes=5,no=6,missing=6,gain=1.69228,cover=188.39
+		5:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<65.5] yes=7,no=8,missing=8,gain=2.42729,cover=2.94325
+			7:leaf=-0.0304439,cover=1.23989
+			8:leaf=0.119717,cover=1.70337
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<284.5] yes=9,no=10,missing=10,gain=2.34854,cover=185.447
+			9:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<7892] yes=11,no=12,missing=11,gain=0.474101,cover=3.38746
+				11:leaf=-0.00635899,cover=1.00039
+				12:leaf=-0.0917321,cover=2.38708
+			10:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=13,no=14,missing=14,gain=1.98914,cover=182.06
+				13:leaf=-0.0442056,cover=8.5145
+				14:leaf=0.00274771,cover=173.545
+booster[75]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=1.42136,cover=191.462
+	1:leaf=-0.068498,cover=2.09803
+	2:[\u5230\u671f\u65e5_day<1.5] yes=3,no=4,missing=3,gain=1.43222,cover=189.364
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<428] yes=5,no=6,missing=5,gain=3.61684,cover=7.22962
+			5:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<7796.5] yes=9,no=10,missing=9,gain=1.16897,cover=3.9972
+				9:leaf=0.0437087,cover=1.04358
+				10:leaf=-0.0511172,cover=2.95362
+			6:[\u8d77\u59cb\u65e5_month<2.5] yes=11,no=12,missing=11,gain=3.04134,cover=3.23242
+				11:leaf=-0.0246335,cover=1.00714
+				12:leaf=0.153893,cover=2.22528
+		4:[\u884c\u4e1a=\u533b\u9662<-9.53674e-07] yes=7,no=8,missing=7,gain=1.68446,cover=182.134
+			7:[\u5230\u671f\u65e5_day<26.5] yes=13,no=14,missing=13,gain=1.68404,cover=178.7
+				13:leaf=-0.00886271,cover=137.299
+				14:leaf=0.013926,cover=41.4004
+			8:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=15,no=16,missing=16,gain=2.67769,cover=3.43493
+				15:leaf=-0.027552,cover=1.65283
+				16:leaf=0.120096,cover=1.78211
+booster[76]:
+0:[\u5730\u533a=\u6df1\u5733\u5206\u90e8<-9.53674e-07] yes=1,no=2,missing=1,gain=1.35092,cover=191.091
+	1:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5544.5] yes=3,no=4,missing=3,gain=1.68564,cover=187.882
+		3:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<5324.5] yes=7,no=8,missing=7,gain=2.49305,cover=180.672
+			7:[\u5408\u540c\u5229\u7387\uff08%\uff09<21.8923] yes=11,no=12,missing=12,gain=1.80962,cover=179.427
+				11:leaf=0.00117122,cover=175.156
+				12:leaf=-0.0582915,cover=4.27122
+			8:leaf=-0.106613,cover=1.24445
+		4:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=9,no=10,missing=9,gain=1.58261,cover=7.21021
+			9:[\u8d77\u59cb\u65e5_day<24.5] yes=13,no=14,missing=13,gain=0.799505,cover=6.05712
+				13:leaf=0.0900867,cover=3.43345
+				14:leaf=0.0139579,cover=2.62367
+			10:leaf=-0.0394884,cover=1.15309
+	2:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<1137.52] yes=5,no=6,missing=5,gain=1.30441,cover=3.20912
+		5:leaf=0.0139221,cover=1.36799
+		6:leaf=-0.0962742,cover=1.84113
+booster[77]:
+0:[\u5408\u540c\u5229\u7387\uff08%\uff09<18.8928] yes=1,no=2,missing=1,gain=1.31669,cover=190.853
+	1:[\u5386\u53f2\u903e\u671f\u6b21\u6570<4.5] yes=3,no=4,missing=3,gain=1.70786,cover=6.37801
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1207] yes=7,no=8,missing=8,gain=1.26035,cover=5.2261
+			7:leaf=0.0185772,cover=1.07469
+			8:leaf=-0.0862981,cover=4.15141
+		4:leaf=0.0428431,cover=1.15191
+	2:[\u884c\u4e1a=\u5728\u6821\u5927\u5b66\u751f<-9.53674e-07] yes=5,no=6,missing=5,gain=1.98857,cover=184.475
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0203] yes=9,no=10,missing=10,gain=2.19467,cover=172.778
+			9:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<84.22] yes=13,no=14,missing=14,gain=4.4639,cover=7.77047
+				13:leaf=0.130034,cover=3.00468
+				14:leaf=-0.0110999,cover=4.76578
+			10:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.021] yes=15,no=16,missing=16,gain=4.21977,cover=165.007
+				15:leaf=-0.0644349,cover=8.37844
+				16:leaf=0.00461004,cover=156.629
+		6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=11,no=12,missing=11,gain=3.51613,cover=11.6971
+			11:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<429] yes=17,no=18,missing=17,gain=0.631543,cover=7.00932
+				17:leaf=-0.0890846,cover=5.99789
+				18:leaf=-0.00225255,cover=1.01142
+			12:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4228] yes=19,no=20,missing=20,gain=3.74012,cover=4.68778
+				19:leaf=0.101081,cover=2.19968
+				20:leaf=-0.0497983,cover=2.4881
+booster[78]:
+0:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=1,no=2,missing=2,gain=1.33227,cover=190.433
+	1:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<21.145] yes=3,no=4,missing=4,gain=0.314627,cover=3.13433
+		3:leaf=-0.00428213,cover=1.01366
+		4:leaf=-0.0730022,cover=2.12067
+	2:[\u5e74\u9f84<26.0298] yes=5,no=6,missing=5,gain=1.57998,cover=187.299
+		5:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=7,no=8,missing=7,gain=2.78473,cover=120.792
+			7:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<395.5] yes=11,no=12,missing=12,gain=3.09737,cover=113.063
+				11:leaf=0.0285093,cover=32.2126
+				12:leaf=-0.007703,cover=80.8502
+			8:[\u8d77\u59cb\u65e5_month<5.5] yes=13,no=14,missing=13,gain=3.30528,cover=7.72919
+				13:leaf=-0.0094154,cover=3.60703
+				14:leaf=0.113153,cover=4.12216
+		6:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.0554] yes=9,no=10,missing=9,gain=3.41623,cover=66.5068
+			9:[\u5e74\u9f84<28.5] yes=15,no=16,missing=15,gain=3.44954,cover=54.8208
+				15:leaf=-0.0615689,cover=15.139
+				16:leaf=-0.00653607,cover=39.6818
+			10:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.8567] yes=17,no=18,missing=18,gain=3.49032,cover=11.6861
+				17:leaf=0.0603908,cover=9.56245
+				18:leaf=-0.0618824,cover=2.1236
+booster[79]:
+0:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<31690] yes=1,no=2,missing=1,gain=1.35255,cover=190.029
+	1:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<29930] yes=3,no=4,missing=3,gain=2.31718,cover=158.355
+		3:[\u884c\u4e1a=\u533b\u9662<-9.53674e-07] yes=7,no=8,missing=7,gain=2.11786,cover=146.729
+			7:[\u5230\u671f\u65e5_month<9.5] yes=15,no=16,missing=15,gain=2.32062,cover=143.607
+				15:leaf=0.00128653,cover=128.201
+				16:leaf=-0.0386482,cover=15.4064
+			8:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=17,no=18,missing=18,gain=2.40405,cover=3.12196
+				17:leaf=-0.0212413,cover=1.44889
+				18:leaf=0.126572,cover=1.67307
+		4:[\u8d77\u59cb\u65e5_day<28.5] yes=9,no=10,missing=9,gain=1.97077,cover=11.6257
+			9:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2112] yes=19,no=20,missing=19,gain=1.76709,cover=9.80342
+				19:leaf=-0.0791605,cover=8.37881
+				20:leaf=0.0259659,cover=1.42461
+			10:leaf=0.0354871,cover=1.82229
+	2:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<35520] yes=5,no=6,missing=5,gain=3.43544,cover=31.6742
+		5:[\u5230\u671f\u65e5_day<13.5] yes=11,no=12,missing=11,gain=3.03727,cover=8.38225
+			11:[\u5e74\u9f84<24.5] yes=21,no=22,missing=21,gain=0.67645,cover=2.96656
+				21:leaf=0.0347474,cover=1.2063
+				22:leaf=0.16694,cover=1.76026
+			12:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<18] yes=23,no=24,missing=24,gain=3.20975,cover=5.41569
+				23:leaf=0.0757676,cover=2.97845
+				24:leaf=-0.0566551,cover=2.43723
+		6:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<27.5] yes=13,no=14,missing=14,gain=5.75955,cover=23.2919
+			13:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0761] yes=25,no=26,missing=26,gain=4.30052,cover=14.0995
+				25:leaf=-0.0870033,cover=7.85822
+				26:leaf=0.0188686,cover=6.24124
+			14:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26833] yes=27,no=28,missing=27,gain=3.14567,cover=9.19246
+				27:leaf=-0.0589702,cover=1.28082
+				28:leaf=0.0783448,cover=7.91164
+booster[80]:
+0:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-4.5] yes=1,no=2,missing=2,gain=1.28092,cover=189.433
+	1:leaf=-0.066517,cover=1.92178
+	2:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=3,no=4,missing=3,gain=1.26993,cover=187.512
+		3:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=5,no=6,missing=5,gain=1.28795,cover=185.337
+			5:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2679] yes=7,no=8,missing=7,gain=1.47689,cover=180.194
+				7:leaf=0.00120018,cover=175.754
+				8:leaf=0.0541169,cover=4.43944
+			6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=9,no=10,missing=9,gain=2.11369,cover=5.14314
+				9:leaf=-0.0828285,cover=3.35495
+				10:leaf=0.0329448,cover=1.78819
+		4:leaf=-0.0625079,cover=2.17471
+booster[81]:
+0:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=1,no=2,missing=2,gain=1.19205,cover=189.165
+	1:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<21.215] yes=3,no=4,missing=4,gain=0.302668,cover=2.97649
+		3:leaf=-0.00363378,cover=1.00244
+		4:leaf=-0.0710723,cover=1.97404
+	2:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<28.93] yes=5,no=6,missing=6,gain=1.47981,cover=186.188
+		5:leaf=0.0789771,cover=1.36328
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<845] yes=7,no=8,missing=8,gain=1.45042,cover=184.825
+			7:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<5030] yes=9,no=10,missing=9,gain=2.36369,cover=8.97709
+				9:leaf=0.060846,cover=1.20133
+				10:leaf=-0.0581789,cover=7.77576
+			8:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<858.615] yes=11,no=12,missing=11,gain=1.91812,cover=175.848
+				11:leaf=0.0341709,cover=15.2618
+				12:leaf=-0.00186203,cover=160.586
+booster[82]:
+0:[\u5230\u671f\u65e5_day<1.5] yes=1,no=2,missing=1,gain=1.1929,cover=188.949
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<428] yes=3,no=4,missing=3,gain=2.98938,cover=7.40672
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<10213] yes=7,no=8,missing=7,gain=1.12001,cover=3.9954
+			7:leaf=0.0428542,cover=1.05228
+			8:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<2386.5] yes=13,no=14,missing=13,gain=0.411059,cover=2.94313
+				13:leaf=-0.0688141,cover=1.93211
+				14:leaf=0.0026417,cover=1.01102
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<28] yes=9,no=10,missing=10,gain=2.2645,cover=3.41132
+			9:leaf=0.00377988,cover=1.77138
+			10:leaf=0.152142,cover=1.63994
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-3.5] yes=5,no=6,missing=6,gain=1.72208,cover=181.542
+		5:leaf=-0.0722711,cover=2.46199
+		6:[\u884c\u4e1a=\u4e92\u8054\u7f51/\u5176\u4ed6\u9ad8\u65b0\u6280\u672f\u884c\u4e1a<-9.53674e-07] yes=11,no=12,missing=11,gain=1.59495,cover=179.08
+			11:[\u884c\u4e1a=\u6559\u80b2/\u79d1\u7814<-9.53674e-07] yes=15,no=16,missing=15,gain=1.68674,cover=172.517
+				15:leaf=0.00291836,cover=166.486
+				16:leaf=-0.0470778,cover=6.03163
+			12:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<5.5] yes=17,no=18,missing=17,gain=1.96926,cover=6.56287
+				17:leaf=-0.0722576,cover=5.1287
+				18:leaf=0.0389907,cover=1.43417
+booster[83]:
+0:[\u6027\u522b=\u7537<-9.53674e-07] yes=1,no=2,missing=1,gain=1.20004,cover=188.549
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<402.5] yes=3,no=4,missing=4,gain=2.24957,cover=158.419
+		3:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=7,no=8,missing=7,gain=2.83228,cover=12.617
+			7:leaf=-0.0877187,cover=5.95126
+			8:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<3828.5] yes=15,no=16,missing=15,gain=3.34183,cover=6.66571
+				15:leaf=-0.0358321,cover=5.25572
+				16:leaf=0.10278,cover=1.40999
+		4:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<201.5] yes=9,no=10,missing=10,gain=4.12589,cover=145.802
+			9:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<0] yes=17,no=18,missing=17,gain=1.48736,cover=13.3166
+				17:leaf=0.0766623,cover=7.6459
+				18:leaf=0.00896853,cover=5.67069
+			10:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<260.5] yes=19,no=20,missing=20,gain=2.46592,cover=132.485
+				19:leaf=-0.0781431,cover=3.57926
+				20:leaf=-0.00342432,cover=128.906
+	2:[\u5230\u671f\u65e5_day<6.5] yes=5,no=6,missing=5,gain=2.15489,cover=30.1299
+		5:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<74.89] yes=11,no=12,missing=11,gain=5.54775,cover=7.16367
+			11:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.4969] yes=21,no=22,missing=22,gain=2.83181,cover=5.85381
+				21:leaf=0.129787,cover=4.76636
+				22:leaf=-0.0261364,cover=1.08746
+			12:leaf=-0.0833121,cover=1.30986
+		6:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<96.495] yes=13,no=14,missing=13,gain=2.76473,cover=22.9662
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4097] yes=23,no=24,missing=23,gain=2.5311,cover=20.3589
+				23:leaf=0.0130951,cover=13.535
+				24:leaf=-0.057647,cover=6.8239
+			14:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<-1.5] yes=25,no=26,missing=25,gain=1.22368,cover=2.60734
+				25:leaf=-0.00541146,cover=1.01685
+				26:leaf=0.119026,cover=1.59049
+booster[84]:
+0:[\u5730\u533a=\u6df1\u5733\u5206\u90e8<-9.53674e-07] yes=1,no=2,missing=1,gain=1.16474,cover=188.285
+	1:[\u884c\u4e1a=\u5728\u6821\u5927\u5b66\u751f<-9.53674e-07] yes=3,no=4,missing=3,gain=1.23919,cover=185.28
+		3:[\u5408\u540c\u5229\u7387\uff08%\uff09<21.8923] yes=7,no=8,missing=8,gain=1.96836,cover=173.792
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<8857] yes=11,no=12,missing=11,gain=1.98117,cover=169.756
+				11:leaf=0.0101462,cover=133.346
+				12:leaf=-0.0158873,cover=36.4099
+			8:[\u5408\u540c\u5229\u7387\uff08%\uff09<22.8713] yes=13,no=14,missing=13,gain=0.909988,cover=4.0363
+				13:leaf=-0.0864138,cover=2.55585
+				14:leaf=0.00420348,cover=1.48045
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=9,no=10,missing=9,gain=4.1869,cover=11.4879
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<429] yes=15,no=16,missing=15,gain=0.608098,cover=6.63323
+				15:leaf=-0.0880311,cover=5.61789
+				16:leaf=-0.00243646,cover=1.01533
+			10:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<11] yes=17,no=18,missing=17,gain=2.08611,cover=4.85472
+				17:leaf=0.0710401,cover=3.58822
+				18:leaf=-0.0493883,cover=1.2665
+	2:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<1137.52] yes=5,no=6,missing=5,gain=1.12171,cover=3.0054
+		5:leaf=0.0129457,cover=1.31276
+		6:leaf=-0.0914082,cover=1.69264
+booster[85]:
+0:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<31690] yes=1,no=2,missing=1,gain=1.2056,cover=188.16
+	1:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<22431.5] yes=3,no=4,missing=3,gain=1.99694,cover=156.839
+		3:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<21236.5] yes=7,no=8,missing=7,gain=5.67679,cover=147.068
+			7:[\u8d77\u59cb\u65e5_day<30.5] yes=15,no=16,missing=15,gain=2.59533,cover=143.696
+				15:leaf=-0.0024993,cover=141.156
+				16:leaf=-0.0892119,cover=2.54055
+			8:[\u5e74\u9f84<32] yes=17,no=18,missing=17,gain=4.55896,cover=3.37207
+				17:leaf=0.170965,cover=2.30059
+				18:leaf=-0.0380866,cover=1.07148
+		4:[\u6bcf\u671f\u8fd8\u6b3e\u65e5<28.5] yes=9,no=10,missing=9,gain=4.23312,cover=9.77108
+			9:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.9622] yes=19,no=20,missing=20,gain=1.99864,cover=8.15902
+				19:leaf=-0.0929104,cover=7.03106
+				20:leaf=0.029045,cover=1.12796
+			10:leaf=0.0728442,cover=1.61207
+	2:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<15345.5] yes=5,no=6,missing=5,gain=3.01141,cover=31.3208
+		5:[\u884c\u4e1a=\u519c\u6797\u7267\u6e14/\u81ea\u7531\u804c\u4e1a/\u5176\u4ed6<-9.53674e-07] yes=11,no=12,missing=11,gain=4.08584,cover=21.9722
+			11:[\u8d77\u59cb\u65e5_month<6.5] yes=21,no=22,missing=21,gain=2.06115,cover=19.0794
+				21:leaf=0.0651634,cover=16.8647
+				22:leaf=-0.0274076,cover=2.21472
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=23,no=24,missing=24,gain=0.138038,cover=2.89282
+				23:leaf=-0.0726654,cover=1.86129
+				24:leaf=-0.0128234,cover=1.03152
+		6:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<7.5] yes=13,no=14,missing=14,gain=2.32444,cover=9.34859
+			13:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-11] yes=25,no=26,missing=25,gain=0.436005,cover=5.70279
+				25:leaf=-0.0018044,cover=1.00512
+				26:leaf=-0.0750885,cover=4.69767
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<20549.5] yes=27,no=28,missing=28,gain=3.29044,cover=3.6458
+				27:leaf=-0.0343688,cover=2.5916
+				28:leaf=0.125988,cover=1.05419
+booster[86]:
+0:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=1,no=2,missing=1,gain=1.16634,cover=187.834
+	1:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=3,no=4,missing=3,gain=1.16621,cover=185.724
+		3:[\u5230\u671f\u65e5_month<2.5] yes=5,no=6,missing=5,gain=1.35397,cover=180.79
+			5:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<7609] yes=9,no=10,missing=9,gain=3.04574,cover=50.2175
+				9:leaf=-0.0896141,cover=3.60845
+				10:leaf=-0.00427596,cover=46.6091
+			6:[\u5730\u533a=\u6e56\u5317\u5206\u90e8<-9.53674e-07] yes=11,no=12,missing=11,gain=3.31143,cover=130.572
+				11:leaf=0.0127321,cover=116.534
+				12:leaf=-0.0371432,cover=14.0381
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=7,no=8,missing=7,gain=1.91741,cover=4.93417
+			7:leaf=-0.0815652,cover=3.17308
+			8:leaf=0.0302556,cover=1.76109
+	2:leaf=-0.0614001,cover=2.11033
+booster[87]:
+0:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<10510] yes=1,no=2,missing=1,gain=1.09793,cover=187.744
+	1:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=3,no=4,missing=3,gain=1.32903,cover=186.212
+		3:[\u6027\u522b=\u7537<-9.53674e-07] yes=5,no=6,missing=5,gain=1.17315,cover=184.367
+			5:[\u5408\u540c\u5229\u7387\uff08%\uff09<20.5893] yes=7,no=8,missing=8,gain=1.72168,cover=154.831
+				7:leaf=-0.00140977,cover=146.418
+				8:leaf=-0.0455421,cover=8.41323
+			6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<4.5] yes=9,no=10,missing=10,gain=1.96864,cover=29.5359
+				9:leaf=0.0378647,cover=17.5463
+				10:leaf=-0.0132741,cover=11.9896
+		4:leaf=-0.0694496,cover=1.84529
+	2:leaf=0.0646763,cover=1.5315
+booster[88]:
+0:[\u884c\u4e1a=\u5a92\u4f53/\u4f53\u80b2/\u5a31\u4e50<-9.53674e-07] yes=1,no=2,missing=1,gain=1.09043,cover=187.66
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1245.5] yes=3,no=4,missing=3,gain=1.79966,cover=168.341
+		3:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<142.27] yes=7,no=8,missing=7,gain=5.22959,cover=139.613
+			7:[\u8d77\u59cb\u65e5_day<30.5] yes=15,no=16,missing=15,gain=2.34612,cover=132.75
+				15:leaf=-0.00104957,cover=130.003
+				16:leaf=-0.081322,cover=2.74684
+			8:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<11229] yes=17,no=18,missing=17,gain=0.73197,cover=6.86276
+				17:leaf=-0.00537105,cover=1.07614
+				18:leaf=-0.0994704,cover=5.78663
+		4:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<2.5] yes=9,no=10,missing=10,gain=5.84606,cover=28.7281
+			9:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<14551.5] yes=19,no=20,missing=19,gain=1.48038,cover=7.50604
+				19:leaf=0.0351831,cover=1.02189
+				20:leaf=-0.0689104,cover=6.48415
+			10:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1504] yes=21,no=22,missing=22,gain=4.42019,cover=21.222
+				21:leaf=0.124488,cover=4.40821
+				22:leaf=0.0189784,cover=16.8138
+	2:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<12180] yes=5,no=6,missing=5,gain=3.33514,cover=19.3192
+		5:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<5397.5] yes=11,no=12,missing=11,gain=1.44557,cover=3.81533
+			11:leaf=0.0299019,cover=1.00353
+			12:leaf=-0.0832852,cover=2.8118
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<1382] yes=13,no=14,missing=13,gain=4.63318,cover=15.5038
+			13:[\u5730\u533a=\u6d59\u897f\u5206\u90e8<-9.53674e-07] yes=23,no=24,missing=23,gain=5.09941,cover=12.5147
+				23:leaf=0.0951108,cover=10.4366
+				24:leaf=-0.0558486,cover=2.07807
+			14:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<11806.5] yes=25,no=26,missing=26,gain=0.691727,cover=2.98915
+				25:leaf=-0.0817534,cover=1.96088
+				26:leaf=0.0071702,cover=1.02827
+booster[89]:
+0:[\u5408\u540c\u5229\u7387\uff08%\uff09<18.8928] yes=1,no=2,missing=1,gain=1.06156,cover=187.101
+	1:[\u5386\u53f2\u903e\u671f\u6b21\u6570<4.5] yes=3,no=4,missing=3,gain=1.43984,cover=5.81565
+		3:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1207] yes=7,no=8,missing=8,gain=1.20091,cover=4.68833
+			7:leaf=0.0201152,cover=1.01473
+			8:leaf=-0.0840292,cover=3.67359
+		4:leaf=0.0389747,cover=1.12733
+	2:[\u884c\u4e1a=\u5728\u6821\u5927\u5b66\u751f<-9.53674e-07] yes=5,no=6,missing=5,gain=1.57015,cover=181.285
+		5:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0203] yes=9,no=10,missing=10,gain=1.86276,cover=170.453
+			9:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<84.22] yes=13,no=14,missing=14,gain=3.33538,cover=7.78452
+				13:leaf=0.112882,cover=3.16996
+				14:leaf=-0.00878346,cover=4.61456
+			10:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.021] yes=15,no=16,missing=16,gain=3.55882,cover=162.669
+				15:leaf=-0.0610135,cover=7.84649
+				16:leaf=0.00418858,cover=154.822
+		6:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<554] yes=11,no=12,missing=12,gain=2.7346,cover=10.8315
+			11:leaf=0.0761026,cover=1.05062
+			12:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<615] yes=17,no=18,missing=17,gain=2.44981,cover=9.78084
+				17:leaf=-0.0820626,cover=6.81372
+				18:leaf=0.0192547,cover=2.96713
+booster[90]:
+0:[\u5e74\u9f84<26.0298] yes=1,no=2,missing=1,gain=1.07959,cover=186.757
+	1:[\u5730\u533a=\u6e56\u5357\u5206\u90e8<-9.53674e-07] yes=3,no=4,missing=3,gain=2.32682,cover=121.223
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<17590] yes=7,no=8,missing=7,gain=1.87824,cover=113.342
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-3.5] yes=15,no=16,missing=15,gain=3.28275,cover=57.8041
+				15:leaf=-0.0574861,cover=11.2842
+				16:leaf=0.000621521,cover=46.52
+			8:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<499.5] yes=17,no=18,missing=18,gain=5.5989,cover=55.538
+				17:leaf=0.0708306,cover=12.277
+				18:leaf=-0.00333725,cover=43.261
+		4:[\u8d77\u59cb\u65e5_month<5.5] yes=9,no=10,missing=9,gain=2.49435,cover=7.88123
+			9:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1287] yes=19,no=20,missing=19,gain=1.95161,cover=3.51021
+				19:leaf=-0.0696607,cover=1.63252
+				20:leaf=0.0496837,cover=1.87769
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=21,no=22,missing=22,gain=1.65704,cover=4.37102
+				21:leaf=0.00551696,cover=1.5336
+				22:leaf=0.132276,cover=2.83742
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<30.5] yes=5,no=6,missing=5,gain=2.8746,cover=65.5339
+		5:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<45.495] yes=11,no=12,missing=12,gain=3.12053,cover=60.3088
+			11:[\u5386\u53f2\u903e\u671f\u6b21\u6570<1.5] yes=23,no=24,missing=24,gain=2.03558,cover=2.50274
+				23:leaf=0.141025,cover=1.00705
+				24:leaf=-0.00809351,cover=1.49569
+			12:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<829] yes=25,no=26,missing=25,gain=2.90517,cover=57.8061
+				25:leaf=-0.032101,cover=48.9072
+				26:leaf=0.0277123,cover=8.8989
+		6:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<192.47] yes=13,no=14,missing=13,gain=2.07192,cover=5.22506
+			13:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4958] yes=27,no=28,missing=28,gain=1.15541,cover=3.37884
+				27:leaf=0.00823455,cover=1.3356
+				28:leaf=0.126539,cover=2.04324
+			14:leaf=-0.0237374,cover=1.84622
+booster[91]:
+0:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=1,no=2,missing=1,gain=1.02395,cover=185.673
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2679] yes=3,no=4,missing=3,gain=1.33599,cover=180.998
+		3:[\u8d77\u59cb\u65e5_month<7.5] yes=7,no=8,missing=7,gain=2.08584,cover=176.55
+			7:[\u5e74\u9f84<26.0298] yes=11,no=12,missing=11,gain=2.21816,cover=166.367
+				11:leaf=0.0105143,cover=108.709
+				12:leaf=-0.0135783,cover=57.6584
+			8:[\u8d77\u59cb\u65e5_day<23.5] yes=13,no=14,missing=13,gain=2.70667,cover=10.1825
+				13:leaf=-0.0760681,cover=6.69517
+				14:leaf=0.024597,cover=3.48731
+		4:[\u5230\u671f\u65e5_month<11.5] yes=9,no=10,missing=9,gain=2.59764,cover=4.44796
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1377] yes=15,no=16,missing=15,gain=1.41754,cover=2.77313
+				15:leaf=0.0461536,cover=1.29497
+				16:leaf=-0.0634819,cover=1.47816
+			10:leaf=0.120261,cover=1.67483
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=5,no=6,missing=5,gain=1.69652,cover=4.6753
+		5:leaf=-0.0798902,cover=2.93394
+		6:leaf=0.0270801,cover=1.74136
+booster[92]:
+0:[\u5230\u671f\u65e5_day<1.5] yes=1,no=2,missing=1,gain=0.990156,cover=185.279
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<428] yes=3,no=4,missing=3,gain=2.50173,cover=7.28512
+		3:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<10213] yes=7,no=8,missing=7,gain=1.10159,cover=3.82262
+			7:leaf=0.0422959,cover=1.05788
+			8:[\u5386\u53f2\u903e\u671f\u6b21\u6570<1.5] yes=13,no=14,missing=13,gain=0.295823,cover=2.76474
+				13:leaf=-0.0671736,cover=1.75746
+				14:leaf=-0.00189451,cover=1.00728
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=9,no=10,missing=9,gain=1.94034,cover=3.4625
+			9:leaf=0.133571,cover=1.88452
+			10:leaf=-0.00269017,cover=1.57798
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-3.5] yes=5,no=6,missing=6,gain=1.44096,cover=177.994
+		5:leaf=-0.0691251,cover=2.14249
+		6:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1144] yes=11,no=12,missing=12,gain=1.48596,cover=175.852
+			11:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<7.5] yes=15,no=16,missing=15,gain=1.85294,cover=10.4578
+				15:leaf=-0.0604039,cover=7.40062
+				16:leaf=0.0244461,cover=3.05721
+			12:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<1981] yes=17,no=18,missing=18,gain=1.89627,cover=165.394
+				17:leaf=0.0294119,cover=20.3762
+				18:leaf=-0.00248007,cover=145.018
+booster[93]:
+0:[\u5730\u533a=\u6df1\u5733\u5206\u90e8<-9.53674e-07] yes=1,no=2,missing=1,gain=0.993606,cover=185.093
+	1:[\u6027\u522b=\u7537<-9.53674e-07] yes=3,no=4,missing=3,gain=1.05691,cover=182.226
+		3:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<402.5] yes=7,no=8,missing=8,gain=1.7807,cover=152.891
+			7:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=11,no=12,missing=11,gain=2.58817,cover=11.7399
+				11:leaf=-0.0854676,cover=5.11267
+				12:leaf=0.00415861,cover=6.62724
+			8:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<201.5] yes=13,no=14,missing=14,gain=3.27512,cover=141.151
+				13:leaf=0.0455266,cover=13.5233
+				14:leaf=-0.00457048,cover=127.628
+		4:[\u5230\u671f\u65e5_day<6.5] yes=9,no=10,missing=9,gain=2.25007,cover=29.3351
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<105.5] yes=15,no=16,missing=15,gain=5.48371,cover=7.11333
+				15:leaf=0.109657,cover=5.27878
+				16:leaf=-0.0631915,cover=1.83454
+			10:[\u884c\u4e1a=\u670d\u52a1\u4e1a<-9.53674e-07] yes=17,no=18,missing=17,gain=2.5921,cover=22.2218
+				17:leaf=-0.013364,cover=19.2381
+				18:leaf=0.0748852,cover=2.98375
+	2:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<1137.52] yes=5,no=6,missing=5,gain=1.02712,cover=2.86716
+		5:leaf=0.0135809,cover=1.27086
+		6:leaf=-0.0871978,cover=1.5963
+booster[94]:
+0:[\u8d77\u59cb\u65e5_day<27.5] yes=1,no=2,missing=1,gain=0.979992,cover=184.857
+	1:[\u5730\u533a=\u8d35\u5dde\u5206\u90e8<-9.53674e-07] yes=3,no=4,missing=3,gain=2.49488,cover=152.683
+		3:[\u8d77\u59cb\u65e5_month<7.5] yes=7,no=8,missing=7,gain=1.93894,cover=148.167
+			7:[\u5408\u540c\u5229\u7387\uff08%\uff09<19] yes=15,no=16,missing=15,gain=2.25269,cover=140.365
+				15:leaf=-0.0571619,cover=6.36113
+				16:leaf=-0.000340604,cover=134.004
+			8:[\u5e74\u9f84<24.5] yes=17,no=18,missing=17,gain=1.57986,cover=7.80225
+				17:leaf=-0.0858883,cover=4.33352
+				18:leaf=0.000630269,cover=3.46873
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<-1.5] yes=9,no=10,missing=9,gain=1.51959,cover=4.51579
+			9:leaf=-0.0193127,cover=1.30154
+			10:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<1.5] yes=19,no=20,missing=19,gain=1.25709,cover=3.21425
+				19:leaf=0.127873,cover=1.95288
+				20:leaf=0.00469878,cover=1.26137
+	2:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0592] yes=5,no=6,missing=6,gain=3.54784,cover=32.1739
+		5:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<4197.5] yes=11,no=12,missing=12,gain=5.7587,cover=16.7552
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<8650] yes=21,no=22,missing=21,gain=8.90334,cover=7.00987
+				21:leaf=-0.0677546,cover=1.61511
+				22:leaf=0.163814,cover=5.39476
+			12:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<1475] yes=23,no=24,missing=23,gain=3.58242,cover=9.74535
+				23:leaf=-0.0647573,cover=4.39594
+				24:leaf=0.0461029,cover=5.34941
+		6:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<34886.5] yes=13,no=14,missing=13,gain=3.83973,cover=15.4186
+			13:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<560.28] yes=25,no=26,missing=25,gain=2.69748,cover=12.153
+				25:leaf=0.0693405,cover=1.01318
+				26:leaf=-0.0598626,cover=11.1398
+			14:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<38273] yes=27,no=28,missing=27,gain=3.80542,cover=3.26565
+				27:leaf=0.161569,cover=1.10172
+				28:leaf=-0.019665,cover=2.16393
+booster[95]:
+0:[\u5230\u671f\u65e5_month<2.5] yes=1,no=2,missing=1,gain=0.954527,cover=184.385
+	1:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<7609] yes=3,no=4,missing=3,gain=2.70943,cover=51.482
+		3:leaf=-0.0874913,cover=3.33544
+		4:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<9405] yes=7,no=8,missing=7,gain=2.80826,cover=48.1465
+			7:[\u884c\u4e1a=\u670d\u52a1\u4e1a<-9.53674e-07] yes=13,no=14,missing=13,gain=2.83248,cover=4.95419
+				13:leaf=0.00559313,cover=3.76166
+				14:leaf=0.150179,cover=1.19253
+			8:[\u903e\u671f\u672c\u91d1\uff08\u5143\uff09<3965] yes=15,no=16,missing=15,gain=1.99079,cover=43.1923
+				15:leaf=-0.00496123,cover=38.3102
+				16:leaf=-0.0676133,cover=4.88216
+	2:[\u5730\u533a=\u6e56\u5317\u5206\u90e8<-9.53674e-07] yes=5,no=6,missing=5,gain=2.43138,cover=132.903
+		5:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<5115.5] yes=9,no=10,missing=9,gain=2.41443,cover=119.421
+			9:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<2.5] yes=17,no=18,missing=17,gain=2.88666,cover=65.3206
+				17:leaf=0.0347411,cover=46.5395
+				18:leaf=-0.0110784,cover=18.7811
+			10:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=19,no=20,missing=20,gain=4.74555,cover=54.1004
+				19:leaf=-0.0452476,cover=19.3297
+				20:leaf=0.0152869,cover=34.7707
+		6:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<0] yes=11,no=12,missing=11,gain=5.09308,cover=13.4821
+			11:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<35930] yes=21,no=22,missing=21,gain=0.564596,cover=7.79509
+				21:leaf=-0.092113,cover=6.78193
+				22:leaf=-0.00615269,cover=1.01316
+			12:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<2.5] yes=23,no=24,missing=24,gain=2.99162,cover=5.68704
+				23:leaf=0.114942,cover=1.73975
+				24:leaf=-0.0175023,cover=3.94729
+booster[96]:
+0:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<31690] yes=1,no=2,missing=1,gain=1.00675,cover=184.636
+	1:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<11270.5] yes=3,no=4,missing=3,gain=1.83705,cover=154.002
+		3:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0592] yes=7,no=8,missing=8,gain=1.8834,cover=150.004
+			7:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<2165.83] yes=15,no=16,missing=15,gain=4.04975,cover=85.0858
+				15:leaf=-0.00409064,cover=65.2731
+				16:leaf=0.0465154,cover=19.8127
+			8:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<15824] yes=17,no=18,missing=17,gain=3.29482,cover=64.918
+				17:leaf=-0.000694044,cover=48.0042
+				18:leaf=-0.0509644,cover=16.9138
+		4:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<1.5] yes=9,no=10,missing=9,gain=0.281821,cover=3.99863
+			9:leaf=-0.0762759,cover=2.89638
+			10:leaf=-0.00912902,cover=1.10225
+	2:[\u5408\u540c\u91d1\u989d\uff08\u5143\uff09<35520] yes=5,no=6,missing=5,gain=2.75695,cover=30.6338
+		5:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1291] yes=11,no=12,missing=12,gain=2.80435,cover=8.50854
+			11:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<11090] yes=19,no=20,missing=20,gain=1.09741,cover=2.44621
+				19:leaf=0.037833,cover=1.00922
+				20:leaf=-0.0638556,cover=1.43699
+			12:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<18] yes=21,no=22,missing=22,gain=3.15832,cover=6.06234
+				21:leaf=0.147605,cover=3.26353
+				22:leaf=0.00788554,cover=2.79881
+		6:[\u672c\u671f\u903e\u671f\u5929\u6570_8th<27.5] yes=13,no=14,missing=14,gain=3.76697,cover=22.1252
+			13:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0761] yes=23,no=24,missing=24,gain=3.77256,cover=12.876
+				23:leaf=-0.0836789,cover=6.757
+				24:leaf=0.018834,cover=6.11897
+			14:[\u5269\u4f59\u672c\u91d1\uff08\u5143\uff09<26833] yes=25,no=26,missing=25,gain=2.38674,cover=9.24925
+				25:leaf=-0.0575848,cover=1.20091
+				26:leaf=0.062525,cover=8.04834
+booster[97]:
+0:[\u5730\u533a=\u4e1c\u839e\u5206\u90e8<-9.53674e-07] yes=1,no=2,missing=1,gain=0.952275,cover=184.229
+	1:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<2679] yes=3,no=4,missing=3,gain=1.24438,cover=179.785
+		3:[\u8d77\u59cb\u65e5_month<7.5] yes=7,no=8,missing=7,gain=1.7317,cover=175.481
+			7:[\u5e74\u9f84<26.0298] yes=11,no=12,missing=11,gain=1.82162,cover=165.857
+				11:leaf=0.0094931,cover=108.888
+				12:leaf=-0.0124182,cover=56.9695
+			8:[\u884c\u4e1a=\u5546\u4e1a/\u8d38\u6613<-9.53674e-07] yes=13,no=14,missing=13,gain=2.36355,cover=9.62358
+				13:leaf=-0.0598887,cover=8.23814
+				14:leaf=0.0551181,cover=1.38545
+		4:[\u5230\u671f\u65e5_month<11.5] yes=9,no=10,missing=9,gain=2.15815,cover=4.30394
+			9:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<1377] yes=15,no=16,missing=15,gain=1.26268,cover=2.64003
+				15:leaf=0.0439507,cover=1.29668
+				16:leaf=-0.0608077,cover=1.34335
+			10:leaf=0.112368,cover=1.66391
+	2:[\u5386\u53f2\u6700\u957f\u903e\u671f\u5929\u6570<12.5] yes=5,no=6,missing=5,gain=1.50641,cover=4.4441
+		5:leaf=-0.0781335,cover=2.743
+		6:leaf=0.0244923,cover=1.7011
+booster[98]:
+0:[\u884c\u4e1a=\u653f\u5e9c\u673a\u5173/\u793e\u4f1a\u56e2\u4f53<-9.53674e-07] yes=1,no=2,missing=1,gain=0.954581,cover=183.813
+	1:[\u8d77\u59cb\u65e5_day<27.5] yes=3,no=4,missing=3,gain=0.934144,cover=181.984
+		3:[\u5730\u533a=\u8d35\u5dde\u5206\u90e8<-9.53674e-07] yes=5,no=6,missing=5,gain=2.1508,cover=150.568
+			5:[\u5408\u540c\u5229\u7387\uff08%\uff09<18.9999] yes=9,no=10,missing=9,gain=1.65498,cover=145.908
+				9:leaf=-0.0526889,cover=5.94766
+				10:leaf=-0.00265598,cover=139.96
+			6:[\u6bcf\u671f\u507f\u8fd8\u672c\u91d1\uff08\u5143\uff09<1720.02] yes=11,no=12,missing=11,gain=1.42876,cover=4.65983
+				11:leaf=0.000205881,cover=2.45035
+				12:leaf=0.101693,cover=2.20948
+		4:[\u5408\u540c\u5229\u7387\uff08%\uff09<19.0936] yes=7,no=8,missing=8,gain=2.93157,cover=31.4162
+			7:[\u5df2\u8fd8\u672c\u91d1\uff08\u5143\uff09<10023] yes=13,no=14,missing=13,gain=4.02602,cover=23.2571
+				13:leaf=0.0502858,cover=20.1437
+				14:leaf=-0.0593028,cover=3.11347
+			8:[\u8d77\u59cb\u65e5_month<6.5] yes=15,no=16,missing=15,gain=2.60701,cover=8.1591
+				15:leaf=-0.0640656,cover=6.03329
+				16:leaf=0.0477292,cover=2.12582
+	2:leaf=-0.0579677,cover=1.82872
+booster[99]:
+0:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<201.5] yes=1,no=2,missing=2,gain=0.9285,cover=183.634
+	1:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<21.435] yes=3,no=4,missing=4,gain=0.222083,cover=2.61725
+		3:leaf=-0.00502735,cover=1.00289
+		4:leaf=-0.0660183,cover=1.61436
+	2:[\u6bcf\u671f\u507f\u8fd8\u5229\u606f\uff08\u5143\uff09<34.53] yes=5,no=6,missing=6,gain=1.3254,cover=181.017
+		5:[\u5df2\u8fd8\u5229\u606f\uff08\u5143\uff09<65.5] yes=7,no=8,missing=8,gain=1.84675,cover=2.85319
+			7:leaf=-0.0294703,cover=1.08781
+			8:leaf=0.104031,cover=1.76538
+		6:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<284.5] yes=9,no=10,missing=10,gain=1.95102,cover=178.164
+			9:[\u5230\u671f\u65e5_day<12.5] yes=11,no=12,missing=11,gain=0.267382,cover=3.02795
+				11:leaf=-0.0113847,cover=1.00759
+				12:leaf=-0.0849793,cover=2.02036
+			10:[\u5269\u4f59\u5229\u606f\uff08\u5143\uff09<295.5] yes=13,no=14,missing=14,gain=1.54524,cover=175.136
+				13:leaf=0.0864469,cover=1.09094
+				14:leaf=-3.39398e-05,cover=174.045
