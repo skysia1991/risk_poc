@@ -1,0 +1,2866 @@
+booster[0]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=366.985,cover=11968.5
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=3,no=4,missing=3,gain=6.34359,cover=11035.5
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=7,no=8,missing=7,gain=0.308309,cover=10878
+			7:leaf=-0.198556,cover=10868
+			8:[He_Tong_Li_Lu_(%)<19.8052] yes=15,no=16,missing=16,gain=8.46853,cover=10
+				15:leaf=-0.169231,cover=8.75
+				16:leaf=0.0666667,cover=1.25
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<5.5] yes=9,no=10,missing=10,gain=1.44139,cover=157.5
+			9:[Nian_Ling_<45.5] yes=17,no=18,missing=17,gain=0.908283,cover=156
+				17:leaf=-0.174879,cover=154.25
+				18:leaf=-0.0545455,cover=1.75
+			10:leaf=-0.04,cover=1.5
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<6782] yes=5,no=6,missing=6,gain=122.448,cover=933
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<885.01] yes=11,no=12,missing=11,gain=112.999,cover=864
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<1656] yes=19,no=20,missing=20,gain=2.9189,cover=16.25
+				19:leaf=0.0482759,cover=6.25
+				20:leaf=0.145455,cover=10
+			12:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=21,no=22,missing=22,gain=37.2801,cover=847.75
+				21:leaf=-0.157018,cover=713.25
+				22:leaf=-0.098155,cover=134.5
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<6810.01] yes=13,no=14,missing=13,gain=141.604,cover=69
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<14166.5] yes=23,no=24,missing=23,gain=6.98026,cover=36.25
+				23:leaf=0.147287,cover=31.25
+				24:leaf=0.0166667,cover=5
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<15866.5] yes=25,no=26,missing=26,gain=16.332,cover=32.75
+				25:leaf=-0.182456,cover=27.5
+				26:leaf=0.008,cover=5.25
+booster[1]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=1,no=2,missing=1,gain=312.681,cover=11855.7
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=3,no=4,missing=3,gain=43.8171,cover=11299.8
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<4622.5] yes=7,no=8,missing=7,gain=0.184566,cover=10771.5
+			7:leaf=-0.180511,cover=10768.8
+			8:[Dao_Qi_Ri__day<25] yes=15,no=16,missing=15,gain=0.440942,cover=2.73341
+				15:leaf=-0.110342,cover=1.48931
+				16:leaf=-0.0181231,cover=1.2441
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<664.5] yes=9,no=10,missing=9,gain=6.31978,cover=528.245
+			9:[Sheng_Yu_Qi_Shu_<1.5] yes=17,no=18,missing=17,gain=11.1098,cover=122.208
+				17:leaf=0.0870257,cover=1.74781
+				18:leaf=-0.13037,cover=120.46
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=19,no=20,missing=20,gain=4.07061,cover=406.036
+				19:leaf=-0.162211,cover=333.566
+				20:leaf=-0.129315,cover=72.4706
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1667.51] yes=5,no=6,missing=5,gain=248.139,cover=555.925
+		5:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=11,no=12,missing=11,gain=8.70148,cover=44.2973
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<6973.5] yes=21,no=22,missing=21,gain=5.15926,cover=42.8026
+				21:leaf=0.138142,cover=41.309
+				22:leaf=-0.03244,cover=1.49359
+			12:leaf=-0.076122,cover=1.49474
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<8691.5] yes=13,no=14,missing=14,gain=85.0778,cover=511.628
+			13:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=23,no=24,missing=24,gain=14.3344,cover=470.589
+				23:leaf=-0.145466,cover=329.689
+				24:leaf=-0.105178,cover=140.899
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8566.67] yes=25,no=26,missing=25,gain=70.6953,cover=41.0395
+				25:leaf=0.117523,cover=25.393
+				26:leaf=-0.145686,cover=15.6465
+booster[2]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=1,no=2,missing=1,gain=272.213,cover=11564.4
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=3,no=4,missing=3,gain=40.1794,cover=11015.7
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=7,no=8,missing=7,gain=0.383389,cover=10496.5
+			7:leaf=-0.166956,cover=10486.8
+			8:[He_Tong_Li_Lu_(%)<19.8052] yes=15,no=16,missing=16,gain=7.10998,cover=9.76702
+				15:leaf=-0.143836,cover=8.51974
+				16:leaf=0.0694628,cover=1.24728
+		4:[Xing_Bie_=Nu_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.37718,cover=519.221
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<27216] yes=17,no=18,missing=18,gain=5.01825,cover=69.6231
+				17:leaf=-0.121278,cover=51.9842
+				18:leaf=-0.0546881,cover=17.6389
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<1047] yes=19,no=20,missing=19,gain=3.88689,cover=449.598
+				19:leaf=-0.143726,cover=439.324
+				20:leaf=-0.0704352,cover=10.2742
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1667.51] yes=5,no=6,missing=5,gain=204.004,cover=548.662
+		5:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=11,no=12,missing=11,gain=7.35443,cover=44.1931
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<6973.5] yes=21,no=22,missing=21,gain=4.30138,cover=42.7043
+				21:leaf=0.124939,cover=41.2142
+				22:leaf=-0.0305416,cover=1.49012
+			12:leaf=-0.0717407,cover=1.48878
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<13733] yes=13,no=14,missing=14,gain=70.2487,cover=504.469
+			13:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=23,no=24,missing=24,gain=27.7946,cover=487.446
+				23:leaf=-0.123606,cover=463.207
+				24:leaf=-0.0131829,cover=24.2389
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<10166.7] yes=25,no=26,missing=25,gain=22.6045,cover=17.0226
+				25:leaf=0.145891,cover=13.0632
+				26:leaf=-0.106109,cover=3.95938
+booster[3]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=249.654,cover=11150.9
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<874] yes=3,no=4,missing=4,gain=4.40197,cover=10255.6
+		3:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=1.71309,cover=150.084
+			7:[Nian_Ling_<42.5] yes=15,no=16,missing=15,gain=1.28205,cover=146.046
+				15:leaf=-0.138304,cover=143.163
+				16:leaf=-0.0471514,cover=2.88321
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<638.85] yes=17,no=18,missing=17,gain=2.68512,cover=4.03812
+				17:leaf=0.0489355,cover=1.18512
+				18:leaf=-0.0955076,cover=2.853
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=0.385002,cover=10105.5
+			9:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=19,no=20,missing=20,gain=0.00946596,cover=10096
+				19:leaf=-0.0596971,cover=1.62578
+				20:leaf=-0.156386,cover=10094.3
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=21,no=22,missing=22,gain=6.24438,cover=9.53208
+				21:leaf=-0.134459,cover=8.28419
+				22:leaf=0.0655879,cover=1.24789
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3336] yes=5,no=6,missing=6,gain=80.9477,cover=895.282
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<858.67] yes=11,no=12,missing=11,gain=59.3657,cover=672.609
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<2078.5] yes=23,no=24,missing=24,gain=1.81706,cover=11.9852
+				23:leaf=0.0415293,cover=5.36004
+				24:leaf=0.129422,cover=6.62511
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<991.5] yes=25,no=26,missing=25,gain=10.7307,cover=660.623
+				25:leaf=-0.0982936,cover=163.77
+				26:leaf=-0.12971,cover=496.853
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3350.02] yes=13,no=14,missing=13,gain=241.53,cover=222.673
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<15335] yes=27,no=28,missing=27,gain=4.99864,cover=55.6685
+				27:leaf=0.135589,cover=54.1854
+				28:leaf=-0.0320222,cover=1.48315
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<16250] yes=29,no=30,missing=30,gain=29.1565,cover=167.005
+				29:leaf=-0.11821,cover=157.989
+				30:leaf=0.0611761,cover=9.01596
+booster[4]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=235.163,cover=10656.7
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<874] yes=3,no=4,missing=4,gain=4.65731,cover=9784.17
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<3162.5] yes=7,no=8,missing=7,gain=1.57463,cover=144.957
+			7:[Nian_Ling_<42.5] yes=15,no=16,missing=15,gain=2.32764,cover=80.6964
+				15:leaf=-0.140369,cover=79.4969
+				16:leaf=-1.67747e-05,cover=1.19946
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<3331] yes=17,no=18,missing=17,gain=2.42912,cover=64.2607
+				17:leaf=-0.0351671,cover=5.27588
+				18:leaf=-0.11472,cover=58.9848
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=0.406875,cover=9639.21
+			9:leaf=-0.147917,cover=9629.97
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=19,no=20,missing=20,gain=5.52265,cover=9.24453
+				19:leaf=-0.126551,cover=7.99881
+				20:leaf=0.0620092,cover=1.24573
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=70.3018,cover=872.555
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<888.78] yes=11,no=12,missing=11,gain=45.8835,cover=714.457
+			11:[Sheng_Yu_Li_Xi_(Yuan_)<1292] yes=21,no=22,missing=22,gain=4.01311,cover=10.6193
+				21:leaf=0.155061,cover=4.585
+				22:leaf=0.0307374,cover=6.03426
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<991.5] yes=23,no=24,missing=23,gain=26.7924,cover=703.838
+				23:leaf=-0.0792443,cover=212.238
+				24:leaf=-0.122615,cover=491.599
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<4226] yes=13,no=14,missing=14,gain=78.1734,cover=158.098
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<2183] yes=25,no=26,missing=25,gain=41.4833,cover=117.899
+				25:leaf=0.0854331,cover=13.7014
+				26:leaf=-0.0950564,cover=104.197
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4208.33] yes=27,no=28,missing=27,gain=18.459,cover=40.1993
+				27:leaf=0.122228,cover=31.0826
+				28:leaf=-0.0357194,cover=9.11669
+booster[5]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=227,cover=10114
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<874] yes=3,no=4,missing=4,gain=4.99512,cover=9265.81
+		3:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=1.64595,cover=139.293
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<3228] yes=15,no=16,missing=15,gain=1.22619,cover=135.436
+				15:leaf=-0.131774,cover=76.7112
+				16:leaf=-0.103676,cover=58.7244
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<638.85] yes=17,no=18,missing=17,gain=2.41008,cover=3.85788
+				17:leaf=0.0528971,cover=1.16589
+				18:leaf=-0.0835725,cover=2.69199
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=0.442042,cover=9126.52
+			9:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=19,no=20,missing=20,gain=0.140966,cover=9117.6
+				19:leaf=-0.0491507,cover=1.52327
+				20:leaf=-0.141024,cover=9116.08
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=21,no=22,missing=22,gain=4.91124,cover=8.92228
+				21:leaf=-0.119749,cover=7.68104
+				22:leaf=0.0586924,cover=1.24124
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3336] yes=5,no=6,missing=6,gain=64.2586,cover=848.188
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<858.67] yes=11,no=12,missing=11,gain=43.3997,cover=634.903
+			11:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<692.51] yes=23,no=24,missing=23,gain=1.81271,cover=11.8156
+				23:leaf=0.117198,cover=6.0766
+				24:leaf=0.0331459,cover=5.73897
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<991.5] yes=25,no=26,missing=25,gain=8.33282,cover=623.087
+				25:leaf=-0.0846688,cover=156.972
+				26:leaf=-0.112969,cover=466.115
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3350.02] yes=13,no=14,missing=13,gain=183.533,cover=213.286
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<15335] yes=27,no=28,missing=27,gain=3.80058,cover=54.6945
+				27:leaf=0.122223,cover=53.2265
+				28:leaf=-0.025702,cover=1.46794
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<16250] yes=29,no=30,missing=30,gain=23.249,cover=158.591
+				29:leaf=-0.102418,cover=149.687
+				30:leaf=0.0586504,cover=8.90421
+booster[6]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=221.069,cover=9543.87
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<166666] yes=3,no=4,missing=4,gain=3.38353,cover=8686.96
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=1.2822,cover=8667.29
+			7:[Sheng_Yu_Li_Xi_(Yuan_)<4622.5] yes=15,no=16,missing=15,gain=0.218188,cover=8521.93
+				15:leaf=-0.135371,cover=8519.5
+				16:leaf=-0.0580718,cover=2.43247
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<995] yes=17,no=18,missing=18,gain=4.99693,cover=145.358
+				17:leaf=-0.0170162,cover=4.85182
+				18:leaf=-0.124093,cover=140.507
+		4:[He_Tong_Li_Lu_(%)<19.3141] yes=9,no=10,missing=10,gain=2.57663,cover=19.673
+			9:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=19,no=20,missing=19,gain=0.375989,cover=11.0461
+				19:leaf=-0.122009,cover=9.98493
+				20:leaf=-0.0256625,cover=1.06114
+			10:[He_Tong_Li_Lu_(%)<19.9316] yes=21,no=22,missing=22,gain=4.77493,cover=8.62689
+				21:leaf=0.0609116,cover=2.59826
+				22:leaf=-0.0826167,cover=6.02863
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=61.4478,cover=856.908
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<791.675] yes=11,no=12,missing=11,gain=29.4876,cover=700.308
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<780] yes=23,no=24,missing=24,gain=2.24509,cover=5.70254
+				23:leaf=-0.00497583,cover=1.15417
+				24:leaf=0.144162,cover=4.54837
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<991.5] yes=25,no=26,missing=25,gain=25.4975,cover=694.606
+				25:leaf=-0.0674798,cover=220.234
+				26:leaf=-0.109313,cover=474.371
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<4251.5] yes=13,no=14,missing=14,gain=52.9701,cover=156.6
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<2183] yes=27,no=28,missing=27,gain=27.0111,cover=118.187
+				27:leaf=0.0628787,cover=15.3328
+				28:leaf=-0.0763124,cover=102.854
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4216.67] yes=29,no=30,missing=29,gain=11.8724,cover=38.4128
+				29:leaf=0.105208,cover=29.7205
+				30:leaf=-0.0247036,cover=8.69233
+booster[7]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=219.251,cover=8966.71
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<813.5] yes=3,no=4,missing=4,gain=3.59862,cover=8137.47
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<3162.5] yes=7,no=8,missing=7,gain=2.88563,cover=89.0721
+			7:[Nian_Ling_<42.5] yes=15,no=16,missing=15,gain=2.4569,cover=56.3934
+				15:leaf=-0.123887,cover=55.2719
+				16:leaf=0.0141341,cover=1.1215
+			8:[He_Tong_Li_Lu_(%)<19.314] yes=17,no=18,missing=18,gain=2.34581,cover=32.6787
+				17:leaf=-0.101292,cover=18.2728
+				18:leaf=-0.0427959,cover=14.4059
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=0.732229,cover=8048.4
+			9:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=19,no=20,missing=20,gain=0.269765,cover=8040.17
+				19:leaf=-0.0401186,cover=1.41511
+				20:leaf=-0.130488,cover=8038.75
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=21,no=22,missing=22,gain=4.47418,cover=8.2328
+				21:leaf=-0.108552,cover=6.99033
+				22:leaf=0.0610836,cover=1.24247
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3336] yes=5,no=6,missing=6,gain=54.0973,cover=829.234
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<692.51] yes=11,no=12,missing=11,gain=24.7952,cover=626.992
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<1265] yes=23,no=24,missing=24,gain=0.630339,cover=5.9
+				23:leaf=0.0355808,cover=2.23078
+				24:leaf=0.124949,cover=3.66921
+			12:[Xing_Bie_=Nan_<-9.53674e-07] yes=25,no=26,missing=25,gain=12.5425,cover=621.092
+				25:leaf=-0.0977619,cover=547.962
+				26:leaf=-0.0524706,cover=73.1299
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3350.02] yes=13,no=14,missing=13,gain=142.231,cover=202.241
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6811] yes=27,no=28,missing=27,gain=3.81856,cover=53.1954
+				27:leaf=0.165615,cover=10.2199
+				28:leaf=0.0910685,cover=42.9754
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<13013.5] yes=29,no=30,missing=30,gain=19.2615,cover=149.046
+				29:leaf=-0.0920201,cover=135.905
+				30:leaf=0.0326188,cover=13.1412
+booster[8]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=217.961,cover=8392.13
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<791.5] yes=3,no=4,missing=4,gain=3.96203,cover=7591.8
+		3:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=2.8103,cover=75.5783
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<3228] yes=15,no=16,missing=15,gain=2.27731,cover=73.8704
+				15:leaf=-0.116148,cover=48.3159
+				16:leaf=-0.072373,cover=25.5545
+			8:leaf=0.0181374,cover=1.70786
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=0.767076,cover=7516.23
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=17,no=18,missing=17,gain=0.468952,cover=7508.34
+				17:leaf=-0.12672,cover=7133.95
+				18:leaf=-0.119111,cover=374.389
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=19,no=20,missing=20,gain=4.01862,cover=7.88196
+				19:leaf=-0.103779,cover=6.64454
+				20:leaf=0.0578359,cover=1.23742
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=50.4832,cover=800.331
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<842] yes=11,no=12,missing=11,gain=26.7661,cover=651.39
+			11:[Dang_Qian_Qi_Shu_<1.5] yes=21,no=22,missing=21,gain=77.3942,cover=200.544
+				21:leaf=-0.0784006,cover=170.302
+				22:leaf=0.0930454,cover=30.2413
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<745.01] yes=23,no=24,missing=23,gain=11.1224,cover=450.847
+				23:leaf=0.108648,cover=1.84927
+				24:leaf=-0.0976813,cover=448.997
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<4251.5] yes=13,no=14,missing=14,gain=36.9668,cover=148.94
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<2183] yes=25,no=26,missing=25,gain=20.9468,cover=112.064
+				25:leaf=0.0601931,cover=14.9898
+				26:leaf=-0.0638816,cover=97.0738
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4216.67] yes=27,no=28,missing=27,gain=8.42832,cover=36.8769
+				27:leaf=0.0927316,cover=28.3756
+				28:leaf=-0.0184192,cover=8.5013
+booster[9]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=217.733,cover=7830.72
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<874] yes=3,no=4,missing=4,gain=6.53442,cover=7091.15
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<4227] yes=7,no=8,missing=8,gain=1.99958,cover=115.959
+			7:[Nian_Ling_<42.5] yes=15,no=16,missing=15,gain=1.63108,cover=87.9453
+				15:leaf=-0.106875,cover=85.4299
+				16:leaf=-0.0172773,cover=2.51531
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=17,no=18,missing=18,gain=2.93305,cover=28.0133
+				17:leaf=-0.075516,cover=26.6627
+				18:leaf=0.0493879,cover=1.35066
+		4:[Sheng_Yu_Qi_Shu_<6.5] yes=9,no=10,missing=9,gain=0.807766,cover=6975.19
+			9:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=19,no=20,missing=20,gain=0.397751,cover=6508.31
+				19:leaf=-0.0321289,cover=1.30831
+				20:leaf=-0.123273,cover=6507
+			10:[Yi_Huan_Li_Xi_(Yuan_)<1503] yes=21,no=22,missing=21,gain=2.14326,cover=466.878
+				21:leaf=-0.116693,cover=462.093
+				22:leaf=-0.0385947,cover=4.78588
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3336] yes=5,no=6,missing=6,gain=40.8768,cover=739.57
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<888.78] yes=11,no=12,missing=11,gain=26.7977,cover=548.965
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<3278.5] yes=23,no=24,missing=24,gain=3.63684,cover=12.6326
+				23:leaf=0.0056979,cover=6.44514
+				24:leaf=0.110089,cover=6.18745
+			12:[Xing_Bie_=Nan_<-9.53674e-07] yes=25,no=26,missing=25,gain=8.3022,cover=536.333
+				25:leaf=-0.0870425,cover=473.547
+				26:leaf=-0.0470772,cover=62.7861
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3383.35] yes=13,no=14,missing=13,gain=108.124,cover=190.604
+			13:[Yi_Huan_Li_Xi_(Yuan_)<804.5] yes=27,no=28,missing=27,gain=4.39596,cover=52.0177
+				27:leaf=0.103361,cover=49.2814
+				28:leaf=-0.0202247,cover=2.73625
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<10866.5] yes=29,no=30,missing=30,gain=15.6224,cover=138.586
+				29:leaf=-0.0842302,cover=120.213
+				30:leaf=0.0140255,cover=18.3729
+booster[10]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=217.496,cover=7288.67
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<813.5] yes=3,no=4,missing=4,gain=4.82389,cover=6544.98
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<3162.5] yes=7,no=8,missing=7,gain=3.16207,cover=76.4386
+			7:[Xing_Ye_=Chuan_Tong_Zhi_Zao_Ye_<-9.53674e-07] yes=15,no=16,missing=15,gain=2.32566,cover=47.3662
+				15:leaf=-0.111453,cover=46.0361
+				16:leaf=0.0134386,cover=1.33012
+			8:[He_Tong_Li_Lu_(%)<19.314] yes=17,no=18,missing=18,gain=2.53074,cover=29.0724
+				17:leaf=-0.0872166,cover=15.9895
+				18:leaf=-0.025894,cover=13.0828
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=1.09914,cover=6468.54
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=19,no=20,missing=19,gain=0.691653,cover=6461.36
+				19:leaf=-0.12016,cover=6142.77
+				20:leaf=-0.111794,cover=318.592
+			10:[He_Tong_Li_Lu_(%)<19.8052] yes=21,no=22,missing=22,gain=3.7092,cover=7.17791
+				21:leaf=-0.0949819,cover=5.93615
+				22:leaf=0.0601098,cover=1.24175
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=41.4866,cover=743.694
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<991.5] yes=11,no=12,missing=11,gain=24.5018,cover=602.519
+			11:[Dang_Qian_Qi_Shu_<1.5] yes=23,no=24,missing=23,gain=41.7352,cover=199.64
+				23:leaf=-0.0676721,cover=158.945
+				24:leaf=0.0449285,cover=40.6949
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<745.01] yes=25,no=26,missing=25,gain=9.33513,cover=402.879
+				25:leaf=0.102245,cover=1.78393
+				26:leaf=-0.0889301,cover=401.095
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<7054] yes=13,no=14,missing=14,gain=25.8401,cover=141.175
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<3313] yes=27,no=28,missing=27,gain=22.6756,cover=121.316
+				27:leaf=0.0378485,cover=33.9391
+				28:leaf=-0.05751,cover=87.3771
+			14:[Xing_Ye_=Fu_Wu_Ye_<-9.53674e-07] yes=29,no=30,missing=29,gain=2.52208,cover=19.8588
+				29:leaf=0.116393,cover=12.4151
+				30:leaf=0.0367114,cover=7.44369
+booster[11]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=219.481,cover=6771.93
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<874] yes=3,no=4,missing=4,gain=7.46698,cover=6083.96
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<4227] yes=7,no=8,missing=8,gain=2.14853,cover=105.302
+			7:[Qi_Shi_Ri__month<1.5] yes=15,no=16,missing=15,gain=1.74617,cover=79.3355
+				15:leaf=-0.0133147,cover=2.77018
+				16:leaf=-0.0994772,cover=76.5654
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=17,no=18,missing=18,gain=2.65233,cover=25.9661
+				17:leaf=-0.0664198,cover=24.6388
+				18:leaf=0.0518463,cover=1.32733
+		4:[Sheng_Yu_Qi_Shu_<6.5] yes=9,no=10,missing=9,gain=1.21565,cover=5978.66
+			9:[Sheng_Yu_Ben_Jin_(Yuan_)<43516.5] yes=19,no=20,missing=19,gain=0.53665,cover=5576.23
+				19:leaf=-0.117583,cover=5572.25
+				20:leaf=-0.0555036,cover=3.98228
+			10:[Yi_Huan_Li_Xi_(Yuan_)<1503] yes=21,no=22,missing=21,gain=2.27507,cover=402.428
+				21:leaf=-0.110064,cover=398.056
+				22:leaf=-0.0292045,cover=4.37232
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3336] yes=5,no=6,missing=6,gain=33.2807,cover=687.975
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<888.78] yes=11,no=12,missing=11,gain=20.5365,cover=508.58
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<3278.5] yes=23,no=24,missing=24,gain=3.2561,cover=12.3406
+				23:leaf=0.00216699,cover=6.37302
+				24:leaf=0.101421,cover=5.96757
+			12:[Sheng_Yu_Qi_Shu_<3.5] yes=25,no=26,missing=25,gain=8.98548,cover=496.239
+				25:leaf=-0.0833215,cover=316.488
+				26:leaf=-0.054575,cover=179.752
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3383.35] yes=13,no=14,missing=13,gain=84.9799,cover=179.396
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6811] yes=27,no=28,missing=27,gain=4.20689,cover=50.2758
+				27:leaf=0.148426,cover=9.78922
+				28:leaf=0.0720612,cover=40.4866
+			14:[Sheng_Yu_Li_Xi_(Yuan_)<4374.5] yes=29,no=30,missing=29,gain=13.1601,cover=129.12
+				29:leaf=-0.067248,cover=126.744
+				30:leaf=0.135712,cover=2.37579
+booster[12]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=220.694,cover=6281.33
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<813.5] yes=3,no=4,missing=4,gain=5.75636,cover=5588.64
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<3162.5] yes=7,no=8,missing=7,gain=3.36093,cover=68.8378
+			7:[Xing_Ye_=Chuan_Tong_Zhi_Zao_Ye_<-9.53674e-07] yes=15,no=16,missing=15,gain=2.27523,cover=41.9655
+				15:leaf=-0.104736,cover=40.6982
+				16:leaf=0.0184971,cover=1.2673
+			8:[He_Tong_Li_Lu_(%)<19.314] yes=17,no=18,missing=18,gain=2.45792,cover=26.8722
+				17:leaf=-0.0785535,cover=14.4839
+				18:leaf=-0.0170365,cover=12.3884
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<3435.5] yes=9,no=10,missing=9,gain=1.41365,cover=5519.8
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=19,no=20,missing=19,gain=1.11782,cover=5513.28
+				19:leaf=-0.115136,cover=5239.53
+				20:leaf=-0.105483,cover=273.753
+			10:[Dao_Qi_Ri__month<11.5] yes=21,no=22,missing=21,gain=3.62949,cover=6.51759
+				21:leaf=-0.0998841,cover=4.36046
+				22:leaf=0.0400507,cover=2.15712
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=34.7804,cover=692.688
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<842] yes=11,no=12,missing=11,gain=22.7276,cover=557.947
+			11:[Dang_Qian_Qi_Shu_<1.5] yes=23,no=24,missing=23,gain=47.1772,cover=177.851
+				23:leaf=-0.0583168,cover=148.643
+				24:leaf=0.0788688,cover=29.208
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<745.01] yes=25,no=26,missing=25,gain=7.78853,cover=380.097
+				25:leaf=0.0967223,cover=1.7088
+				26:leaf=-0.0801317,cover=378.388
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<7054] yes=13,no=14,missing=14,gain=19.8555,cover=134.74
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<3483] yes=27,no=28,missing=27,gain=18.1051,cover=115.737
+				27:leaf=0.0338871,cover=36.0214
+				28:leaf=-0.0507096,cover=79.7157
+			14:[Xing_Ye_=Fu_Wu_Ye_<-9.53674e-07] yes=29,no=30,missing=29,gain=2.27564,cover=19.0033
+				29:leaf=0.10962,cover=11.7628
+				30:leaf=0.0329929,cover=7.24047
+booster[13]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=222.858,cover=5819.17
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=1.70349,cover=5082.65
+		3:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=7,no=8,missing=8,gain=0.734319,cover=4738.36
+			7:leaf=-0.0140173,cover=1.05066
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<43516.5] yes=15,no=16,missing=15,gain=0.715642,cover=4737.31
+				15:leaf=-0.113157,cover=4733.77
+				16:leaf=-0.0468288,cover=3.53845
+		4:[He_Tong_Li_Lu_(%)<19.8381] yes=9,no=10,missing=10,gain=2.72278,cover=344.288
+			9:[Yi_Huan_Li_Xi_(Yuan_)<1503] yes=17,no=18,missing=17,gain=1.58616,cover=311.799
+				17:leaf=-0.107436,cover=308.029
+				18:leaf=-0.0313521,cover=3.77002
+			10:[Yi_Huan_Li_Xi_(Yuan_)<264.5] yes=19,no=20,missing=19,gain=7.57524,cover=32.489
+				19:leaf=-0.0908716,cover=27.7022
+				20:leaf=0.0385596,cover=4.78682
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3119.5] yes=5,no=6,missing=6,gain=33.0269,cover=736.519
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=11,no=12,missing=11,gain=10.2913,cover=532.857
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=21,no=22,missing=21,gain=11.4741,cover=430.968
+				21:leaf=-0.031994,cover=59.8107
+				22:leaf=-0.0799305,cover=371.157
+			12:[He_Tong_Jin_E_(Yuan_)<16969.5] yes=23,no=24,missing=23,gain=8.1423,cover=101.889
+				23:leaf=-0.00682839,cover=47.3862
+				24:leaf=-0.0634274,cover=54.5029
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3131.67] yes=13,no=14,missing=13,gain=79.0458,cover=203.661
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6811] yes=25,no=26,missing=25,gain=5.65304,cover=50.3196
+				25:leaf=0.145388,cover=12.7848
+				26:leaf=0.0658604,cover=37.5348
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<16250] yes=27,no=28,missing=28,gain=14.7716,cover=153.342
+				27:leaf=-0.0627749,cover=143.955
+				28:leaf=0.0619153,cover=9.38726
+booster[14]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=225.263,cover=5386.24
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=1.89999,cover=4675.48
+		3:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=7,no=8,missing=8,gain=0.729436,cover=3681.16
+			7:leaf=-0.0133629,cover=1.04136
+			8:[Sheng_Yu_Li_Xi_(Yuan_)<1719] yes=15,no=16,missing=15,gain=0.65493,cover=3680.12
+				15:leaf=-0.111907,cover=3678.83
+				16:leaf=-0.0207199,cover=1.29389
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=9,no=10,missing=9,gain=2.0328,cover=994.319
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=17,no=18,missing=18,gain=1.76136,cover=992.669
+				17:leaf=-0.083092,cover=52.6392
+				18:leaf=-0.106907,cover=940.03
+			10:leaf=0.00336855,cover=1.64996
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=29.3078,cover=710.755
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<100000] yes=11,no=12,missing=12,gain=20.0645,cover=477.549
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=19,no=20,missing=19,gain=10.3811,cover=309.768
+				19:leaf=-0.0917921,cover=212.3
+				20:leaf=-0.0513699,cover=97.4679
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=21,no=22,missing=21,gain=35.2731,cover=167.782
+				21:leaf=0.111146,cover=13.9512
+				22:leaf=-0.0499905,cover=153.831
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<995] yes=13,no=14,missing=13,gain=29.7063,cover=233.205
+			13:[Di_Qu_=Si_Chuan_Fen_Bu_<-9.53674e-07] yes=23,no=24,missing=23,gain=4.95921,cover=30.8703
+				23:leaf=0.0794709,cover=29.0334
+				24:leaf=-0.0651578,cover=1.83696
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<2531.5] yes=25,no=26,missing=26,gain=16.9363,cover=202.335
+				25:leaf=-0.0564287,cover=129.303
+				26:leaf=0.0036796,cover=73.0321
+booster[15]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=227.46,cover=4982.77
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=2.21201,cover=4295.84
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<43516.5] yes=7,no=8,missing=7,gain=0.783612,cover=4001.24
+			7:[Yi_Huan_Li_Xi_(Yuan_)<8.5] yes=15,no=16,missing=16,gain=0.705274,cover=3997.95
+				15:leaf=-0.0127393,cover=1.03251
+				16:leaf=-0.10958,cover=3996.92
+			8:[Nian_Ling_<29] yes=17,no=18,missing=17,gain=1.40106,cover=3.28437
+				17:leaf=0.0316605,cover=1.14585
+				18:leaf=-0.078287,cover=2.13852
+		4:[He_Tong_Li_Lu_(%)<19.8381] yes=9,no=10,missing=10,gain=3.16809,cover=294.603
+			9:[Yi_Huan_Li_Xi_(Yuan_)<1503] yes=19,no=20,missing=19,gain=1.76458,cover=266.064
+				19:leaf=-0.102946,cover=262.632
+				20:leaf=-0.0227869,cover=3.43265
+			10:[Yi_Huan_Li_Xi_(Yuan_)<264.5] yes=21,no=22,missing=21,gain=7.30572,cover=28.5389
+				21:leaf=-0.0843718,cover=23.9118
+				22:leaf=0.0450154,cover=4.62707
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=26.4052,cover=686.932
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<674] yes=11,no=12,missing=11,gain=20.7404,cover=551.12
+			11:[Dang_Qian_Qi_Shu_<1.5] yes=23,no=24,missing=23,gain=28.1149,cover=180.566
+				23:leaf=-0.0463851,cover=149.519
+				24:leaf=0.0569164,cover=31.0472
+			12:[Yu_Qi_Ben_Jin_(Yuan_)<3690.5] yes=25,no=26,missing=26,gain=6.5576,cover=370.554
+				25:leaf=-0.0762063,cover=304.638
+				26:leaf=-0.0403809,cover=65.9152
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<7054] yes=13,no=14,missing=14,gain=14.8584,cover=135.812
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<1025] yes=27,no=28,missing=27,gain=13.1078,cover=117.971
+				27:leaf=0.089108,cover=9.11446
+				28:leaf=-0.0300397,cover=108.857
+			14:[Xing_Ye_=Fu_Wu_Ye_<-9.53674e-07] yes=29,no=30,missing=29,gain=2.25833,cover=17.8411
+				29:leaf=0.102249,cover=10.9188
+				30:leaf=0.0255634,cover=6.92231
+booster[16]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=229.541,cover=4607.48
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=2.44288,cover=3942.94
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=0.811909,cover=3670.12
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<43516.5] yes=15,no=16,missing=15,gain=0.878713,cover=3618.33
+				15:leaf=-0.108256,cover=3615.25
+				16:leaf=-0.0373062,cover=3.07519
+			8:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=17,no=18,missing=17,gain=2.71573,cover=51.7915
+				17:leaf=-0.096588,cover=46.1905
+				18:leaf=-0.018978,cover=5.60106
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=3.32388,cover=272.817
+			9:[He_Tong_Li_Lu_(%)<19.9123] yes=19,no=20,missing=20,gain=2.29964,cover=256.421
+				19:leaf=-0.102214,cover=233.057
+				20:leaf=-0.063688,cover=23.3641
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<6] yes=21,no=22,missing=22,gain=2.91325,cover=16.3957
+				21:leaf=0.0430652,cover=2.29017
+				22:leaf=-0.0645782,cover=14.1055
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=23.6386,cover=664.543
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<100000] yes=11,no=12,missing=12,gain=17.0743,cover=441.578
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=23,no=24,missing=23,gain=10.6637,cover=282.62
+				23:leaf=-0.0851268,cover=191.448
+				24:leaf=-0.042781,cover=91.1721
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=25,no=26,missing=25,gain=26.455,cover=158.958
+				25:leaf=0.0991376,cover=13.4387
+				26:leaf=-0.0429813,cover=145.519
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<1208.5] yes=13,no=14,missing=13,gain=21.8229,cover=222.966
+			13:[Dao_Qi_Ri__day<11.5] yes=27,no=28,missing=27,gain=4.90739,cover=35.114
+				27:leaf=0.00177405,cover=11.9169
+				28:leaf=0.0803227,cover=23.1971
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<2531.5] yes=29,no=30,missing=30,gain=13.6146,cover=187.852
+				29:leaf=-0.05127,cover=116.926
+				30:leaf=0.00411965,cover=70.926
+booster[17]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=231.066,cover=4260.13
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=2.76936,cover=3616.29
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<1719] yes=7,no=8,missing=7,gain=0.839305,cover=2839.68
+			7:[Yi_Huan_Li_Xi_(Yuan_)<9.5] yes=15,no=16,missing=16,gain=0.727651,cover=2838.6
+				15:leaf=-0.0112799,cover=1.03615
+				16:leaf=-0.107405,cover=2837.56
+			8:leaf=-0.00941424,cover=1.07634
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=2.36595,cover=776.61
+			9:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=17,no=18,missing=17,gain=3.4446,cover=42.4422
+				17:leaf=-0.0825595,cover=37.3036
+				18:leaf=0.0038986,cover=5.13853
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=19,no=20,missing=19,gain=2.00661,cover=734.168
+				19:leaf=-0.101072,cover=732.594
+				20:leaf=0.00747703,cover=1.57366
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=5,no=6,missing=6,gain=21.1886,cover=643.842
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<674] yes=11,no=12,missing=11,gain=16.7585,cover=512.701
+			11:[Dang_Qian_Qi_Shu_<1.5] yes=21,no=22,missing=21,gain=19.7795,cover=172.211
+				21:leaf=-0.0397707,cover=141.82
+				22:leaf=0.0480267,cover=30.3908
+			12:[Yu_Qi_Ben_Jin_(Yuan_)<3448] yes=23,no=24,missing=24,gain=6.37595,cover=340.489
+				23:leaf=-0.0694387,cover=272.405
+				24:leaf=-0.0344119,cover=68.0841
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<2127.5] yes=13,no=14,missing=14,gain=11.4373,cover=131.141
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<1020] yes=25,no=26,missing=26,gain=3.44427,cover=58.682
+				25:leaf=0.0811097,cover=1.48186
+				26:leaf=-0.0415233,cover=57.2001
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<6587.5] yes=27,no=28,missing=27,gain=19.0595,cover=72.4591
+				27:leaf=0.0760278,cover=33.5115
+				28:leaf=-0.0255555,cover=38.9475
+booster[18]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=231.777,cover=3938.58
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=3.10515,cover=3314.47
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=1.14421,cover=3081.17
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<43516.5] yes=15,no=16,missing=15,gain=0.9425,cover=3036.7
+				15:leaf=-0.105546,cover=3033.81
+				16:leaf=-0.0327685,cover=2.88484
+			8:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=17,no=18,missing=17,gain=2.78397,cover=44.4741
+				17:leaf=-0.0919594,cover=39.3082
+				18:leaf=-0.011532,cover=5.16588
+		4:[He_Tong_Li_Lu_(%)<19.8381] yes=9,no=10,missing=10,gain=3.77701,cover=233.299
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=19,no=20,missing=20,gain=2.16805,cover=209.334
+				19:leaf=-0.0527468,cover=14.7469
+				20:leaf=-0.0987224,cover=194.587
+			10:[Yi_Huan_Li_Xi_(Yuan_)<264.5] yes=21,no=22,missing=21,gain=7.14118,cover=23.9654
+				21:leaf=-0.0756246,cover=19.5896
+				22:leaf=0.0559934,cover=4.37579
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=5,no=6,missing=6,gain=19.4499,cover=624.11
+		5:[Qi_Shi_Ri__day<27.5] yes=11,no=12,missing=11,gain=20.2064,cover=587.49
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<7422] yes=23,no=24,missing=23,gain=13.1812,cover=506.312
+				23:leaf=-0.0421765,cover=422.298
+				24:leaf=-0.0857253,cover=84.014
+			12:[Sheng_Yu_Qi_Shu_<4.5] yes=25,no=26,missing=25,gain=10.5774,cover=81.1774
+				25:leaf=-0.0171669,cover=60.3892
+				26:leaf=0.0639424,cover=20.7882
+		6:[Yi_Huan_Li_Xi_(Yuan_)<907] yes=13,no=14,missing=13,gain=5.35201,cover=36.6197
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<1413.5] yes=27,no=28,missing=28,gain=4.0568,cover=28.2964
+				27:leaf=-0.024043,cover=5.13764
+				28:leaf=0.0699609,cover=23.1587
+			14:[He_Tong_Li_Lu_(%)<19.8877] yes=29,no=30,missing=30,gain=2.67407,cover=8.3233
+				29:leaf=-0.0575339,cover=7.2829
+				30:leaf=0.0729113,cover=1.0404
+booster[19]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=234.615,cover=3645.73
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=3.45152,cover=3036.28
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=0.88606,cover=2378.16
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.523364,cover=2261.79
+				15:leaf=-0.0211765,cover=1.30048
+				16:leaf=-0.105557,cover=2260.49
+			8:[Dao_Qi_Ri__day<30.5] yes=17,no=18,missing=17,gain=2.25163,cover=116.368
+				17:leaf=-0.0937084,cover=114.999
+				18:leaf=0.0217445,cover=1.36867
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=2.64733,cover=658.124
+			9:[Sheng_Yu_Li_Xi_(Yuan_)<2031] yes=19,no=20,missing=19,gain=3.43864,cover=37.6027
+				19:leaf=-0.0718675,cover=36.3973
+				20:leaf=0.0643224,cover=1.20532
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=21,no=22,missing=21,gain=1.93719,cover=620.521
+				21:leaf=-0.097521,cover=618.977
+				22:leaf=0.00911291,cover=1.54432
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=5,no=6,missing=6,gain=19.8382,cover=609.45
+		5:[Sheng_Yu_Qi_Shu_<7.5] yes=11,no=12,missing=11,gain=7.77449,cover=276.801
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=7.11258,cover=254.166
+				23:leaf=-0.0186135,cover=37.2813
+				24:leaf=-0.0664987,cover=216.885
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<10000] yes=25,no=26,missing=26,gain=7.18201,cover=22.6349
+				25:leaf=-0.0406959,cover=14.3087
+				26:leaf=0.0706266,cover=8.32626
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1682.24] yes=13,no=14,missing=13,gain=57.1525,cover=332.648
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6934.5] yes=27,no=28,missing=27,gain=3.78523,cover=35.9771
+				27:leaf=0.124914,cover=22.0147
+				28:leaf=0.0526115,cover=13.9625
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<6782] yes=29,no=30,missing=30,gain=14.1409,cover=296.671
+				29:leaf=-0.0418838,cover=252.895
+				30:leaf=0.0192986,cover=43.7762
+booster[20]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=234.278,cover=3373.18
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=3.81536,cover=2780.48
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.04488,cover=2173.72
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.529105,cover=2066.14
+				15:leaf=-0.0201694,cover=1.27989
+				16:leaf=-0.104509,cover=2064.86
+			8:[Dao_Qi_Ri__day<30.5] yes=17,no=18,missing=17,gain=2.13306,cover=107.579
+				17:leaf=-0.0917498,cover=106.185
+				18:leaf=0.0202602,cover=1.39396
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=2.76492,cover=606.767
+			9:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.43438,cover=35.5411
+				19:leaf=-0.074725,cover=30.8638
+				20:leaf=0.0143101,cover=4.67731
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=21,no=22,missing=21,gain=1.85746,cover=571.226
+				21:leaf=-0.0957951,cover=569.672
+				22:leaf=0.00852262,cover=1.55485
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=18.2396,cover=592.691
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<100000] yes=11,no=12,missing=12,gain=14.3705,cover=388.2
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=23,no=24,missing=23,gain=11.2417,cover=242.955
+				23:leaf=-0.0750131,cover=162.275
+				24:leaf=-0.028857,cover=80.6793
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=25,no=26,missing=25,gain=18.3451,cover=145.246
+				25:leaf=0.0892884,cover=12.9798
+				26:leaf=-0.0312535,cover=132.266
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<1208.5] yes=13,no=14,missing=13,gain=14.0402,cover=204.491
+			13:[Di_Qu_=Si_Chuan_Fen_Bu_<-9.53674e-07] yes=27,no=28,missing=27,gain=4.37843,cover=33.3346
+				27:leaf=0.059639,cover=31.4879
+				28:leaf=-0.0732879,cover=1.84674
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<2097.5] yes=29,no=30,missing=30,gain=9.80478,cover=171.156
+				29:leaf=-0.0439134,cover=83.8205
+				30:leaf=0.00378152,cover=87.3355
+booster[21]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=232.975,cover=3122.85
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=4.25553,cover=2545.73
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=1.65756,cover=2361.31
+			7:[Sheng_Yu_Qi_Shu_<3.5] yes=15,no=16,missing=15,gain=1.0631,cover=2325.46
+				15:leaf=-0.103891,cover=1645.96
+				16:leaf=-0.0972824,cover=679.5
+			8:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=17,no=18,missing=17,gain=3.00318,cover=35.8475
+				17:leaf=-0.085444,cover=31.3292
+				18:leaf=0.00130758,cover=4.51832
+		4:[He_Tong_Li_Lu_(%)<19.8381] yes=9,no=10,missing=10,gain=4.68527,cover=184.421
+			9:[Yi_Huan_Li_Xi_(Yuan_)<1503] yes=19,no=20,missing=19,gain=2.63174,cover=164.653
+				19:leaf=-0.091224,cover=162.262
+				20:leaf=0.0104023,cover=2.39149
+			10:[Yi_Huan_Li_Xi_(Yuan_)<264.5] yes=21,no=22,missing=21,gain=6.88781,cover=19.7677
+				21:leaf=-0.0653399,cover=15.6838
+				22:leaf=0.0687796,cover=4.08387
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=5,no=6,missing=6,gain=15.9036,cover=577.127
+		5:[Sheng_Yu_Qi_Shu_<7.5] yes=11,no=12,missing=11,gain=7.11207,cover=258.258
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=6.57454,cover=236.34
+				23:leaf=-0.0134839,cover=35.8167
+				24:leaf=-0.0604221,cover=200.523
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<10000] yes=25,no=26,missing=26,gain=5.70099,cover=21.918
+				25:leaf=-0.0340824,cover=13.3944
+				26:leaf=0.0656799,cover=8.52362
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1682.24] yes=13,no=14,missing=13,gain=44.537,cover=318.869
+			13:[Nian_Ling_<21.5] yes=27,no=28,missing=27,gain=3.5968,cover=35.2516
+				27:leaf=0.0453083,cover=13.973
+				28:leaf=0.11522,cover=21.2785
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<6782] yes=29,no=30,missing=30,gain=11.0416,cover=283.617
+				29:leaf=-0.0365216,cover=240.569
+				30:leaf=0.0181141,cover=43.0479
+booster[22]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=231.154,cover=2892.99
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=4.60496,cover=2330.45
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.4221,cover=1814.37
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.635574,cover=1722.76
+				15:leaf=-0.0142523,cover=1.16352
+				16:leaf=-0.102598,cover=1721.59
+			8:[Dao_Qi_Ri__day<30.5] yes=17,no=18,missing=17,gain=2.13941,cover=91.6086
+				17:leaf=-0.0876964,cover=90.2947
+				18:leaf=0.0250403,cover=1.31389
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=3.14779,cover=516.086
+			9:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.17789,cover=31.386
+				19:leaf=-0.0686361,cover=26.8754
+				20:leaf=0.0183522,cover=4.51061
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<3477] yes=21,no=22,missing=21,gain=1.94204,cover=484.7
+				21:leaf=-0.0925924,cover=481.18
+				22:leaf=-0.0136874,cover=3.51931
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=15.3529,cover=562.539
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<100000] yes=11,no=12,missing=12,gain=12.6915,cover=365.197
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=23,no=24,missing=23,gain=10.1998,cover=225.897
+				23:leaf=-0.0696928,cover=148.684
+				24:leaf=-0.0244941,cover=77.213
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=25,no=26,missing=25,gain=14.1659,cover=139.301
+				25:leaf=0.0815956,cover=12.5259
+				26:leaf=-0.0261188,cover=126.775
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<5861] yes=13,no=14,missing=13,gain=11.2528,cover=197.341
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<1849.5] yes=27,no=28,missing=28,gain=22.2533,cover=121.236
+				27:leaf=-0.0232363,cover=69.3887
+				28:leaf=0.0626621,cover=51.8472
+			14:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=29,no=30,missing=30,gain=12.0576,cover=76.1056
+				29:leaf=-0.0616798,cover=52.1619
+				30:leaf=0.0230173,cover=23.9437
+booster[23]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=227.868,cover=2681.77
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=5.03154,cover=2133.47
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.60799,cover=1656.81
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.635664,cover=1571.92
+				15:leaf=-0.0135709,cover=1.15063
+				16:leaf=-0.101704,cover=1570.77
+			8:[Di_Qu_=Yan_Xi_Fen_Bu_<-9.53674e-07] yes=17,no=18,missing=17,gain=2.07688,cover=84.8957
+				17:leaf=-0.0857145,cover=83.5467
+				18:leaf=0.0243646,cover=1.34899
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=3.22779,cover=476.661
+			9:[Dao_Qi_Ri__day<21.5] yes=19,no=20,missing=19,gain=3.27601,cover=29.9168
+				19:leaf=-0.0771216,cover=19.0253
+				20:leaf=-0.00815221,cover=10.8915
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=21,no=22,missing=21,gain=2.07727,cover=446.744
+				21:leaf=-0.0906689,cover=445.39
+				22:leaf=0.0204449,cover=1.35364
+	2:[Qi_Shi_Ri__day<27.5] yes=5,no=6,missing=5,gain=15.5473,cover=548.295
+		5:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=11,no=12,missing=12,gain=15.5925,cover=470.128
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<7422] yes=23,no=24,missing=23,gain=12.8158,cover=440.564
+				23:leaf=-0.0295346,cover=368.32
+				24:leaf=-0.0755716,cover=72.2433
+			12:[Yi_Huan_Li_Xi_(Yuan_)<1131.5] yes=25,no=26,missing=25,gain=4.46415,cover=29.564
+				25:leaf=0.0552372,cover=24.0078
+				26:leaf=-0.038824,cover=5.55622
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2659.5] yes=13,no=14,missing=13,gain=8.16313,cover=78.1678
+			13:[Sheng_Yu_Li_Xi_(Yuan_)<61.5] yes=27,no=28,missing=27,gain=2.86585,cover=7.86213
+				27:leaf=-0.104941,cover=6.02007
+				28:leaf=0.0242421,cover=1.84206
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<2083] yes=29,no=30,missing=29,gain=8.52261,cover=70.3057
+				29:leaf=0.0656065,cover=30.3368
+				30:leaf=-0.00395729,cover=39.9688
+booster[24]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=225.983,cover=2492.08
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=5.54866,cover=1953.47
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=2.21452,cover=1806.62
+			7:[Sheng_Yu_Qi_Shu_<3.5] yes=15,no=16,missing=15,gain=1.66261,cover=1777.4
+				15:leaf=-0.101317,cover=1251.36
+				16:leaf=-0.0928811,cover=526.037
+			8:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=17,no=18,missing=17,gain=3.10777,cover=29.2259
+				17:leaf=-0.0787823,cover=25.1896
+				18:leaf=0.0126523,cover=4.03627
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=5.51312,cover=146.843
+			9:[He_Tong_Li_Lu_(%)<19.9123] yes=19,no=20,missing=20,gain=4.21829,cover=137.162
+				19:leaf=-0.0877131,cover=122.831
+				20:leaf=-0.027895,cover=14.3301
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<20202] yes=21,no=22,missing=21,gain=4.04845,cover=9.68184
+				21:leaf=0.0413155,cover=6.45483
+				22:leaf=-0.0812077,cover=3.227
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=5,no=6,missing=6,gain=13.2,cover=538.611
+		5:[Sheng_Yu_Qi_Shu_<7.5] yes=11,no=12,missing=11,gain=6.24955,cover=238.768
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=6.16861,cover=217.58
+				23:leaf=-0.00682196,cover=34.1131
+				24:leaf=-0.053329,cover=183.467
+			12:[Qi_Shi_Ri__day<5.5] yes=25,no=26,missing=25,gain=5.32507,cover=21.1883
+				25:leaf=0.117276,cover=2.85738
+				26:leaf=-0.0115314,cover=18.3309
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1682.24] yes=13,no=14,missing=13,gain=32.4571,cover=299.843
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6934.5] yes=27,no=28,missing=27,gain=3.50096,cover=34.2045
+				27:leaf=0.10497,cover=21.444
+				28:leaf=0.0353484,cover=12.7605
+			14:[Sheng_Yu_Li_Xi_(Yuan_)<2457.5] yes=29,no=30,missing=29,gain=10.0389,cover=265.639
+				29:leaf=-0.0249844,cover=257.608
+				30:leaf=0.0825172,cover=8.03108
+booster[25]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=222.373,cover=2316.72
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=5.96787,cover=1789.15
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.05001,cover=1381.62
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.732153,cover=1309
+				15:leaf=-0.00807134,cover=1.05034
+				16:leaf=-0.100002,cover=1307.95
+			8:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=17,no=18,missing=17,gain=2.28203,cover=72.6219
+				17:leaf=-0.0823829,cover=70.1576
+				18:leaf=0.0112984,cover=2.46435
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=3.52837,cover=407.533
+			9:[Dao_Qi_Ri__day<21.5] yes=19,no=20,missing=19,gain=3.23859,cover=26.8134
+				19:leaf=-0.0721403,cover=16.652
+				20:leaf=-0.00115966,cover=10.1614
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<3477] yes=21,no=22,missing=21,gain=2.29726,cover=380.719
+				21:leaf=-0.0873695,cover=377.593
+				22:leaf=-0.000981439,cover=3.12652
+	2:[Qi_Shi_Ri__day<27.5] yes=5,no=6,missing=5,gain=13.0964,cover=527.573
+		5:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=11,no=12,missing=12,gain=12.7355,cover=450.543
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<7422] yes=23,no=24,missing=23,gain=11.848,cover=421.29
+				23:leaf=-0.0251558,cover=353.918
+				24:leaf=-0.0708199,cover=67.3719
+			12:[Sheng_Yu_Ben_Jin_(Yuan_)<20624.5] yes=25,no=26,missing=25,gain=4.33236,cover=29.2523
+				25:leaf=0.0158916,cover=24.5829
+				26:leaf=0.113806,cover=4.66936
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2659.5] yes=13,no=14,missing=13,gain=6.81683,cover=77.0299
+			13:[Yi_Huan_Li_Xi_(Yuan_)<156.5] yes=27,no=28,missing=28,gain=2.81601,cover=7.21828
+				27:leaf=0.0277973,cover=1.77914
+				28:leaf=-0.101724,cover=5.43915
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<2083] yes=29,no=30,missing=29,gain=6.74248,cover=69.8116
+				29:leaf=0.0604589,cover=30.6131
+				30:leaf=-0.00157383,cover=39.1985
+booster[26]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=218.735,cover=2158.41
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=6.46399,cover=1639.14
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.34777,cover=1059.31
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.746961,cover=1005.14
+				15:leaf=-0.00768469,cover=1.04354
+				16:leaf=-0.100349,cover=1004.09
+			8:[Di_Qu_=He_Nan_Fen_Bu_<-9.53674e-07] yes=17,no=18,missing=17,gain=1.08701,cover=54.1687
+				17:leaf=-0.0819203,cover=52.1003
+				18:leaf=-0.00531657,cover=2.06846
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=4.21847,cover=579.838
+			9:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=19,no=20,missing=19,gain=6.21985,cover=38.882
+				19:leaf=-0.0592206,cover=37.7474
+				20:leaf=0.119674,cover=1.13466
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<3477] yes=21,no=22,missing=21,gain=2.34665,cover=540.956
+				21:leaf=-0.0881131,cover=537.831
+				22:leaf=-0.000907541,cover=3.12457
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3119.5] yes=5,no=6,missing=6,gain=12.3632,cover=519.269
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=11,no=12,missing=11,gain=10.4804,cover=364.324
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=9.93871,cover=289.089
+				23:leaf=0.00443484,cover=45.2819
+				24:leaf=-0.0464707,cover=243.808
+			12:[He_Tong_Jin_E_(Yuan_)<16969.5] yes=25,no=26,missing=25,gain=9.00564,cover=75.2348
+				25:leaf=0.038987,cover=35.9063
+				26:leaf=-0.029378,cover=39.3285
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3131.67] yes=13,no=14,missing=13,gain=31.1582,cover=154.945
+			13:[Sheng_Yu_Li_Xi_(Yuan_)<1777.5] yes=27,no=28,missing=28,gain=4.34815,cover=43.2816
+				27:leaf=0.028253,cover=14.7866
+				28:leaf=0.0972556,cover=28.495
+			14:[Qi_Shi_Ri__day<13.5] yes=29,no=30,missing=29,gain=6.73059,cover=111.663
+				29:leaf=-0.0546115,cover=43.1431
+				30:leaf=-0.00446874,cover=68.5199
+booster[27]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=212.939,cover=2011.5
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=7.00068,cover=1502.3
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.44933,cover=1153.1
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.720015,cover=1089.91
+				15:leaf=-0.00731655,cover=1.0371
+				16:leaf=-0.098342,cover=1088.87
+			8:[Di_Qu_=Yan_Xi_Fen_Bu_<-9.53674e-07] yes=17,no=18,missing=17,gain=2.23119,cover=63.193
+				17:leaf=-0.0772526,cover=62.0769
+				18:leaf=0.0392605,cover=1.11608
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=3.62467,cover=349.197
+			9:[Dao_Qi_Ri__day<21.5] yes=19,no=20,missing=19,gain=3.05381,cover=24.5193
+				19:leaf=-0.0674258,cover=14.8232
+				20:leaf=0.00349954,cover=9.69608
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<8703.33] yes=21,no=22,missing=21,gain=2.36211,cover=324.678
+				21:leaf=-0.0833011,cover=323.569
+				22:leaf=0.0372595,cover=1.10872
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=11.8889,cover=509.202
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<100000] yes=11,no=12,missing=12,gain=10.2414,cover=326.893
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=23,no=24,missing=23,gain=10.3124,cover=197.296
+				23:leaf=-0.0605604,cover=128.473
+				24:leaf=-0.0124382,cover=68.8232
+			12:[Qi_Shi_Ri__day<24.5] yes=25,no=26,missing=25,gain=10.4437,cover=129.597
+				25:leaf=-0.0227373,cover=101.26
+				26:leaf=0.0449664,cover=28.3368
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<5861] yes=13,no=14,missing=13,gain=8.32727,cover=182.309
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<1849.5] yes=27,no=28,missing=28,gain=13.3144,cover=113.417
+				27:leaf=-0.0115897,cover=63.4532
+				28:leaf=0.0568984,cover=49.9635
+			14:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=29,no=30,missing=30,gain=7.40316,cover=68.8923
+				29:leaf=-0.0483881,cover=45.1699
+				30:leaf=0.0197018,cover=23.7225
+booster[28]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=206.451,cover=1877.85
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=7.58236,cover=1377.75
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.68584,cover=882.546
+			7:[Yi_Huan_Li_Xi_(Yuan_)<11] yes=15,no=16,missing=16,gain=0.737747,cover=835.538
+				15:leaf=-0.00696604,cover=1.03099
+				16:leaf=-0.0989132,cover=834.507
+			8:[Di_Qu_=He_Nan_Fen_Bu_<-9.53674e-07] yes=17,no=18,missing=17,gain=1.11697,cover=47.0081
+				17:leaf=-0.0778172,cover=45.0903
+				18:leaf=4.67312e-05,cover=1.9178
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<1592.5] yes=9,no=10,missing=9,gain=4.46992,cover=495.203
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=19,no=20,missing=19,gain=2.59407,cover=481.323
+				19:leaf=-0.0855187,cover=434.113
+				20:leaf=-0.0580249,cover=47.2092
+			10:[He_Tong_Li_Lu_(%)<20.4384] yes=21,no=22,missing=22,gain=6.04506,cover=13.8805
+				21:leaf=-0.0508008,cover=12.0369
+				22:leaf=0.110797,cover=1.8436
+	2:[Qi_Shi_Ri__day<27.5] yes=5,no=6,missing=5,gain=10.0065,cover=500.099
+		5:[Yu_Qi_Ben_Jin_(Yuan_)<1853] yes=11,no=12,missing=12,gain=9.39215,cover=424.786
+			11:[Sheng_Yu_Li_Xi_(Yuan_)<1089.5] yes=23,no=24,missing=23,gain=9.85062,cover=200.642
+				23:leaf=-0.0419812,cover=195.951
+				24:leaf=0.0924601,cover=4.691
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2135.68] yes=25,no=26,missing=25,gain=23.8269,cover=224.144
+				25:leaf=0.0456296,cover=58.7261
+				26:leaf=-0.0280099,cover=165.418
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2498] yes=13,no=14,missing=13,gain=5.52459,cover=75.313
+			13:[Nian_Ling_<28.5] yes=27,no=28,missing=27,gain=2.04295,cover=5.46279
+				27:leaf=-0.0980921,cover=4.42141
+				28:leaf=0.0316312,cover=1.04137
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<14624.5] yes=29,no=30,missing=29,gain=5.25084,cover=69.8503
+				29:leaf=0.0329226,cover=64.1222
+				30:leaf=-0.0603936,cover=5.7281
+booster[29]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=199.96,cover=1757.1
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=8.11309,cover=1264.28
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=1.86136,cover=805.278
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<8.1] yes=15,no=16,missing=16,gain=0.743969,cover=761.408
+				15:leaf=-0.00650274,cover=1.03302
+				16:leaf=-0.0981912,cover=760.375
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.2076,cover=43.87
+				17:leaf=-0.0428179,cover=13.8488
+				18:leaf=-0.0842057,cover=30.0212
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=4.76277,cover=459.005
+			9:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=19,no=20,missing=19,gain=5.45761,cover=32.883
+				19:leaf=-0.0497863,cover=31.7615
+				20:leaf=0.118143,cover=1.1215
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<3477] yes=21,no=22,missing=21,gain=2.3239,cover=426.122
+				21:leaf=-0.0827881,cover=423.231
+				22:leaf=0.00539649,cover=2.89008
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=9.71988,cover=492.818
+		5:[Xing_Bie_=Nan_<-9.53674e-07] yes=11,no=12,missing=11,gain=9.7493,cover=314.58
+			11:[Sheng_Yu_Qi_Shu_<10.5] yes=23,no=24,missing=23,gain=10.0394,cover=273.163
+				23:leaf=-0.0358116,cover=266.873
+				24:leaf=0.0837597,cover=6.28981
+			12:[Sheng_Yu_Qi_Shu_<4.5] yes=25,no=26,missing=25,gain=6.91621,cover=41.4177
+				25:leaf=-0.00587854,cover=30.6674
+				26:leaf=0.0841818,cover=10.7503
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<5861] yes=13,no=14,missing=13,gain=6.8702,cover=178.238
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<2277.5] yes=27,no=28,missing=28,gain=9.71067,cover=111.272
+				27:leaf=-0.00437956,cover=69.9175
+				28:leaf=0.0562399,cover=41.3546
+			14:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=29,no=30,missing=30,gain=6.66744,cover=66.9655
+				29:leaf=-0.0524449,cover=33.7907
+				30:leaf=0.00996248,cover=33.1748
+booster[30]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=192.786,cover=1646.64
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=8.65967,cover=1161.09
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.03267,cover=735.028
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<8.1] yes=15,no=16,missing=16,gain=0.73794,cover=693.966
+				15:leaf=-0.00619012,cover=1.02747
+				16:leaf=-0.0974584,cover=692.938
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.20698,cover=41.0628
+				17:leaf=-0.0403738,cover=13.3078
+				18:leaf=-0.0823867,cover=27.7549
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=4.75611,cover=426.059
+			9:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=19,no=20,missing=19,gain=4.76923,cover=31.5683
+				19:leaf=-0.0470886,cover=30.3552
+				20:leaf=0.107025,cover=1.2131
+			10:[Sheng_Yu_Li_Xi_(Yuan_)<3477] yes=21,no=22,missing=21,gain=2.20425,cover=394.49
+				21:leaf=-0.0808731,cover=391.591
+				22:leaf=0.00498248,cover=2.89977
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<184.5] yes=5,no=6,missing=6,gain=9.24527,cover=485.549
+		5:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=11,no=12,missing=11,gain=3.40457,cover=36.6497
+			11:[Sheng_Yu_Ben_Jin_(Yuan_)<2952] yes=23,no=24,missing=23,gain=2.80888,cover=30.365
+				23:leaf=-0.0405869,cover=15.1661
+				24:leaf=-0.10499,cover=15.1989
+			12:[Dao_Qi_Ri__day<10.5] yes=25,no=26,missing=25,gain=4.33335,cover=6.28466
+				25:leaf=0.0967447,cover=2.14185
+				26:leaf=-0.052348,cover=4.14281
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2610] yes=13,no=14,missing=13,gain=8.79165,cover=448.9
+			13:[He_Tong_Jin_E_(Yuan_)<3494.5] yes=27,no=28,missing=27,gain=3.00013,cover=28.8985
+				27:leaf=-0.0207949,cover=11.6814
+				28:leaf=-0.0880053,cover=17.2171
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<12302] yes=29,no=30,missing=29,gain=10.1842,cover=420.001
+				29:leaf=-0.000667768,cover=372.366
+				30:leaf=-0.0493265,cover=47.6355
+booster[31]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=185.583,cover=1548.41
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=9.23125,cover=1067.26
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.27051,cover=807.297
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=0.858898,cover=758.496
+				15:leaf=-0.0532427,cover=9.09384
+				16:leaf=-0.0952377,cover=749.403
+			8:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=17,no=18,missing=17,gain=2.26837,cover=48.8001
+				17:leaf=-0.0696026,cover=46.7319
+				18:leaf=0.0268726,cover=2.06824
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=4.9193,cover=259.967
+			9:[Sheng_Yu_Li_Xi_(Yuan_)<1592.5] yes=19,no=20,missing=19,gain=3.15585,cover=242.18
+				19:leaf=-0.0767557,cover=231.53
+				20:leaf=-0.0189608,cover=10.6498
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<10876.5] yes=21,no=22,missing=21,gain=5.26675,cover=17.7875
+				21:leaf=-0.0716653,cover=8.46849
+				22:leaf=0.0319334,cover=9.31901
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3119.5] yes=5,no=6,missing=6,gain=9.1287,cover=481.145
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<10386] yes=11,no=12,missing=11,gain=7.26929,cover=336.588
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=7.45122,cover=275.968
+				23:leaf=0.00850508,cover=44.6677
+				24:leaf=-0.0359238,cover=231.3
+			12:[Nian_Ling_<19.5] yes=25,no=26,missing=25,gain=8.58113,cover=60.6206
+				25:leaf=0.103288,cover=7.40485
+				26:leaf=-0.00536026,cover=53.2158
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3208.33] yes=13,no=14,missing=13,gain=19.8973,cover=144.557
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6811] yes=27,no=28,missing=27,gain=6.91688,cover=44.4556
+				27:leaf=0.127551,cover=11.3572
+				28:leaf=0.0378033,cover=33.0984
+			14:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=29,no=30,missing=30,gain=5.97979,cover=100.101
+				29:leaf=-0.0337836,cover=66.6528
+				30:leaf=0.0175173,cover=33.4482
+booster[32]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=177.027,cover=1455.9
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=9.83906,cover=982.171
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.37323,cover=614.141
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<8.735] yes=15,no=16,missing=16,gain=0.750234,cover=577.955
+				15:leaf=-0.00463739,cover=1.00542
+				16:leaf=-0.095954,cover=576.949
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.326,cover=36.1858
+				17:leaf=-0.0339111,cover=12.0401
+				18:leaf=-0.0789368,cover=24.1457
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=4.961,cover=368.031
+			9:[Sheng_Yu_Li_Xi_(Yuan_)<1722] yes=19,no=20,missing=19,gain=4.29145,cover=28.6608
+				19:leaf=-0.0407888,cover=27.442
+				20:leaf=0.105189,cover=1.21874
+			10:[Xing_Bie_=Nan_<-9.53674e-07] yes=21,no=22,missing=21,gain=2.66974,cover=339.37
+				21:leaf=-0.0791081,cover=306.5
+				22:leaf=-0.0464848,cover=32.8703
+	2:[Qi_Shi_Ri__day<27.5] yes=5,no=6,missing=5,gain=8.22647,cover=473.727
+		5:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=11,no=12,missing=12,gain=7.82041,cover=400.59
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<7422] yes=23,no=24,missing=23,gain=9.94096,cover=373.05
+				23:leaf=-0.0141534,cover=316.282
+				24:leaf=-0.0593563,cover=56.7683
+			12:[Xing_Ye_=Shang_Ye_/Mao_Yi_<-9.53674e-07] yes=25,no=26,missing=25,gain=4.0588,cover=27.54
+				25:leaf=0.0463992,cover=24.8053
+				26:leaf=-0.0665955,cover=2.73471
+		6:[He_Tong_Li_Lu_(%)<19.5238] yes=13,no=14,missing=14,gain=4.65803,cover=73.1366
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<2020] yes=27,no=28,missing=27,gain=7.38076,cover=53.9052
+				27:leaf=0.0737907,cover=24.1067
+				28:leaf=0.000186542,cover=29.7985
+			14:[He_Tong_Li_Lu_(%)<20.5891] yes=29,no=30,missing=29,gain=6.7094,cover=19.2315
+				29:leaf=-0.0790288,cover=9.39697
+				30:leaf=0.0338285,cover=9.8345
+booster[33]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=168.615,cover=1373.97
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=10.3749,cover=904.829
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.53718,cover=561.294
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<8.735] yes=15,no=16,missing=16,gain=0.74114,cover=527.222
+				15:leaf=-0.00441398,cover=1.00149
+				16:leaf=-0.0951546,cover=526.22
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.29501,cover=34.0717
+				17:leaf=-0.0317487,cover=11.6626
+				18:leaf=-0.0769467,cover=22.4092
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<1235] yes=9,no=10,missing=9,gain=5.06312,cover=343.535
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.09879,cover=326.206
+				19:leaf=-0.0765747,cover=292.285
+				20:leaf=-0.0424567,cover=33.9216
+			10:[He_Tong_Li_Lu_(%)<20.0554] yes=21,no=22,missing=22,gain=5.22479,cover=17.329
+				21:leaf=-0.0402599,cover=14.8233
+				22:leaf=0.0950051,cover=2.50568
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<183.5] yes=5,no=6,missing=6,gain=7.99585,cover=469.143
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<2952] yes=11,no=12,missing=11,gain=3.62595,cover=33.4757
+			11:[Nian_Ling_<28.5] yes=23,no=24,missing=23,gain=4.60528,cover=17.2644
+				23:leaf=-0.0479871,cover=14.0336
+				24:leaf=0.070764,cover=3.23078
+			12:[Xing_Bie_=Nu_<-9.53674e-07] yes=25,no=26,missing=25,gain=1.99069,cover=16.2113
+				25:leaf=-0.0031286,cover=2.35948
+				26:leaf=-0.10337,cover=13.8519
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2610] yes=13,no=14,missing=13,gain=7.60818,cover=435.667
+			13:[He_Tong_Jin_E_(Yuan_)<3494.5] yes=27,no=28,missing=27,gain=2.98745,cover=26.7496
+				27:leaf=-0.0160206,cover=11.1457
+				28:leaf=-0.0847004,cover=15.6039
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<12302] yes=29,no=30,missing=29,gain=8.47415,cover=408.918
+				29:leaf=0.00152659,cover=364.095
+				30:leaf=-0.0440998,cover=44.8225
+booster[34]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=159.955,cover=1300.17
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=10.8604,cover=834.503
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.69488,cover=513.3
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<9.11] yes=15,no=16,missing=16,gain=0.714987,cover=481.151
+				15:leaf=-0.00504443,cover=1.01518
+				16:leaf=-0.0943203,cover=480.136
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.25696,cover=32.1494
+				17:leaf=-0.0296725,cover=11.3191
+				18:leaf=-0.0748946,cover=20.8303
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=5.2063,cover=321.203
+			9:[Dao_Qi_Ri__day<25.5] yes=19,no=20,missing=19,gain=4.36486,cover=26.0193
+				19:leaf=-0.0483704,cover=18.9436
+				20:leaf=0.0393208,cover=7.07573
+			10:[Xing_Bie_=Nan_<-9.53674e-07] yes=21,no=22,missing=21,gain=2.63897,cover=295.184
+				21:leaf=-0.0750796,cover=264.971
+				22:leaf=-0.0414852,cover=30.2129
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<3119.5] yes=5,no=6,missing=6,gain=7.96323,cover=465.668
+		5:[Sheng_Yu_Li_Xi_(Yuan_)<1099.5] yes=11,no=12,missing=11,gain=6.21777,cover=325.853
+			11:[Xing_Bie_=Nu_<-9.53674e-07] yes=23,no=24,missing=23,gain=5.74922,cover=311.928
+				23:leaf=0.00918977,cover=51.2186
+				24:leaf=-0.0272938,cover=260.709
+			12:[Qi_Shi_Ri__day<3.5] yes=25,no=26,missing=25,gain=8.1547,cover=13.9252
+				25:leaf=0.209734,cover=1.50335
+				26:leaf=0.0108668,cover=12.4218
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3850.02] yes=13,no=14,missing=13,gain=16.3513,cover=139.816
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<3702.5] yes=27,no=28,missing=28,gain=7.43452,cover=73.1309
+				27:leaf=0.00582007,cover=31.8353
+				28:leaf=0.0699949,cover=41.2956
+			14:[Nian_Ling_<23.5] yes=29,no=30,missing=29,gain=6.77768,cover=66.6848
+				29:leaf=0.0167346,cover=23.8993
+				30:leaf=-0.0489183,cover=42.7855
+booster[35]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=150.569,cover=1230.37
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=11.3428,cover=770.852
+		3:[Sheng_Yu_Qi_Shu_<3.5] yes=7,no=8,missing=7,gain=4.67261,cover=701.523
+			7:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=15,no=16,missing=15,gain=2.84442,cover=469.731
+				15:leaf=-0.0932529,cover=439.329
+				16:leaf=-0.0578568,cover=30.402
+			8:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=17,no=18,missing=17,gain=4.30042,cover=231.793
+				17:leaf=-0.0750069,cover=224.009
+				18:leaf=0.000530933,cover=7.7834
+		4:[He_Tong_Li_Lu_(%)<19.5237] yes=9,no=10,missing=10,gain=9.05993,cover=69.3287
+			9:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=19,no=20,missing=19,gain=4.98791,cover=59.5459
+				19:leaf=-0.0648154,cover=54.8084
+				20:leaf=0.0361157,cover=4.7375
+			10:[He_Tong_Li_Lu_(%)<20.6203] yes=21,no=22,missing=22,gain=7.95016,cover=9.78283
+				21:leaf=0.0992702,cover=6.83954
+				22:leaf=-0.076744,cover=2.94328
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<12980.5] yes=5,no=6,missing=6,gain=7.40577,cover=459.515
+		5:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=11,no=12,missing=11,gain=7.57283,cover=446.38
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<12302] yes=23,no=24,missing=23,gain=7.12838,cover=419.178
+				23:leaf=-0.0102477,cover=380.723
+				24:leaf=-0.0549613,cover=38.4548
+			12:[Nian_Ling_<32.5] yes=25,no=26,missing=25,gain=5.4612,cover=27.2022
+				25:leaf=0.0579506,cover=23.0908
+				26:leaf=-0.0573808,cover=4.11145
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<10166.7] yes=13,no=14,missing=13,gain=6.38422,cover=13.1349
+			13:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=27,no=28,missing=28,gain=2.59914,cover=10.0822
+				27:leaf=0.146947,cover=4.7491
+				28:leaf=0.039293,cover=5.33308
+			14:[Qi_Shi_Ri__day<20] yes=29,no=30,missing=29,gain=1.59768,cover=3.05268
+				29:leaf=-0.0923273,cover=1.95387
+				30:leaf=0.0293134,cover=1.09881
+booster[36]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=141.59,cover=1168.94
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=11.7218,cover=712.933
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=2.99515,cover=430.15
+			7:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<13316.7] yes=15,no=16,missing=15,gain=0.829031,cover=401.377
+				15:leaf=-0.0927412,cover=398.235
+				16:leaf=-0.0287445,cover=3.1423
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.31705,cover=28.7723
+				17:leaf=-0.0236802,cover=10.4208
+				18:leaf=-0.0710657,cover=18.3515
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=5.21894,cover=282.783
+			9:[Dao_Qi_Ri__day<25.5] yes=19,no=20,missing=19,gain=3.80845,cover=24.0607
+				19:leaf=-0.0424449,cover=17.102
+				20:leaf=0.0408827,cover=6.95868
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<15554] yes=21,no=22,missing=21,gain=2.83078,cover=258.722
+				21:leaf=-0.0727729,cover=204.94
+				22:leaf=-0.0452359,cover=53.7826
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=5,no=6,missing=6,gain=7.03958,cover=456.009
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<25868] yes=11,no=12,missing=12,gain=7.72716,cover=288.225
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=23,no=24,missing=23,gain=10.4912,cover=165.466
+				23:leaf=-0.0495685,cover=108.912
+				24:leaf=0.00337995,cover=56.5548
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=25,no=26,missing=25,gain=7.42054,cover=122.759
+				25:leaf=0.0672958,cover=14.0656
+				26:leaf=-0.00755151,cover=108.693
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<20749.5] yes=13,no=14,missing=13,gain=5.30112,cover=167.784
+			13:[Yi_Huan_Ben_Jin_(Yuan_)<3406.5] yes=27,no=28,missing=27,gain=7.43895,cover=141.017
+				27:leaf=0.0238473,cover=68.2845
+				28:leaf=-0.0217882,cover=72.7327
+			14:[Yi_Huan_Ben_Jin_(Yuan_)<7436] yes=29,no=30,missing=30,gain=4.88015,cover=26.7663
+				29:leaf=0.0978246,cover=10.5649
+				30:leaf=0.0119168,cover=16.2014
+booster[37]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=132.012,cover=1111.52
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=12.0968,cover=660.558
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.12248,cover=394.31
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=0.959302,cover=366.978
+				15:leaf=-0.0381084,cover=5.2758
+				16:leaf=-0.0919893,cover=361.702
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<23491.5] yes=17,no=18,missing=18,gain=1.36905,cover=27.3324
+				17:leaf=-0.0596439,cover=24.8529
+				18:leaf=0.0134407,cover=2.47951
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<1235] yes=9,no=10,missing=9,gain=5.25039,cover=266.248
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.47522,cover=251.579
+				19:leaf=-0.0681204,cover=223.832
+				20:leaf=-0.0290915,cover=27.7475
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2922.52] yes=21,no=22,missing=21,gain=4.73827,cover=14.6683
+				21:leaf=0.0576435,cover=6.38802
+				22:leaf=-0.0496895,cover=8.28026
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<188.5] yes=5,no=6,missing=6,gain=6.8764,cover=450.96
+		5:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=11,no=12,missing=11,gain=3.03395,cover=32.9327
+			11:[Nian_Ling_<39.5] yes=23,no=24,missing=23,gain=2.65794,cover=27.1121
+				23:leaf=-0.0723669,cover=25.4486
+				24:leaf=0.0400318,cover=1.66352
+			12:[Dao_Qi_Ri__day<10.5] yes=25,no=26,missing=25,gain=3.37066,cover=5.82063
+				25:leaf=0.089988,cover=2.22172
+				26:leaf=-0.0436903,cover=3.59891
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<2610] yes=13,no=14,missing=13,gain=6.45361,cover=418.027
+			13:[He_Tong_Jin_E_(Yuan_)<3494.5] yes=27,no=28,missing=27,gain=2.98501,cover=24.5325
+				27:leaf=-0.0105758,cover=10.5117
+				28:leaf=-0.0812006,cover=14.0208
+			14:[Qi_Shi_Ri__day<27.5] yes=29,no=30,missing=29,gain=7.47462,cover=393.495
+				29:leaf=-0.00673037,cover=329.867
+				30:leaf=0.0304513,cover=63.6281
+booster[38]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=122.822,cover=1061.48
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=12.4225,cover=613.048
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.24904,cover=361.77
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=0.991785,cover=335.784
+				15:leaf=-0.0360499,cover=5.08651
+				16:leaf=-0.0909929,cover=330.697
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.38351,cover=25.9861
+				17:leaf=-0.0175904,cover=9.62843
+				18:leaf=-0.0672621,cover=16.3576
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=5.19548,cover=251.278
+			9:[Dao_Qi_Ri__day<21.5] yes=19,no=20,missing=19,gain=3.4346,cover=22.4266
+				19:leaf=-0.0442604,cover=12.6945
+				20:leaf=0.0314317,cover=9.73213
+			10:[Xing_Bie_=Nan_<-9.53674e-07] yes=21,no=22,missing=21,gain=2.90572,cover=228.851
+				21:leaf=-0.0664547,cover=203.936
+				22:leaf=-0.0286137,cover=24.9156
+	2:[Xing_Bie_=Nan_<-9.53674e-07] yes=5,no=6,missing=5,gain=6.27836,cover=448.434
+		5:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=11,no=12,missing=12,gain=7.56042,cover=384.678
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<12839.5] yes=23,no=24,missing=23,gain=6.87586,cover=339.366
+				23:leaf=-0.01287,cover=318.491
+				24:leaf=-0.0709383,cover=20.8751
+			12:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<264.295] yes=25,no=26,missing=25,gain=4.37261,cover=45.312
+				25:leaf=0.0361194,cover=41.5784
+				26:leaf=-0.0659845,cover=3.73362
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<4606] yes=13,no=14,missing=13,gain=8.14556,cover=63.7555
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<2830] yes=27,no=28,missing=27,gain=7.5257,cover=47.2277
+				27:leaf=-0.036791,cover=8.87022
+				28:leaf=0.0620392,cover=38.3575
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<6661.5] yes=29,no=30,missing=30,gain=5.69399,cover=16.5277
+				29:leaf=-0.0598365,cover=14.437
+				30:leaf=0.0905191,cover=2.09078
+booster[39]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=113.542,cover=1015.28
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=12.7729,cover=570.01
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=4.50225,cover=411.253
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=1.86654,cover=379.192
+				15:leaf=-0.0217352,cover=5.25351
+				16:leaf=-0.0867925,cover=373.939
+			8:[Mei_Qi_Huan_Kuan_Ri_<29.5] yes=17,no=18,missing=17,gain=2.33882,cover=32.0609
+				17:leaf=-0.0527369,cover=29.4478
+				18:leaf=0.0358099,cover=2.61313
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.41193,cover=158.757
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.49383,cover=146.725
+				19:leaf=-0.0603203,cover=128.743
+				20:leaf=-0.0124806,cover=17.9815
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<10876.5] yes=21,no=22,missing=21,gain=5.98397,cover=12.0317
+				21:leaf=-0.0543891,cover=5.26818
+				22:leaf=0.0773714,cover=6.76347
+	2:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=5,no=6,missing=5,gain=6.36918,cover=445.267
+		5:[Yu_Qi_Ben_Jin_(Yuan_)<3690.5] yes=11,no=12,missing=12,gain=7.38924,cover=267.324
+			11:[Xing_Bie_=Nan_<-9.53674e-07] yes=23,no=24,missing=23,gain=6.60863,cover=251.678
+				23:leaf=-0.0275206,cover=207.177
+				24:leaf=0.0146764,cover=44.5006
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3791.68] yes=25,no=26,missing=25,gain=9.59278,cover=15.6462
+				25:leaf=0.0886693,cover=12.311
+				26:leaf=-0.084604,cover=3.33513
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4855.83] yes=13,no=14,missing=13,gain=9.93622,cover=177.943
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<4653] yes=27,no=28,missing=28,gain=9.99462,cover=140.047
+				27:leaf=0.00679084,cover=110.571
+				28:leaf=0.0715464,cover=29.4762
+			14:[Nian_Ling_<23.5] yes=29,no=30,missing=29,gain=5.31402,cover=37.8959
+				29:leaf=0.0172974,cover=12.1526
+				30:leaf=-0.0612702,cover=25.7433
+booster[40]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=104.14,cover=971.104
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=13.0759,cover=530.932
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.44095,cover=306.474
+			7:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<13316.7] yes=15,no=16,missing=15,gain=1.20999,cover=282.76
+				15:leaf=-0.0886184,cover=280.41
+				16:leaf=-0.0112405,cover=2.34967
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<18836.5] yes=17,no=18,missing=18,gain=1.45369,cover=23.7139
+				17:leaf=-0.0549918,cover=20.3176
+				18:leaf=0.0123017,cover=3.39627
+		4:[Sheng_Yu_Li_Xi_(Yuan_)<1235] yes=9,no=10,missing=9,gain=5.26314,cover=224.458
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.0749,cover=211.038
+				19:leaf=-0.0608839,cover=185.573
+				20:leaf=-0.0226314,cover=25.4653
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<22516.5] yes=21,no=22,missing=21,gain=4.25787,cover=13.42
+				21:leaf=0.0697624,cover=5.37761
+				22:leaf=-0.0370069,cover=8.04239
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<13733] yes=5,no=6,missing=6,gain=5.67532,cover=440.173
+		5:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=11,no=12,missing=11,gain=6.03652,cover=429.663
+			11:[Sheng_Yu_Qi_Shu_<7.5] yes=23,no=24,missing=23,gain=5.7684,cover=402.637
+				23:leaf=-0.014417,cover=363.932
+				24:leaf=0.0257567,cover=38.7058
+			12:[Qi_Shi_Ri__day<11.5] yes=25,no=26,missing=25,gain=4.97586,cover=27.0258
+				25:leaf=-0.0286278,cover=7.56711
+				26:leaf=0.0633792,cover=19.4587
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<233.75] yes=13,no=14,missing=13,gain=3.95323,cover=10.5095
+			13:[Nian_Ling_<35.5] yes=27,no=28,missing=27,gain=1.3226,cover=8.26457
+				27:leaf=0.106912,cover=7.23193
+				28:leaf=-0.00689548,cover=1.03264
+			14:[Dang_Qian_Qi_Shu_<4.5] yes=29,no=30,missing=29,gain=1.72101,cover=2.24495
+				29:leaf=-0.0963161,cover=1.14758
+				30:leaf=0.0356424,cover=1.09737
+booster[41]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=95.4921,cover=933.302
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=13.1826,cover=495.52
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.51503,cover=282.118
+			7:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<13316.7] yes=15,no=16,missing=15,gain=1.18922,cover=259.411
+				15:leaf=-0.0874047,cover=257.087
+				16:leaf=-0.0105371,cover=2.324
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.51604,cover=22.7075
+				17:leaf=-0.00818203,cover=8.59329
+				18:leaf=-0.0618686,cover=14.1142
+		4:[Sheng_Yu_Qi_Shu_<6.5] yes=9,no=10,missing=9,gain=5.22605,cover=213.402
+			9:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=19,no=20,missing=19,gain=5.21483,cover=160.833
+				19:leaf=-0.062378,cover=154.962
+				20:leaf=0.0295337,cover=5.87054
+			10:[He_Tong_Li_Lu_(%)<19.8381] yes=21,no=22,missing=22,gain=9.53643,cover=52.5688
+				21:leaf=-0.0393428,cover=45.2573
+				22:leaf=0.0772877,cover=7.31153
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<188.5] yes=5,no=6,missing=6,gain=5.42011,cover=437.783
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<2952] yes=11,no=12,missing=11,gain=3.38491,cover=30.721
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<949.5] yes=23,no=24,missing=24,gain=4.91286,cover=15.3595
+				23:leaf=-0.0628767,cover=7.70701
+				24:leaf=0.0436308,cover=7.65246
+			12:[Xing_Bie_=Nu_<-9.53674e-07] yes=25,no=26,missing=25,gain=2.23694,cover=15.3615
+				25:leaf=0.00579864,cover=2.63171
+				26:leaf=-0.0927463,cover=12.7298
+		6:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=13,no=14,missing=13,gain=5.67754,cover=407.062
+			13:[Sheng_Yu_Li_Xi_(Yuan_)<2769] yes=27,no=28,missing=27,gain=6.52306,cover=393.277
+				27:leaf=-0.00118723,cover=388.549
+				28:leaf=0.106304,cover=4.72855
+			14:[Qi_Shi_Ri__day<17.5] yes=29,no=30,missing=29,gain=2.9668,cover=13.7845
+				29:leaf=-0.102591,cover=7.27086
+				30:leaf=-0.0105447,cover=6.51359
+booster[42]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=87.0573,cover=899.291
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=13.1846,cover=463.322
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.55691,cover=260.069
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=1.30899,cover=238.249
+				15:leaf=-0.022314,cover=4.06049
+				16:leaf=-0.0864169,cover=234.189
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<18836.5] yes=17,no=18,missing=18,gain=1.42236,cover=21.82
+				17:leaf=-0.0506755,cover=18.5823
+				18:leaf=0.016641,cover=3.23772
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=5.19763,cover=203.253
+			9:[Dao_Qi_Ri__day<25.5] yes=19,no=20,missing=19,gain=3.17205,cover=19.5495
+				19:leaf=-0.0257583,cover=13.3036
+				20:leaf=0.0554569,cover=6.24589
+			10:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=21,no=22,missing=21,gain=3.37791,cover=183.703
+				21:leaf=-0.0569808,cover=165.608
+				22:leaf=-0.0108093,cover=18.0956
+	2:[Qi_Shi_Ri__day<27.5] yes=5,no=6,missing=5,gain=5.26522,cover=435.97
+		5:[Li_Shi_Yu_Qi_Ci_Shu_<4.5] yes=11,no=12,missing=12,gain=5.33497,cover=366.11
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<7422] yes=23,no=24,missing=23,gain=7.57485,cover=340.314
+				23:leaf=-0.00656859,cover=291.63
+				24:leaf=-0.0488447,cover=48.684
+			12:[Xing_Ye_=Shang_Ye_/Mao_Yi_<-9.53674e-07] yes=25,no=26,missing=25,gain=3.63417,cover=25.7961
+				25:leaf=0.046229,cover=23.3505
+				26:leaf=-0.0651307,cover=2.44561
+		6:[He_Tong_Li_Lu_(%)<18.9998] yes=13,no=14,missing=14,gain=3.72378,cover=69.8597
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<5200] yes=27,no=28,missing=27,gain=2.78323,cover=5.59145
+				27:leaf=-0.00898666,cover=1.80391
+				28:leaf=0.132107,cover=3.78754
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<7303] yes=29,no=30,missing=30,gain=3.36069,cover=64.2682
+				29:leaf=0.00573205,cover=59.5985
+				30:leaf=0.0864369,cover=4.66974
+booster[43]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<625.5] yes=1,no=2,missing=1,gain=79.1054,cover=867.617
+	1:[Sheng_Yu_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=13.9207,cover=445.555
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=4.7214,cover=307.906
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<9199.5] yes=15,no=16,missing=15,gain=2.09857,cover=297.337
+				15:leaf=-0.0813389,cover=258.488
+				16:leaf=-0.053366,cover=38.8486
+			8:[Qi_Shi_Ri__month<9.5] yes=17,no=18,missing=17,gain=6.92453,cover=10.5696
+				17:leaf=-0.0447964,cover=9.11813
+				18:leaf=0.142628,cover=1.45143
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.95083,cover=137.649
+			9:[Xing_Ye_=Fu_Wu_Ye_<-9.53674e-07] yes=19,no=20,missing=19,gain=4.28754,cover=126.498
+				19:leaf=-0.0535375,cover=97.3578
+				20:leaf=-0.00949199,cover=29.1399
+			10:[Nian_Ling_<27.5] yes=21,no=22,missing=21,gain=4.77118,cover=11.1511
+				21:leaf=0.0689901,cover=8.84036
+				22:leaf=-0.0715562,cover=2.31074
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<653.6] yes=5,no=6,missing=5,gain=5.97073,cover=422.062
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<2641.5] yes=11,no=12,missing=11,gain=5.99429,cover=6.78212
+			11:[Sheng_Yu_Ben_Jin_(Yuan_)<2345] yes=23,no=24,missing=23,gain=1.59263,cover=2.63809
+				23:leaf=0.0316863,cover=1.53057
+				24:leaf=-0.0884466,cover=1.10752
+			12:[Sheng_Yu_Li_Xi_(Yuan_)<393] yes=25,no=26,missing=26,gain=1.99379,cover=4.14403
+				25:leaf=0.00997747,cover=1.00417
+				26:leaf=0.177765,cover=3.13986
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=13,no=14,missing=14,gain=5.46457,cover=415.28
+			13:[Sheng_Yu_Li_Xi_(Yuan_)<212.5] yes=27,no=28,missing=27,gain=3.9506,cover=168.227
+				27:leaf=-0.0264307,cover=134.36
+				28:leaf=0.0114842,cover=33.8671
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1820.06] yes=29,no=30,missing=29,gain=13.2652,cover=247.053
+				29:leaf=0.0567772,cover=39.6515
+				30:leaf=-0.0056749,cover=207.401
+booster[44]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=71.3262,cover=837.952
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=13.1382,cover=407.972
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.76264,cover=222.582
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=1.44157,cover=202.709
+				15:leaf=-0.0155965,cover=3.67252
+				16:leaf=-0.0837431,cover=199.036
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.633,cover=19.8729
+				17:leaf=0.0018936,cover=7.68203
+				18:leaf=-0.0558646,cover=12.1909
+		4:[Sheng_Yu_Ben_Jin_(Yuan_)<15554] yes=9,no=10,missing=9,gain=5.18709,cover=185.39
+			9:[Di_Qu_=Gui_Zhou_Fen_Bu_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.23398,cover=143.729
+				19:leaf=-0.0533099,cover=140.426
+				20:leaf=0.0381384,cover=3.30253
+			10:[Nian_Ling_<25.5] yes=21,no=22,missing=21,gain=7.85857,cover=41.661
+				21:leaf=0.0393834,cover=17.3946
+				22:leaf=-0.0465982,cover=24.2664
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<13733] yes=5,no=6,missing=6,gain=4.5291,cover=429.98
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<6810.01] yes=11,no=12,missing=11,gain=4.84405,cover=419.985
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<6782] yes=23,no=24,missing=24,gain=8.58517,cover=410.567
+				23:leaf=-0.00656343,cover=395.06
+				24:leaf=0.0670481,cover=15.5066
+			12:[Nian_Ling_<23.5] yes=25,no=26,missing=25,gain=2.5909,cover=9.41797
+				25:leaf=0.0180383,cover=2.13291
+				26:leaf=-0.0982291,cover=7.28506
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<233.75] yes=13,no=14,missing=13,gain=3.55674,cover=9.99551
+			13:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<12500] yes=27,no=28,missing=27,gain=1.20838,cover=7.89073
+				27:leaf=0.104939,cover=6.39243
+				28:leaf=0.0038104,cover=1.4983
+			14:[Dang_Qian_Qi_Shu_<4.5] yes=29,no=30,missing=29,gain=1.42015,cover=2.10478
+				29:leaf=-0.0916752,cover=1.09426
+				30:leaf=0.0312862,cover=1.01052
+booster[45]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=64.0097,cover=811.366
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=12.9038,cover=384.185
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.73414,cover=206.125
+			7:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<13316.7] yes=15,no=16,missing=15,gain=1.45323,cover=186.882
+				15:leaf=-0.0818805,cover=185.034
+				16:leaf=0.00477142,cover=1.84761
+			8:[He_Tong_Jin_E_(Yuan_)<7990] yes=17,no=18,missing=17,gain=1.46352,cover=19.2426
+				17:leaf=0.00172314,cover=7.69601
+				18:leaf=-0.05345,cover=11.5466
+		4:[Sheng_Yu_Qi_Shu_<6.5] yes=9,no=10,missing=9,gain=4.94417,cover=178.06
+			9:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=19,no=20,missing=19,gain=5.37663,cover=131.827
+				19:leaf=-0.0534473,cover=126.637
+				20:leaf=0.0441029,cover=5.18992
+			10:[He_Tong_Li_Lu_(%)<19.5237] yes=21,no=22,missing=22,gain=8.36856,cover=46.2332
+				21:leaf=-0.0306446,cover=38.335
+				22:leaf=0.0768206,cover=7.8982
+	2:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.59803,cover=427.181
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<12302] yes=11,no=12,missing=11,gain=5.72951,cover=400.003
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<11859.5] yes=23,no=24,missing=23,gain=8.18703,cover=363.33
+				23:leaf=-0.00354777,cover=361.48
+				24:leaf=0.166618,cover=1.84976
+			12:[Yu_Qi_Ben_Jin_(Yuan_)<3707] yes=25,no=26,missing=26,gain=3.61437,cover=36.6737
+				25:leaf=-0.078315,cover=15.5479
+				26:leaf=-0.014992,cover=21.1258
+		6:[Nian_Ling_<32.5] yes=13,no=14,missing=13,gain=4.55539,cover=27.1774
+			13:[Qi_Shi_Ri__day<12.5] yes=27,no=28,missing=27,gain=5.05514,cover=23.3041
+				27:leaf=-0.0139517,cover=7.52869
+				28:leaf=0.0830402,cover=15.7754
+			14:[Dao_Qi_Ri__day<12.5] yes=29,no=30,missing=29,gain=1.36576,cover=3.87326
+				29:leaf=0.0268538,cover=1.02053
+				30:leaf=-0.0835709,cover=2.85272
+booster[46]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<831.5] yes=1,no=2,missing=1,gain=57.5919,cover=788.52
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=14.6689,cover=396.426
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=3.45191,cover=206.048
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=1.9501,cover=194.316
+				15:leaf=-0.00797719,cover=4.31818
+				16:leaf=-0.0779177,cover=189.998
+			8:[Qi_Shi_Ri__month<9.5] yes=17,no=18,missing=17,gain=5.60863,cover=11.7319
+				17:leaf=-0.0499828,cover=9.89917
+				18:leaf=0.108413,cover=1.83269
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.15723,cover=190.378
+			9:[Sheng_Yu_Li_Xi_(Yuan_)<1592.5] yes=19,no=20,missing=19,gain=4.36527,cover=175.13
+				19:leaf=-0.0429933,cover=168.13
+				20:leaf=0.0339536,cover=6.99926
+			10:[Nian_Ling_<27.5] yes=21,no=22,missing=21,gain=4.79621,cover=15.2488
+				21:leaf=0.0520928,cover=12.4184
+				22:leaf=-0.0755652,cover=2.83042
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<713.62] yes=5,no=6,missing=5,gain=5.97758,cover=392.094
+		5:[Qi_Shi_Ri__month<8.5] yes=11,no=12,missing=11,gain=0.776721,cover=5.23592
+			11:leaf=0.125379,cover=2.97579
+			12:[Sheng_Yu_Qi_Shu_<1.5] yes=23,no=24,missing=23,gain=1.13055,cover=2.26013
+				23:leaf=0.079496,cover=1.04567
+				24:leaf=-0.0270267,cover=1.21446
+		6:[Dao_Qi_Ri__month<3.5] yes=13,no=14,missing=13,gain=6.07849,cover=386.858
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<5795] yes=25,no=26,missing=25,gain=6.62228,cover=171.288
+				25:leaf=-0.018671,cover=49.8779
+				26:leaf=0.0242989,cover=121.41
+			14:[Qi_Shi_Ri__day<21.5] yes=27,no=28,missing=27,gain=5.94806,cover=215.569
+				27:leaf=-0.0253072,cover=142.069
+				28:leaf=0.00958979,cover=73.5001
+booster[47]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=51.3669,cover=767.076
+	1:[Sheng_Yu_Qi_Shu_<3.5] yes=3,no=4,missing=3,gain=12.0358,cover=343.25
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=7,no=8,missing=7,gain=3.85801,cover=177.625
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=1.49804,cover=159.969
+				15:leaf=-0.00835821,cover=3.31481
+				16:leaf=-0.0790139,cover=156.654
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<18836.5] yes=17,no=18,missing=18,gain=1.55413,cover=17.6565
+				17:leaf=-0.0388451,cover=14.9751
+				18:leaf=0.0347458,cover=2.68139
+		4:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=5.00143,cover=165.625
+			9:[He_Tong_Li_Lu_(%)<19.021] yes=19,no=20,missing=19,gain=2.98498,cover=17.1416
+				19:leaf=-0.0718745,cover=2.31731
+				20:leaf=0.0328522,cover=14.8243
+			10:[Nian_Ling_<31.5] yes=21,no=22,missing=21,gain=3.63151,cover=148.483
+				21:leaf=-0.0329409,cover=121.786
+				22:leaf=-0.0739276,cover=26.6974
+	2:[Xing_Bie_=Nan_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.431,cover=423.826
+		5:[Nian_Ling_<23.5] yes=11,no=12,missing=11,gain=6.07946,cover=361.779
+			11:[Sheng_Yu_Ben_Jin_(Yuan_)<22194.5] yes=23,no=24,missing=23,gain=8.77909,cover=169.767
+				23:leaf=-0.000610083,cover=153.756
+				24:leaf=0.0750956,cover=16.0106
+			12:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=25,no=26,missing=26,gain=6.60757,cover=192.012
+				25:leaf=-0.0285033,cover=151.764
+				26:leaf=0.016724,cover=40.2474
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<4606] yes=13,no=14,missing=13,gain=6.60786,cover=62.0475
+			13:[Nian_Ling_<20.5] yes=27,no=28,missing=27,gain=5.7784,cover=46.5984
+				27:leaf=-0.0187098,cover=11.8302
+				28:leaf=0.0605954,cover=34.7682
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<6661.5] yes=29,no=30,missing=30,gain=4.54768,cover=15.4491
+				29:leaf=-0.054733,cover=13.4867
+				30:leaf=0.0828007,cover=1.96237
+booster[48]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=45.8699,cover=747.693
+	1:[Sheng_Yu_Qi_Shu_<2.5] yes=3,no=4,missing=3,gain=12.1318,cover=373.15
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=7,no=8,missing=7,gain=2.36673,cover=145.882
+			7:[He_Tong_Jin_E_(Yuan_)<2228] yes=15,no=16,missing=15,gain=2.67829,cover=6.46986
+				15:leaf=-0.0409152,cover=5.42901
+				16:leaf=0.0908079,cover=1.04085
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=17,no=18,missing=17,gain=2.35947,cover=139.412
+				17:leaf=-0.0761199,cover=135.878
+				18:leaf=0.00521955,cover=3.53424
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=7.45507,cover=227.267
+			9:[Sheng_Yu_Li_Xi_(Yuan_)<1592.5] yes=19,no=20,missing=19,gain=4.32659,cover=209.092
+				19:leaf=-0.0421443,cover=202.108
+				20:leaf=0.0342352,cover=6.98374
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=21,no=22,missing=21,gain=8.48664,cover=18.1752
+				21:leaf=-0.000664425,cover=16.4803
+				22:leaf=0.190714,cover=1.69492
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<993.345] yes=5,no=6,missing=5,gain=6.65379,cover=374.544
+		5:[Nian_Ling_<19.5] yes=11,no=12,missing=11,gain=5.20633,cover=32.1921
+			11:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<854.185] yes=23,no=24,missing=23,gain=3.41883,cover=4.92956
+				23:leaf=0.0646261,cover=1.28187
+				24:leaf=-0.0884925,cover=3.64769
+			12:[Sheng_Yu_Li_Xi_(Yuan_)<159] yes=25,no=26,missing=25,gain=4.82034,cover=27.2625
+				25:leaf=0.0347893,cover=21.2874
+				26:leaf=0.133462,cover=5.97511
+		6:[Sheng_Yu_Li_Xi_(Yuan_)<1097.5] yes=13,no=14,missing=14,gain=6.48644,cover=342.351
+			13:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=27,no=28,missing=27,gain=4.48718,cover=76.0377
+				27:leaf=-0.0338044,cover=73.6087
+				28:leaf=0.0842666,cover=2.42891
+			14:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<160.905] yes=29,no=30,missing=30,gain=8.21212,cover=266.314
+				29:leaf=0.0959702,cover=8.35844
+				30:leaf=0.000608033,cover=257.955
+booster[49]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=40.5003,cover=729.581
+	1:[Sheng_Yu_Ben_Jin_(Yuan_)<5799.5] yes=3,no=4,missing=3,gain=11.9283,cover=309.785
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=7,no=8,missing=8,gain=5.95104,cover=171.57
+			7:[Xing_Bie_=Nan_<-9.53674e-07] yes=15,no=16,missing=15,gain=5.78973,cover=10.1599
+				15:leaf=-0.0288101,cover=8.69913
+				16:leaf=0.142995,cover=1.46078
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=17,no=18,missing=17,gain=4.67731,cover=161.41
+				17:leaf=-0.0774,cover=145.531
+				18:leaf=-0.0188442,cover=15.8787
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<1634.5] yes=9,no=10,missing=10,gain=9.14674,cover=138.216
+			9:[Qi_Shi_Ri__day<28.5] yes=19,no=20,missing=19,gain=5.27292,cover=12.888
+				19:leaf=0.0196908,cover=11.4245
+				20:leaf=0.183364,cover=1.4635
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=21,no=22,missing=21,gain=5.38781,cover=125.328
+				21:leaf=-0.0399968,cover=120.465
+				22:leaf=0.0593015,cover=4.86243
+	2:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.19586,cover=419.795
+		5:[Sheng_Yu_Li_Xi_(Yuan_)<2769] yes=11,no=12,missing=11,gain=5.13735,cover=406.155
+			11:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<263.75] yes=23,no=24,missing=23,gain=7.06119,cover=401.518
+				23:leaf=0.00079381,cover=392.126
+				24:leaf=-0.0827219,cover=9.39163
+			12:[Yi_Huan_Li_Xi_(Yuan_)<719.5] yes=25,no=26,missing=26,gain=2.46806,cover=4.63735
+				25:leaf=-0.0239589,cover=1.04779
+				26:leaf=0.127094,cover=3.58957
+		6:[Qi_Shi_Ri__day<15.5] yes=13,no=14,missing=13,gain=3.33928,cover=13.6404
+			13:[He_Tong_Jin_E_(Yuan_)<4478] yes=27,no=28,missing=27,gain=0.73703,cover=6.59265
+				27:leaf=-0.0107591,cover=1.03917
+				28:leaf=-0.113147,cover=5.55348
+			14:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=29,no=30,missing=30,gain=6.72897,cover=7.04772
+				29:leaf=-0.0740844,cover=4.44
+				30:leaf=0.102065,cover=2.60772
+booster[50]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=35.5199,cover=713.938
+	1:[Sheng_Yu_Qi_Shu_<2.5] yes=3,no=4,missing=3,gain=11.3633,cover=340.969
+		3:[Di_Qu_=Shan_Xi_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=2.21468,cover=128.329
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=15,gain=2.30788,cover=127.315
+				15:leaf=-0.00794281,cover=6.26639
+				16:leaf=-0.0715346,cover=121.048
+			8:leaf=0.047397,cover=1.014
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.58104,cover=212.64
+			9:[Xing_Bie_=Nan_<-9.53674e-07] yes=17,no=18,missing=17,gain=4.46455,cover=194.687
+				17:leaf=-0.0406505,cover=168.349
+				18:leaf=0.00348124,cover=26.3378
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=19,no=20,missing=19,gain=6.02068,cover=17.9537
+				19:leaf=0.00269465,cover=15.93
+				20:leaf=0.156792,cover=2.02374
+	2:[Nian_Ling_<41.5] yes=5,no=6,missing=5,gain=5.85354,cover=372.969
+		5:[Dao_Qi_Ri__month<3.5] yes=11,no=12,missing=11,gain=6.1604,cover=357.256
+			11:[Di_Qu_=Zhe_Dong_Fen_Bu_<-9.53674e-07] yes=21,no=22,missing=21,gain=6.03363,cover=159.022
+				21:leaf=0.0143519,cover=154.375
+				22:leaf=0.119863,cover=4.64734
+			12:[He_Tong_Jin_E_(Yuan_)<6808.5] yes=23,no=24,missing=23,gain=8.54772,cover=198.234
+				23:leaf=0.0267421,cover=51.0262
+				24:leaf=-0.02039,cover=147.208
+		6:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=13,no=14,missing=14,gain=4.76808,cover=15.7123
+			13:[Qi_Shi_Ri__day<26.5] yes=25,no=26,missing=25,gain=2.83633,cover=14.5627
+				25:leaf=-0.0938436,cover=11.7378
+				26:leaf=0.0128123,cover=2.82484
+			14:leaf=0.0902505,cover=1.14963
+booster[51]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=31.1628,cover=699.677
+	1:[Sheng_Yu_Ben_Jin_(Yuan_)<5799.5] yes=3,no=4,missing=3,gain=11.2485,cover=282.058
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=7,no=8,missing=8,gain=5.60046,cover=152.242
+			7:[Qi_Shi_Ri__month<9.5] yes=15,no=16,missing=15,gain=4.87137,cover=9.90364
+				15:leaf=-0.0374689,cover=6.88145
+				16:leaf=0.0978828,cover=3.02218
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=17,no=18,missing=17,gain=4.67868,cover=142.338
+				17:leaf=-0.0740548,cover=127.409
+				18:leaf=-0.013851,cover=14.9289
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<1634.5] yes=9,no=10,missing=10,gain=7.97289,cover=129.817
+			9:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<899.62] yes=19,no=20,missing=19,gain=4.61256,cover=12.9679
+				19:leaf=-0.0676017,cover=1.99999
+				20:leaf=0.0744304,cover=10.9679
+			10:[Di_Qu_=Fu_Jian_Fen_Bu_<-9.53674e-07] yes=21,no=22,missing=21,gain=5.19084,cover=116.849
+				21:leaf=-0.0359843,cover=110.683
+				22:leaf=0.0526141,cover=6.16546
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<183.5] yes=5,no=6,missing=6,gain=4.19578,cover=417.619
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<2952] yes=11,no=12,missing=11,gain=3.89589,cover=25.8302
+			11:[Nian_Ling_<28.5] yes=23,no=24,missing=23,gain=3.80883,cover=13.8058
+				23:leaf=-0.0304839,cover=10.9042
+				24:leaf=0.0833749,cover=2.90161
+			12:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=25,no=26,missing=25,gain=2.30573,cover=12.0244
+				25:leaf=-0.0996184,cover=9.50018
+				26:leaf=0.00494497,cover=2.52425
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<15313] yes=13,no=14,missing=13,gain=4.42508,cover=391.789
+			13:[Nian_Ling_<41.5] yes=27,no=28,missing=27,gain=5.37835,cover=368.657
+				27:leaf=0.00636398,cover=353.978
+				28:leaf=-0.053493,cover=14.6786
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<5194.5] yes=29,no=30,missing=30,gain=2.6479,cover=23.1321
+				29:leaf=-0.0646708,cover=14.6864
+				30:leaf=0.00429675,cover=8.44577
+booster[52]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<625.5] yes=1,no=2,missing=1,gain=27.0704,cover=687.101
+	1:[Sheng_Yu_Qi_Shu_<6.5] yes=3,no=4,missing=3,gain=11.364,cover=280.057
+		3:[Dang_Qian_Qi_Shu_<4.5] yes=7,no=8,missing=7,gain=4.7472,cover=238.392
+			7:[Sheng_Yu_Qi_Shu_<3.5] yes=15,no=16,missing=15,gain=4.17206,cover=188.816
+				15:leaf=-0.0560442,cover=99.724
+				16:leaf=-0.0258089,cover=89.0919
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<23581.5] yes=17,no=18,missing=18,gain=2.55702,cover=49.5765
+				17:leaf=-0.0854546,cover=43.7926
+				18:leaf=-0.0124075,cover=5.78384
+		4:[He_Tong_Li_Lu_(%)<19.5237] yes=9,no=10,missing=10,gain=9.4864,cover=41.6648
+			9:[Qi_Shi_Ri__day<25.5] yes=19,no=20,missing=19,gain=5.06353,cover=33.272
+				19:leaf=-0.0417775,cover=23.9043
+				20:leaf=0.0416432,cover=9.36771
+			10:[Dao_Qi_Ri__day<18.5] yes=21,no=22,missing=21,gain=4.88828,cover=8.39277
+				21:leaf=0.167184,cover=3.75899
+				22:leaf=0.018332,cover=4.63378
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<653.6] yes=5,no=6,missing=5,gain=4.89397,cover=407.044
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<2641.5] yes=11,no=12,missing=11,gain=5.22025,cover=6.40639
+			11:[Sheng_Yu_Ben_Jin_(Yuan_)<2345] yes=23,no=24,missing=23,gain=1.44933,cover=2.43623
+				23:leaf=0.0306536,cover=1.41359
+				24:leaf=-0.0867531,cover=1.02265
+			12:[Qi_Shi_Ri__day<21.5] yes=25,no=26,missing=25,gain=1.58177,cover=3.97015
+				25:leaf=0.171477,cover=2.78081
+				26:leaf=0.0197171,cover=1.18935
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<1973] yes=13,no=14,missing=13,gain=4.17507,cover=400.637
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<1429.5] yes=27,no=28,missing=27,gain=1.68352,cover=7.61981
+				27:leaf=0.0150256,cover=1.53365
+				28:leaf=-0.0920054,cover=6.08616
+			14:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=29,no=30,missing=29,gain=4.04389,cover=393.017
+				29:leaf=0.00102885,cover=380.724
+				30:leaf=-0.0550786,cover=12.2933
+booster[53]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=23.6936,cover=675.352
+	1:[Sheng_Yu_Qi_Shu_<2.5] yes=3,no=4,missing=3,gain=9.704,cover=303.661
+		3:[Xing_Ye_=Can_Yin_/Jiu_Dian_/Lu_You_<-9.53674e-07] yes=7,no=8,missing=7,gain=2.52643,cover=107.649
+			7:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=15,no=16,missing=15,gain=2.72764,cover=99.0194
+				15:leaf=-0.0680641,cover=96.1163
+				16:leaf=0.0235325,cover=2.9031
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3610.5] yes=17,no=18,missing=17,gain=5.78283,cover=8.62915
+				17:leaf=-0.0431004,cover=7.58239
+				18:leaf=0.144049,cover=1.04676
+		4:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=9,no=10,missing=9,gain=5.70797,cover=196.012
+			9:[Sheng_Yu_Ben_Jin_(Yuan_)<20262] yes=19,no=20,missing=19,gain=4.15265,cover=178.508
+				19:leaf=-0.0335856,cover=160.976
+				20:leaf=0.0168723,cover=17.5317
+			10:[Nian_Ling_<27.5] yes=21,no=22,missing=21,gain=5.22005,cover=17.5044
+				21:leaf=0.0544835,cover=14.6265
+				22:leaf=-0.0761955,cover=2.87794
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<993.345] yes=5,no=6,missing=5,gain=5.02898,cover=371.691
+		5:[Nian_Ling_<19.5] yes=11,no=12,missing=11,gain=4.39606,cover=32.1876
+			11:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<854.185] yes=23,no=24,missing=23,gain=2.93324,cover=4.72642
+				23:leaf=0.0589109,cover=1.22528
+				24:leaf=-0.0853641,cover=3.50114
+			12:[Yi_Huan_Li_Xi_(Yuan_)<181.5] yes=25,no=26,missing=26,gain=4.1947,cover=27.4612
+				25:leaf=0.13386,cover=4.38928
+				26:leaf=0.0331102,cover=23.0719
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<5569.5] yes=13,no=14,missing=13,gain=6.02213,cover=339.503
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<2496.5] yes=27,no=28,missing=28,gain=7.36269,cover=84.1997
+				27:leaf=-0.035804,cover=75.552
+				28:leaf=0.0573057,cover=8.64771
+			14:[Di_Qu_=Zhe_Dong_Fen_Bu_<-9.53674e-07] yes=29,no=30,missing=29,gain=6.89608,cover=255.304
+				29:leaf=0.00200429,cover=248.024
+				30:leaf=0.0947864,cover=7.28012
+booster[54]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=20.5732,cover=663.732
+	1:[Sheng_Yu_Ben_Jin_(Yuan_)<5799.5] yes=3,no=4,missing=3,gain=9.61775,cover=250.063
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=7,no=8,missing=8,gain=5.39858,cover=129.259
+			7:[Xing_Bie_=Nan_<-9.53674e-07] yes=15,no=16,missing=15,gain=4.57104,cover=9.26445
+				15:leaf=-0.0202786,cover=7.68562
+				16:leaf=0.131723,cover=1.57883
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=17,no=18,missing=17,gain=4.87097,cover=119.994
+				17:leaf=-0.0688466,cover=106.568
+				18:leaf=-0.00460714,cover=13.426
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<1164] yes=9,no=10,missing=10,gain=6.86886,cover=120.804
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<899.5] yes=19,no=20,missing=20,gain=8.71171,cover=3.3148
+				19:leaf=-0.0595162,cover=1.42946
+				20:leaf=0.210994,cover=1.88534
+			10:[Di_Qu_=Fu_Jian_Fen_Bu_<-9.53674e-07] yes=21,no=22,missing=21,gain=6.06591,cover=117.489
+				21:leaf=-0.0269535,cover=110.619
+				22:leaf=0.064209,cover=6.87069
+	2:[Di_Qu_=Hu_Nan_Fen_Bu_<-9.53674e-07] yes=5,no=6,missing=5,gain=3.77642,cover=413.669
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<12302] yes=11,no=12,missing=11,gain=4.55112,cover=386.658
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<11859.5] yes=23,no=24,missing=23,gain=6.37697,cover=352.282
+				23:leaf=-0.00131872,cover=350.23
+				24:leaf=0.14386,cover=2.05185
+			12:[Yu_Qi_Ben_Jin_(Yuan_)<3443] yes=25,no=26,missing=26,gain=3.17036,cover=34.376
+				25:leaf=-0.0757611,cover=12.5674
+				26:leaf=-0.0133979,cover=21.8086
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<17650] yes=13,no=14,missing=13,gain=4.39515,cover=27.0117
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<2482] yes=27,no=28,missing=28,gain=5.33941,cover=23.7727
+				27:leaf=0.010949,cover=14.8631
+				28:leaf=0.106565,cover=8.9096
+			14:[Dang_Qian_Qi_Shu_<2.5] yes=29,no=30,missing=29,gain=0.533037,cover=3.23895
+				29:leaf=-0.0817018,cover=2.23835
+				30:leaf=0.00090868,cover=1.0006
+booster[55]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=17.6965,cover=654.057
+	1:[Sheng_Yu_Qi_Shu_<2.5] yes=3,no=4,missing=3,gain=8.51576,cover=284.048
+		3:[Xing_Ye_=Can_Yin_/Jiu_Dian_/Lu_You_<-9.53674e-07] yes=7,no=8,missing=7,gain=2.52597,cover=96.6826
+			7:[Xing_Ye_=Nong_Lin_Mu_Yu_/Zi_You_Zhi_Ye_/Qi_Ta_<-9.53674e-07] yes=15,no=16,missing=15,gain=2.64862,cover=88.5798
+				15:leaf=-0.069994,cover=69.5739
+				16:leaf=-0.0260062,cover=19.006
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3610.5] yes=17,no=18,missing=17,gain=4.84114,cover=8.10276
+				17:leaf=-0.0383066,cover=6.93444
+				18:leaf=0.130308,cover=1.16832
+		4:[Nian_Ling_<31.5] yes=9,no=10,missing=9,gain=5.53562,cover=187.365
+			9:[Sheng_Yu_Ben_Jin_(Yuan_)<15546] yes=19,no=20,missing=19,gain=7.37126,cover=156.658
+				19:leaf=-0.0213386,cover=130.985
+				20:leaf=0.0363526,cover=25.6723
+			10:[Yi_Huan_Li_Xi_(Yuan_)<335.5] yes=21,no=22,missing=22,gain=5.0521,cover=30.7072
+				21:leaf=0.0305782,cover=4.89196
+				22:leaf=-0.0749011,cover=25.8153
+	2:[Dao_Qi_Ri__month<3.5] yes=5,no=6,missing=5,gain=4.38373,cover=370.009
+		5:[Dao_Qi_Ri__day<3.5] yes=11,no=12,missing=11,gain=5.85302,cover=167.137
+			11:[Sheng_Yu_Qi_Shu_<3.5] yes=23,no=24,missing=23,gain=6.63811,cover=11.8587
+				23:leaf=0.00362375,cover=6.2715
+				24:leaf=0.14796,cover=5.58721
+			12:[Nian_Ling_<18.5] yes=25,no=26,missing=25,gain=5.70645,cover=155.278
+				25:leaf=0.0947694,cover=6.16034
+				26:leaf=0.00334748,cover=149.118
+		6:[He_Tong_Jin_E_(Yuan_)<6808.5] yes=13,no=14,missing=13,gain=6.90825,cover=202.872
+			13:[Nian_Ling_<19.5] yes=27,no=28,missing=27,gain=7.3699,cover=52.1117
+				27:leaf=-0.0658989,cover=7.1776
+				28:leaf=0.0374784,cover=44.9341
+			14:[Qi_Shi_Ri__day<27.5] yes=29,no=30,missing=29,gain=4.82893,cover=150.761
+				29:leaf=-0.0280773,cover=123.275
+				30:leaf=0.0177524,cover=27.4856
+booster[56]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<454.5] yes=1,no=2,missing=1,gain=15.459,cover=645.395
+	1:[Sheng_Yu_Ben_Jin_(Yuan_)<5799.5] yes=3,no=4,missing=3,gain=8.31648,cover=233.655
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=7,no=8,missing=8,gain=5.07257,cover=117.047
+			7:[Qi_Shi_Ri__month<9.5] yes=15,no=16,missing=15,gain=4.31948,cover=9.01992
+				15:leaf=-0.0299852,cover=6.05879
+				16:leaf=0.100975,cover=2.96113
+			8:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=17,no=18,missing=17,gain=4.72234,cover=108.027
+				17:leaf=-0.0650605,cover=95.1836
+				18:leaf=-0.00046512,cover=12.8433
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<1634.5] yes=9,no=10,missing=10,gain=6.18284,cover=116.608
+			9:[Dao_Qi_Ri__day<4.5] yes=19,no=20,missing=19,gain=3.82819,cover=12.9872
+				19:leaf=0.170729,cover=1.21069
+				20:leaf=0.0240948,cover=11.7765
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<0.632458] yes=21,no=22,missing=21,gain=5.09847,cover=103.621
+				21:leaf=-0.0310865,cover=88.4347
+				22:leaf=0.0301884,cover=15.1864
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<13733] yes=5,no=6,missing=6,gain=3.62343,cover=411.74
+		5:[Xing_Bie_=Nan_<-9.53674e-07] yes=11,no=12,missing=11,gain=4.04936,cover=402.53
+			11:[Nian_Ling_<23.5] yes=23,no=24,missing=23,gain=5.821,cover=342.523
+				23:leaf=0.00730773,cover=163.974
+				24:leaf=-0.0187211,cover=178.549
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<4606] yes=25,no=26,missing=25,gain=5.5639,cover=60.0069
+				25:leaf=0.0385733,cover=45.6752
+				26:leaf=-0.0311486,cover=14.3317
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<233.75] yes=13,no=14,missing=13,gain=2.90845,cover=9.20942
+			13:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<12500] yes=27,no=28,missing=27,gain=0.856507,cover=7.30032
+				27:leaf=0.0995396,cover=5.86924
+				28:leaf=0.00820201,cover=1.43107
+			14:leaf=-0.0374364,cover=1.90911
+booster[57]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<885.5] yes=1,no=2,missing=1,gain=13.2016,cover=636.715
+	1:[Sheng_Yu_Qi_Shu_<1.5] yes=3,no=4,missing=3,gain=7.51744,cover=268.238
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<9583] yes=7,no=8,missing=7,gain=2.37418,cover=38.8623
+			7:[Yu_Qi_Ben_Jin_(Yuan_)<714.5] yes=15,no=16,missing=16,gain=2.47315,cover=37.8541
+				15:leaf=0.0221464,cover=2.18631
+				16:leaf=-0.0787775,cover=35.6678
+			8:leaf=0.0491712,cover=1.00821
+		4:[Xing_Bie_=Nan_<-9.53674e-07] yes=9,no=10,missing=9,gain=7.14591,cover=229.376
+			9:[Nian_Ling_<26.2099] yes=17,no=18,missing=17,gain=7.09663,cover=198.865
+				17:leaf=-0.01356,cover=127.712
+				18:leaf=-0.0529504,cover=71.1528
+			10:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<27.72] yes=19,no=20,missing=19,gain=7.77022,cover=30.5107
+				19:leaf=0.0519742,cover=23.0261
+				20:leaf=-0.0597296,cover=7.48465
+	2:[Nian_Ling_<41.5] yes=5,no=6,missing=5,gain=4.13949,cover=368.477
+		5:[Yi_Huan_Li_Xi_(Yuan_)<916] yes=11,no=12,missing=11,gain=4.69795,cover=354.295
+			11:[Dang_Qian_Qi_Shu_<4.5] yes=21,no=22,missing=21,gain=4.83242,cover=340.038
+				21:leaf=-0.000775231,cover=262.869
+				22:leaf=0.0275423,cover=77.1681
+			12:[Dao_Qi_Ri__day<3.5] yes=23,no=24,missing=23,gain=3.52008,cover=14.2576
+				23:leaf=0.0794643,cover=1.03143
+				24:leaf=-0.0660561,cover=13.2262
+		6:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=13,no=14,missing=14,gain=4.21137,cover=14.1816
+			13:[Qi_Shi_Ri__day<26.5] yes=25,no=26,missing=25,gain=2.70289,cover=13.0589
+				25:leaf=-0.0889354,cover=10.3381
+				26:leaf=0.0166943,cover=2.72088
+			14:leaf=0.0879658,cover=1.12264
+booster[58]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<2489] yes=1,no=2,missing=1,gain=11.8019,cover=629.37
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<1502.5] yes=3,no=4,missing=3,gain=5.25205,cover=67.898
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<89] yes=7,no=8,missing=7,gain=3.51419,cover=23.6714
+			7:[Xing_Ye_=Nong_Lin_Mu_Yu_/Zi_You_Zhi_Ye_/Qi_Ta_<-9.53674e-07] yes=15,no=16,missing=15,gain=3.91758,cover=22.524
+				15:leaf=-0.0428044,cover=17.7712
+				16:leaf=0.0520481,cover=4.75272
+			8:leaf=0.112416,cover=1.14739
+		4:[Di_Qu_=Zhe_Dong_Fen_Bu_<-9.53674e-07] yes=9,no=10,missing=9,gain=1.44149,cover=44.2267
+			9:[Qi_Shi_Ri__month<3.5] yes=17,no=18,missing=17,gain=1.66094,cover=42.6698
+				17:leaf=-0.013156,cover=4.66539
+				18:leaf=-0.0795085,cover=38.0044
+			10:leaf=0.0162338,cover=1.55689
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<8.5] yes=5,no=6,missing=6,gain=7.33743,cover=561.472
+		5:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=11,no=12,missing=11,gain=5.05792,cover=416.339
+			11:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1333.34] yes=19,no=20,missing=19,gain=5.12968,cover=402.189
+				19:leaf=0.0164903,cover=119.423
+				20:leaf=-0.00814205,cover=282.767
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<2396.5] yes=21,no=22,missing=22,gain=5.83522,cover=14.1494
+				21:leaf=-0.0517352,cover=3.07752
+				22:leaf=0.090327,cover=11.0719
+		6:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=13,no=14,missing=13,gain=5.28647,cover=145.133
+			13:[Nian_Ling_<31.5] yes=23,no=24,missing=23,gain=5.47753,cover=136.292
+				23:leaf=-0.00948209,cover=110.371
+				24:leaf=-0.0599182,cover=25.9209
+			14:leaf=-0.0957503,cover=8.84077
+booster[59]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<2199] yes=1,no=2,missing=1,gain=10.3701,cover=623.222
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<986.5] yes=3,no=4,missing=3,gain=4.61801,cover=53.4031
+		3:[Yu_Qi_Ben_Jin_(Yuan_)<501] yes=7,no=8,missing=8,gain=3.0715,cover=46.7719
+			7:leaf=0.0530623,cover=1.52466
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=15,no=16,missing=16,gain=3.33307,cover=45.2472
+				15:leaf=0.0154865,cover=4.12282
+				16:leaf=-0.0753883,cover=41.1244
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<991.67] yes=9,no=10,missing=9,gain=3.96463,cover=6.63125
+			9:leaf=0.125859,cover=1.57558
+			10:[Qi_Shi_Ri__month<5.5] yes=17,no=18,missing=17,gain=2.13191,cover=5.05566
+				17:leaf=0.0545565,cover=1.52258
+				18:leaf=-0.0613732,cover=3.53308
+	2:[Xing_Bie_=Nan_<-9.53674e-07] yes=5,no=6,missing=5,gain=7.30712,cover=569.819
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=11,no=12,missing=11,gain=8.75964,cover=491.652
+			11:[Nian_Ling_<25.5] yes=19,no=20,missing=19,gain=8.30091,cover=475.12
+				19:leaf=0.0041696,cover=270.837
+				20:leaf=-0.0224797,cover=204.283
+			12:[He_Tong_Li_Lu_(%)<19.0592] yes=21,no=22,missing=22,gain=3.68142,cover=16.5323
+				21:leaf=-0.00255931,cover=4.65559
+				22:leaf=-0.106882,cover=11.8767
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<4812] yes=13,no=14,missing=13,gain=8.31912,cover=78.1669
+			13:[Di_Qu_=Shen_Zhen_Fen_Bu_<-9.53674e-07] yes=23,no=24,missing=23,gain=6.39467,cover=56.4419
+				23:leaf=0.051954,cover=52.8456
+				24:leaf=-0.0726535,cover=3.59635
+			14:[Sheng_Yu_Qi_Shu_<7.5] yes=25,no=26,missing=25,gain=4.50986,cover=21.7249
+				25:leaf=-0.0423405,cover=20.3282
+				26:leaf=0.103604,cover=1.39677
+booster[60]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<1667] yes=1,no=2,missing=1,gain=9.65776,cover=617.745
+	1:[Sheng_Yu_Li_Xi_(Yuan_)<194.5] yes=3,no=4,missing=3,gain=6.81459,cover=382.108
+		3:[Xing_Bie_=Nan_<-9.53674e-07] yes=7,no=8,missing=7,gain=6.58265,cover=305.743
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<28933] yes=15,no=16,missing=15,gain=5.69248,cover=255.898
+				15:leaf=-0.0332921,cover=252.551
+				16:leaf=0.0831204,cover=3.34648
+			8:[Nian_Ling_<26.5] yes=17,no=18,missing=17,gain=7.90576,cover=49.8454
+				17:leaf=-0.0186033,cover=34.4547
+				18:leaf=0.0654138,cover=15.3908
+		4:[Yi_Huan_Li_Xi_(Yuan_)<55.5] yes=9,no=10,missing=10,gain=5.76261,cover=76.3645
+			9:[Nian_Ling_<23.5] yes=19,no=20,missing=19,gain=4.61854,cover=3.87446
+				19:leaf=0.177265,cover=2.43085
+				20:leaf=-0.022381,cover=1.44361
+			10:[He_Tong_Li_Lu_(%)<19.2873] yes=21,no=22,missing=22,gain=6.47273,cover=72.4901
+				21:leaf=-0.0152986,cover=55.743
+				22:leaf=0.053897,cover=16.747
+	2:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1728.67] yes=5,no=6,missing=5,gain=9.14197,cover=235.637
+		5:[Nian_Ling_<21.5] yes=11,no=12,missing=11,gain=4.70031,cover=31.754
+			11:[Di_Qu_=Hu_Bei_Fen_Bu_<-9.53674e-07] yes=23,no=24,missing=23,gain=2.7191,cover=12.2945
+				23:leaf=-0.01257,cover=11.0117
+				24:leaf=0.106586,cover=1.28284
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<1723] yes=25,no=26,missing=25,gain=3.67094,cover=19.4595
+				25:leaf=0.0461215,cover=12.2111
+				26:leaf=0.138917,cover=7.24838
+		6:[Dao_Qi_Ri__month<3.5] yes=13,no=14,missing=13,gain=5.97984,cover=203.883
+			13:[Qi_Shi_Ri__month<2.5] yes=27,no=28,missing=27,gain=5.07667,cover=93.5027
+				27:leaf=0.0902869,cover=7.82589
+				28:leaf=0.0104263,cover=85.6768
+			14:[Yu_Qi_Ben_Jin_(Yuan_)<5208] yes=29,no=30,missing=30,gain=4.48791,cover=110.38
+				29:leaf=-0.0276287,cover=83.2974
+				30:leaf=0.0186621,cover=27.083
+booster[61]:
+0:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=1,no=2,missing=1,gain=8.64003,cover=610.293
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<1508.5] yes=3,no=4,missing=3,gain=10.7136,cover=448.786
+		3:[Di_Qu_=Zhong_Qing_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=8.73251,cover=176.535
+			7:[He_Tong_Li_Lu_(%)<17.9116] yes=15,no=16,missing=16,gain=5.0616,cover=171.272
+				15:leaf=-0.0598932,cover=12.0093
+				16:leaf=0.0049651,cover=159.263
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2675.33] yes=17,no=18,missing=17,gain=4.75055,cover=5.26241
+				17:leaf=0.16577,cover=3.95528
+				18:leaf=-0.029443,cover=1.30713
+		4:[Yu_Qi_Ben_Jin_(Yuan_)<6536.5] yes=9,no=10,missing=9,gain=7.93962,cover=272.251
+			9:[Sheng_Yu_Qi_Shu_<6.5] yes=19,no=20,missing=19,gain=7.1584,cover=260.877
+				19:leaf=-0.0376085,cover=223.551
+				20:leaf=0.00946076,cover=37.3265
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<6716.67] yes=21,no=22,missing=21,gain=14.7922,cover=11.3739
+				21:leaf=0.130611,cover=7.29517
+				22:leaf=-0.0878763,cover=4.07875
+	2:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<82.63] yes=5,no=6,missing=5,gain=4.70579,cover=161.507
+		5:[Yi_Huan_Li_Xi_(Yuan_)<557.5] yes=11,no=12,missing=11,gain=6.03759,cover=118.619
+			11:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=23,no=24,missing=23,gain=5.01607,cover=117.212
+				23:leaf=0.0229783,cover=113.364
+				24:leaf=-0.0812406,cover=3.84793
+			12:leaf=0.179523,cover=1.40727
+		6:[Nian_Ling_<19.5] yes=13,no=14,missing=13,gain=7.29396,cover=42.8882
+			13:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<195.66] yes=25,no=26,missing=26,gain=6.95244,cover=5.10272
+				25:leaf=0.139543,cover=4.06507
+				26:leaf=-0.0889947,cover=1.03766
+			14:[Sheng_Yu_Li_Xi_(Yuan_)<4374.5] yes=27,no=28,missing=27,gain=5.40523,cover=37.7855
+				27:leaf=-0.0406246,cover=36.2473
+				28:leaf=0.111557,cover=1.53821
+booster[62]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=8.29451,cover=604.192
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.19983,cover=12.2113
+		3:leaf=-0.0290824,cover=1.78883
+		4:leaf=-0.0916502,cover=10.4224
+	2:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=5,no=6,missing=5,gain=7.20173,cover=591.981
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=7,no=8,missing=7,gain=6.85323,cover=571.745
+			7:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=11,no=12,missing=11,gain=6.08501,cover=553.901
+				11:leaf=0.00130883,cover=527.112
+				12:leaf=-0.0467017,cover=26.7887
+			8:[He_Tong_Jin_E_(Yuan_)<26872.5] yes=13,no=14,missing=13,gain=4.73562,cover=17.8445
+				13:leaf=-0.0846738,cover=14.8657
+				14:leaf=0.0420146,cover=2.97882
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<1173] yes=9,no=10,missing=10,gain=4.03523,cover=20.2353
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<2244] yes=15,no=16,missing=15,gain=3.47297,cover=3.25623
+				15:leaf=-0.0437796,cover=2.06288
+				16:leaf=0.123005,cover=1.19335
+			10:[Dang_Qian_Qi_Shu_<6.5] yes=17,no=18,missing=17,gain=2.84227,cover=16.9791
+				17:leaf=-0.0943232,cover=15.3022
+				18:leaf=0.0284915,cover=1.67687
+booster[63]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<2199] yes=1,no=2,missing=1,gain=7.56716,cover=600.89
+	1:[Yu_Qi_Ben_Jin_(Yuan_)<986.5] yes=3,no=4,missing=3,gain=4.21749,cover=46.9754
+		3:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=7,no=8,missing=7,gain=3.02098,cover=40.6727
+			7:[Qi_Shi_Ri__month<8.5] yes=15,no=16,missing=15,gain=3.08223,cover=4.96281
+				15:leaf=-0.0488007,cover=2.78233
+				16:leaf=0.0851537,cover=2.18048
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=17,no=18,missing=18,gain=2.44367,cover=35.7099
+				17:leaf=0.0113017,cover=3.42558
+				18:leaf=-0.0743985,cover=32.2843
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<991.67] yes=9,no=10,missing=9,gain=3.45965,cover=6.30262
+			9:leaf=0.122876,cover=1.54168
+			10:[Qi_Shi_Ri__month<5.5] yes=19,no=20,missing=19,gain=1.95258,cover=4.76094
+				19:leaf=0.05424,cover=1.52738
+				20:leaf=-0.05767,cover=3.23356
+	2:[Yi_Huan_Ben_Jin_(Yuan_)<1166.5] yes=5,no=6,missing=5,gain=5.50694,cover=553.914
+		5:[Sheng_Yu_Qi_Shu_<1.5] yes=11,no=12,missing=11,gain=5.63758,cover=163.423
+			11:[Sheng_Yu_Li_Xi_(Yuan_)<175] yes=21,no=22,missing=22,gain=2.53808,cover=12.452
+				21:leaf=-0.0427275,cover=1.08534
+				22:leaf=0.0880604,cover=11.3667
+			12:[Qi_Shi_Ri__day<24.5] yes=23,no=24,missing=23,gain=4.49219,cover=150.971
+				23:leaf=-0.00338253,cover=112.913
+				24:leaf=0.0359367,cover=38.0585
+		6:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=13,no=14,missing=13,gain=6.60608,cover=390.491
+			13:[Sheng_Yu_Li_Xi_(Yuan_)<1235] yes=25,no=26,missing=25,gain=5.2383,cover=307.436
+				25:leaf=-0.0196984,cover=288.063
+				26:leaf=0.0328972,cover=19.373
+			14:[Qi_Shi_Ri__day<28.5] yes=27,no=28,missing=27,gain=5.73465,cover=83.0542
+				27:leaf=0.0045931,cover=71.9776
+				28:leaf=0.0791375,cover=11.0766
+booster[64]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=7.08094,cover=594.786
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.192819,cover=10.5879
+		3:leaf=-0.028008,cover=1.74823
+		4:leaf=-0.0901764,cover=8.83965
+	2:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=5,no=6,missing=5,gain=6.1939,cover=584.198
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=7,no=8,missing=7,gain=6.02956,cover=565.255
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<7668] yes=11,no=12,missing=11,gain=5.5361,cover=548.333
+				11:leaf=0.00450071,cover=441.482
+				12:leaf=-0.0207664,cover=106.851
+			8:[He_Tong_Jin_E_(Yuan_)<26872.5] yes=13,no=14,missing=13,gain=4.26376,cover=16.9216
+				13:leaf=-0.082081,cover=13.8471
+				14:leaf=0.0378414,cover=3.07452
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<1173] yes=9,no=10,missing=10,gain=3.78046,cover=18.9433
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<2244] yes=15,no=16,missing=15,gain=2.95718,cover=3.27135
+				15:leaf=-0.041367,cover=1.97214
+				16:leaf=0.111685,cover=1.29921
+			10:[Dang_Qian_Qi_Shu_<6.5] yes=17,no=18,missing=17,gain=2.64969,cover=15.672
+				17:leaf=-0.0923576,cover=13.9708
+				18:leaf=0.0265073,cover=1.70117
+booster[65]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=1,no=2,missing=1,gain=6.6315,cover=591.956
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<3268] yes=3,no=4,missing=3,gain=7.41083,cover=364.203
+		3:[Di_Qu_=Zhong_Qing_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=6.18208,cover=229.07
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<3139] yes=15,no=16,missing=15,gain=5.52679,cover=222.344
+				15:leaf=-0.00819119,cover=217.681
+				16:leaf=0.0918989,cover=4.663
+			8:[He_Tong_Li_Lu_(%)<19.0553] yes=17,no=18,missing=18,gain=5.84964,cover=6.72638
+				17:leaf=0.160089,cover=3.45002
+				18:leaf=-0.012475,cover=3.27636
+		4:[Yu_Qi_Ben_Jin_(Yuan_)<3701] yes=9,no=10,missing=9,gain=5.12816,cover=135.133
+			9:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=19,no=20,missing=19,gain=5.24424,cover=127.734
+				19:leaf=-0.0442058,cover=112.858
+				20:leaf=0.0179295,cover=14.8758
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3791.68] yes=21,no=22,missing=21,gain=8.0231,cover=7.39885
+				21:leaf=0.11378,cover=4.77714
+				22:leaf=-0.0781512,cover=2.6217
+	2:[He_Tong_Jin_E_(Yuan_)<14874.5] yes=5,no=6,missing=5,gain=6.96852,cover=227.754
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=11,no=12,missing=11,gain=5.99462,cover=40.2507
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<2337] yes=23,no=24,missing=23,gain=6.72123,cover=38.8972
+				23:leaf=0.0233287,cover=26.5059
+				24:leaf=0.111492,cover=12.3913
+			12:leaf=-0.11345,cover=1.35351
+		6:[Sheng_Yu_Li_Xi_(Yuan_)<1214] yes=13,no=14,missing=14,gain=6.17433,cover=187.503
+			13:[Di_Qu_=Yun_Nan_Fen_Bu_<-9.53674e-07] yes=25,no=26,missing=25,gain=4.85776,cover=36.5094
+				25:leaf=-0.0459339,cover=34.5277
+				26:leaf=0.0887135,cover=1.98168
+			14:[Nian_Ling_<34.5] yes=27,no=28,missing=27,gain=8.16561,cover=150.994
+				27:leaf=0.0182951,cover=129.86
+				28:leaf=-0.0474111,cover=21.1338
+booster[66]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=6.37586,cover=587.659
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.208558,cover=9.61527
+		3:leaf=-0.026169,cover=1.68187
+		4:leaf=-0.08911,cover=7.9334
+	2:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=5,no=6,missing=5,gain=5.36646,cover=578.043
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=7,no=8,missing=7,gain=5.03601,cover=560.206
+			7:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=11,no=12,missing=11,gain=5.13618,cover=544.195
+				11:leaf=0.00224362,cover=518.872
+				12:leaf=-0.0430336,cover=25.3228
+			8:[He_Tong_Jin_E_(Yuan_)<26872.5] yes=13,no=14,missing=13,gain=3.74121,cover=16.011
+				13:leaf=-0.0780719,cover=12.8449
+				14:leaf=0.0340923,cover=3.16606
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<1173] yes=9,no=10,missing=10,gain=3.43119,cover=17.8371
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<3077.5] yes=15,no=16,missing=16,gain=2.90875,cover=3.33717
+				15:leaf=0.0881528,cover=2.04956
+				16:leaf=-0.0627519,cover=1.28761
+			10:[Dang_Qian_Qi_Shu_<6.5] yes=17,no=18,missing=17,gain=2.51626,cover=14.4999
+				17:leaf=-0.0904863,cover=12.7877
+				18:leaf=0.0256883,cover=1.71217
+booster[67]:
+0:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=1,no=2,missing=1,gain=5.99661,cover=585.468
+	1:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=3,no=4,missing=3,gain=6.73616,cover=425.693
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<1508.5] yes=7,no=8,missing=7,gain=6.56835,cover=413.641
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<1495.5] yes=15,no=16,missing=15,gain=6.21559,cover=170.898
+				15:leaf=0.00373589,cover=167.992
+				16:leaf=0.131375,cover=2.90611
+			8:[Yu_Qi_Ben_Jin_(Yuan_)<6536.5] yes=17,no=18,missing=17,gain=6.08527,cover=242.744
+				17:leaf=-0.0224046,cover=231.685
+				18:leaf=0.0506629,cover=11.0587
+		4:[Yi_Huan_Li_Xi_(Yuan_)<105.5] yes=9,no=10,missing=10,gain=0.656153,cover=12.0518
+			9:leaf=-0.00183149,cover=1.00407
+			10:[Yu_Qi_Ben_Jin_(Yuan_)<1166.5] yes=19,no=20,missing=20,gain=0.165662,cover=11.0477
+				19:leaf=-0.0301143,cover=1.68267
+				20:leaf=-0.0943044,cover=9.36504
+	2:[He_Tong_Jin_E_(Yuan_)<6884] yes=5,no=6,missing=5,gain=4.61002,cover=159.775
+		5:[Dao_Qi_Ri__month<3.5] yes=11,no=12,missing=11,gain=6.20324,cover=29.5629
+			11:[Yi_Huan_Li_Xi_(Yuan_)<79.5] yes=21,no=22,missing=22,gain=3.73184,cover=13.1221
+				21:leaf=0.0998985,cover=1.80319
+				22:leaf=-0.0279716,cover=11.3189
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<2475] yes=23,no=24,missing=24,gain=4.58491,cover=16.4409
+				23:leaf=0.037469,cover=10.012
+				24:leaf=0.146631,cover=6.42887
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<68.56] yes=13,no=14,missing=14,gain=5.87494,cover=130.212
+			13:[He_Tong_Li_Lu_(%)<19.0764] yes=25,no=26,missing=26,gain=1.52153,cover=7.18703
+				25:leaf=-0.0142541,cover=2.88001
+				26:leaf=-0.11029,cover=4.30702
+			14:[Di_Qu_=Hu_Bei_Fen_Bu_<-9.53674e-07] yes=27,no=28,missing=27,gain=4.57441,cover=123.025
+				27:leaf=0.00276703,cover=111.514
+				28:leaf=0.0665654,cover=11.5115
+booster[68]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=5.69605,cover=581.799
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.221605,cover=8.72784
+		3:leaf=-0.0243836,cover=1.62045
+		4:leaf=-0.0879369,cover=7.10739
+	2:[Xing_Bie_=Nan_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.36789,cover=573.071
+		5:[Nian_Ling_<25.5] yes=7,no=8,missing=7,gain=7.4768,cover=491.182
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<28912.5] yes=11,no=12,missing=11,gain=7.17149,cover=285.465
+				11:leaf=0.00057106,cover=271.994
+				12:leaf=0.072819,cover=13.471
+			8:[Yu_Qi_Ben_Jin_(Yuan_)<1799.5] yes=13,no=14,missing=13,gain=6.39714,cover=205.717
+				13:leaf=-0.0359245,cover=117.443
+				14:leaf=-0.000356492,cover=88.2743
+		6:[Xing_Ye_=Chuan_Tong_Zhi_Zao_Ye_<-9.53674e-07] yes=9,no=10,missing=9,gain=6.62521,cover=81.8889
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<3596.5] yes=15,no=16,missing=15,gain=6.34473,cover=72.3942
+				15:leaf=0.0280325,cover=48.9355
+				16:leaf=-0.0341623,cover=23.4587
+			10:[Yi_Huan_Ben_Jin_(Yuan_)<7250] yes=17,no=18,missing=18,gain=4.84626,cover=9.49468
+				17:leaf=0.137025,cover=6.38206
+				18:leaf=-0.00901902,cover=3.11262
+booster[69]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<5649] yes=1,no=2,missing=1,gain=5.31119,cover=578.885
+	1:[He_Tong_Jin_E_(Yuan_)<5981] yes=3,no=4,missing=3,gain=5.27827,cover=221.812
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=5.07459,cover=126.601
+			7:[Yu_Qi_Ben_Jin_(Yuan_)<1298] yes=15,no=16,missing=15,gain=6.2159,cover=105.051
+				15:leaf=-0.0245322,cover=81.3825
+				16:leaf=0.0327484,cover=23.669
+			8:[Dao_Qi_Ri__month<8.5] yes=17,no=18,missing=17,gain=4.97904,cover=21.5497
+				17:leaf=0.00680809,cover=14.9442
+				18:leaf=0.106703,cover=6.60552
+		4:[Yu_Qi_Ben_Jin_(Yuan_)<2496.5] yes=9,no=10,missing=9,gain=4.04058,cover=95.2107
+			9:[Yu_Qi_Ben_Jin_(Yuan_)<934.5] yes=19,no=20,missing=20,gain=4.18552,cover=88.0644
+				19:leaf=0.0385279,cover=5.70465
+				20:leaf=-0.0450835,cover=82.3598
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1466.68] yes=21,no=22,missing=21,gain=6.05901,cover=7.1463
+				21:leaf=0.119178,cover=3.27079
+				22:leaf=-0.0454477,cover=3.87551
+	2:[Dao_Qi_Ri__month<3.5] yes=5,no=6,missing=5,gain=5.79108,cover=357.073
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<6420] yes=11,no=12,missing=11,gain=5.69414,cover=172.064
+			11:[Qi_Shi_Ri__day<28.5] yes=23,no=24,missing=23,gain=6.25987,cover=17.1421
+				23:leaf=0.096387,cover=14.2596
+				24:leaf=-0.0510325,cover=2.8825
+			12:[Yi_Huan_Li_Xi_(Yuan_)<85.5] yes=25,no=26,missing=26,gain=6.06033,cover=154.922
+				25:leaf=0.138646,cover=2.62563
+				26:leaf=0.00771337,cover=152.296
+		6:[Qi_Shi_Ri__day<25.5] yes=13,no=14,missing=13,gain=5.62249,cover=185.009
+			13:[Sheng_Yu_Qi_Shu_<1.5] yes=27,no=28,missing=27,gain=6.64279,cover=138.069
+				27:leaf=0.0429474,cover=14.7742
+				28:leaf=-0.0261164,cover=123.294
+			14:[He_Tong_Li_Lu_(%)<18.9995] yes=29,no=30,missing=30,gain=5.3778,cover=46.9406
+				29:leaf=0.122207,cover=3.76258
+				30:leaf=0.00990344,cover=43.178
+booster[70]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=5.03005,cover=575.011
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.237244,cover=7.88602
+		3:leaf=-0.0223208,cover=1.55261
+		4:leaf=-0.086605,cover=6.3334
+	2:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.05293,cover=567.125
+		5:[Sheng_Yu_Li_Xi_(Yuan_)<2769] yes=7,no=8,missing=7,gain=4.39949,cover=551.13
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<210.105] yes=11,no=12,missing=11,gain=6.23068,cover=543.946
+				11:leaf=0.000628285,cover=521.031
+				12:leaf=-0.0515709,cover=22.9156
+			8:[Dao_Qi_Ri__day<20.5] yes=13,no=14,missing=13,gain=2.69267,cover=7.18378
+				13:leaf=0.00076036,cover=3.22045
+				14:leaf=0.118413,cover=3.96332
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<1596.5] yes=9,no=10,missing=10,gain=3.16284,cover=15.9956
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<2244] yes=15,no=16,missing=15,gain=3.38854,cover=4.43202
+				15:leaf=-0.0514829,cover=2.4719
+				16:leaf=0.0947803,cover=1.96012
+			10:[Qi_Shi_Ri__day<19.5] yes=17,no=18,missing=17,gain=1.28556,cover=11.5636
+				17:leaf=-0.102617,cover=6.63675
+				18:leaf=-0.0287691,cover=4.92682
+booster[71]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=1,no=2,missing=1,gain=4.73415,cover=573.335
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1633.35] yes=3,no=4,missing=3,gain=5.77171,cover=348.179
+		3:[Yu_Qi_Ben_Jin_(Yuan_)<1613] yes=7,no=8,missing=7,gain=11.3356,cover=233.503
+			7:[Qi_Shi_Ri__day<28.5] yes=15,no=16,missing=15,gain=6.17737,cover=210.904
+				15:leaf=-0.0148409,cover=185.798
+				16:leaf=0.0371209,cover=25.107
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<6934.5] yes=17,no=18,missing=17,gain=5.62444,cover=22.599
+				17:leaf=0.0876356,cover=18.3724
+				18:leaf=-0.0333429,cover=4.22661
+		4:[Yu_Qi_Ben_Jin_(Yuan_)<3701] yes=9,no=10,missing=9,gain=6.05671,cover=114.675
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<1862.5] yes=19,no=20,missing=19,gain=5.30149,cover=105.944
+				19:leaf=0.00131044,cover=28.9524
+				20:leaf=-0.0487536,cover=76.9915
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3791.68] yes=21,no=22,missing=21,gain=7.08275,cover=8.73149
+				21:leaf=0.100068,cover=6.27934
+				22:leaf=-0.0763696,cover=2.45216
+	2:[He_Tong_Jin_E_(Yuan_)<14874.5] yes=5,no=6,missing=5,gain=5.42317,cover=225.156
+		5:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=11,no=12,missing=11,gain=5.00472,cover=40.7547
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<1579.5] yes=23,no=24,missing=23,gain=5.43592,cover=39.4967
+				23:leaf=-0.00354454,cover=13.4604
+				24:leaf=0.0739775,cover=26.0363
+			12:leaf=-0.107321,cover=1.258
+		6:[Qi_Shi_Ri__month<2.5] yes=13,no=14,missing=13,gain=5.67039,cover=184.402
+			13:[He_Tong_Li_Lu_(%)<19.0214] yes=25,no=26,missing=26,gain=5.25686,cover=20.2505
+				25:leaf=-0.0170473,cover=7.30276
+				26:leaf=0.0856725,cover=12.9477
+			14:[Nian_Ling_<35.5] yes=27,no=28,missing=27,gain=4.96429,cover=164.151
+				27:leaf=0.000863989,cover=146.539
+				28:leaf=-0.0539579,cover=17.6118
+booster[72]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=4.5237,cover=568.985
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.245809,cover=7.26159
+		3:leaf=-0.0207865,cover=1.50445
+		4:leaf=-0.0854185,cover=5.75714
+	2:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=5,no=6,missing=5,gain=4.03789,cover=561.723
+		5:[Nian_Ling_<25.5] yes=7,no=8,missing=7,gain=4.74753,cover=537.599
+			7:[Di_Qu_=Dong_Wan_Fen_Bu_<-9.53674e-07] yes=11,no=12,missing=11,gain=8.47277,cover=304.023
+				11:leaf=0.0118972,cover=292.144
+				12:leaf=-0.0710101,cover=11.8788
+			8:[Xing_Bie_=Nan_<-9.53674e-07] yes=13,no=14,missing=13,gain=8.0142,cover=233.576
+				13:leaf=-0.0183209,cover=198.262
+				14:leaf=0.0327932,cover=35.3144
+		6:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=9,no=10,missing=10,gain=6.19672,cover=24.1244
+			9:[Qi_Shi_Ri__month<3.5] yes=15,no=16,missing=15,gain=4.65023,cover=13.9852
+				15:leaf=0.082675,cover=4.03115
+				16:leaf=-0.0334758,cover=9.95408
+			10:leaf=-0.096457,cover=10.1391
+booster[73]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=4.08993,cover=567.541
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.245839,cover=6.7621
+		3:leaf=-0.01979,cover=1.47413
+		4:leaf=-0.0842942,cover=5.28798
+	2:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=5,no=6,missing=5,gain=3.97563,cover=560.779
+		5:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=7,no=8,missing=7,gain=3.79858,cover=545.885
+			7:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=11,no=12,missing=11,gain=4.03614,cover=530.589
+				11:leaf=0.00329283,cover=507.335
+				12:leaf=-0.0384634,cover=23.2542
+			8:[Qi_Shi_Ri__day<15.5] yes=13,no=14,missing=13,gain=2.96997,cover=15.2962
+				13:leaf=-0.0916337,cover=6.90427
+				14:leaf=-0.00550876,cover=8.39191
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<171.81] yes=9,no=10,missing=9,gain=3.55455,cover=14.8934
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<13266.5] yes=15,no=16,missing=16,gain=2.35279,cover=13.7824
+				15:leaf=-0.0955208,cover=8.50366
+				16:leaf=-0.010124,cover=5.27872
+			10:leaf=0.0776661,cover=1.11103
+booster[74]:
+0:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=1,no=2,missing=1,gain=4.002,cover=566.368
+	1:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=3,no=4,missing=3,gain=5.33331,cover=407.905
+		3:[Nian_Ling_<39.5] yes=7,no=8,missing=7,gain=5.42263,cover=397.985
+			7:[Yu_Qi_Ben_Jin_(Yuan_)<10948.5] yes=15,no=16,missing=15,gain=5.61098,cover=374.119
+				15:leaf=-0.0043522,cover=367.77
+				16:leaf=0.0838995,cover=6.34878
+			8:[Qi_Shi_Ri__day<26.5] yes=17,no=18,missing=17,gain=5.61484,cover=23.8661
+				17:leaf=-0.074367,cover=19.1133
+				18:leaf=0.0401226,cover=4.75283
+		4:[Yi_Huan_Li_Xi_(Yuan_)<139.5] yes=9,no=10,missing=10,gain=0.5971,cover=9.92017
+			9:leaf=-0.00143013,cover=1.00034
+			10:[Yu_Qi_Ben_Jin_(Yuan_)<1166.5] yes=19,no=20,missing=20,gain=0.219029,cover=8.91983
+				19:leaf=-0.0252827,cover=1.53788
+				20:leaf=-0.0916959,cover=7.38195
+	2:[Nian_Ling_<42.5] yes=5,no=6,missing=5,gain=4.54333,cover=158.463
+		5:[Nian_Ling_<30.5] yes=11,no=12,missing=11,gain=3.98312,cover=155.479
+			11:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<175.39] yes=21,no=22,missing=21,gain=4.68229,cover=132.921
+				21:leaf=0.0217176,cover=117.962
+				22:leaf=-0.0361042,cover=14.9592
+			12:[Qi_Shi_Ri__day<7.5] yes=23,no=24,missing=23,gain=4.762,cover=22.5575
+				23:leaf=0.0539995,cover=4.52695
+				24:leaf=-0.0523725,cover=18.0306
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<6166.5] yes=13,no=14,missing=13,gain=1.4799,cover=2.98424
+			13:leaf=0.177553,cover=1.09443
+			14:leaf=0.0321428,cover=1.88981
+booster[75]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<5649] yes=1,no=2,missing=1,gain=3.74475,cover=564.323
+	1:[He_Tong_Jin_E_(Yuan_)<5981] yes=3,no=4,missing=3,gain=4.44936,cover=211.608
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<198.5] yes=7,no=8,missing=7,gain=4.54349,cover=122.401
+			7:[Dao_Qi_Ri__month<1.5] yes=15,no=16,missing=15,gain=4.72668,cover=115.934
+				15:leaf=-0.0551458,cover=15.1891
+				16:leaf=0.00304342,cover=100.745
+			8:[Dang_Qian_Qi_Shu_<1.5] yes=17,no=18,missing=17,gain=3.83913,cover=6.4672
+				17:leaf=-0.0221585,cover=2.34017
+				18:leaf=0.124352,cover=4.12703
+		4:[Dao_Qi_Ri__day<29.5] yes=9,no=10,missing=9,gain=3.29297,cover=89.2069
+			9:[Yu_Qi_Ben_Jin_(Yuan_)<2496.5] yes=19,no=20,missing=19,gain=3.92595,cover=84.2321
+				19:leaf=-0.0405415,cover=77.6231
+				20:leaf=0.0357841,cover=6.60904
+			10:[Yu_Qi_Ben_Jin_(Yuan_)<1151] yes=21,no=22,missing=22,gain=8.40521,cover=4.97477
+				21:leaf=0.197593,cover=1.25674
+				22:leaf=-0.0393167,cover=3.71802
+	2:[Sheng_Yu_Ben_Jin_(Yuan_)<5835.5] yes=5,no=6,missing=5,gain=4.82669,cover=352.715
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<5789] yes=11,no=12,missing=11,gain=4.34189,cover=9.6282
+			11:[Yu_Qi_Ben_Jin_(Yuan_)<2376] yes=23,no=24,missing=23,gain=2.30124,cover=4.65745
+				23:leaf=-0.0405495,cover=3.60138
+				24:leaf=0.0867096,cover=1.05607
+			12:[Nian_Ling_<24.5] yes=25,no=26,missing=25,gain=1.60296,cover=4.97075
+				25:leaf=0.163901,cover=3.08001
+				26:leaf=0.0310685,cover=1.89074
+		6:[Dao_Qi_Ri__month<3.5] yes=13,no=14,missing=13,gain=4.22367,cover=343.087
+			13:[Dao_Qi_Ri__day<6.5] yes=27,no=28,missing=27,gain=4.94113,cover=167.441
+				27:leaf=0.0512707,cover=27.7139
+				28:leaf=0.00566923,cover=139.727
+			14:[Dao_Qi_Ri__day<24.5] yes=29,no=30,missing=29,gain=4.99034,cover=175.646
+				29:leaf=-0.0200276,cover=120.386
+				30:leaf=0.0160288,cover=55.26
+booster[76]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=3.64283,cover=562.022
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.247646,cover=6.19323
+		3:leaf=-0.018404,cover=1.43291
+		4:leaf=-0.0828169,cover=4.76033
+	2:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=5,no=6,missing=5,gain=3.49686,cover=555.829
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<7668] yes=7,no=8,missing=7,gain=3.44547,cover=541.718
+			7:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=11,no=12,missing=11,gain=3.87112,cover=439.435
+				11:leaf=0.00634515,cover=419.365
+				12:leaf=-0.0375896,cover=20.0699
+			8:[He_Tong_Jin_E_(Yuan_)<17197.5] yes=13,no=14,missing=13,gain=5.78864,cover=102.283
+				13:leaf=-0.0681597,cover=16.6694
+				14:leaf=-0.00521712,cover=85.6132
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<171.81] yes=9,no=10,missing=9,gain=3.25546,cover=14.1108
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<13266.5] yes=15,no=16,missing=16,gain=2.18164,cover=12.947
+				15:leaf=-0.0942419,cover=7.74661
+				16:leaf=-0.0102482,cover=5.20044
+			10:leaf=0.0725442,cover=1.16375
+booster[77]:
+0:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=1,no=2,missing=1,gain=3.34768,cover=560.943
+	1:[Sheng_Yu_Qi_Shu_<7.5] yes=3,no=4,missing=3,gain=4.04249,cover=540.434
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=4.84799,cover=477.173
+			7:[Di_Qu_=Zhe_Xi_Fen_Bu_<-9.53674e-07] yes=15,no=16,missing=15,gain=4.03461,cover=340.856
+				15:leaf=-0.00921382,cover=309.285
+				16:leaf=-0.0462844,cover=31.5719
+			8:[Sheng_Yu_Li_Xi_(Yuan_)<451.5] yes=17,no=18,missing=17,gain=5.06037,cover=136.317
+				17:leaf=0.0189507,cover=109.815
+				18:leaf=-0.0290148,cover=26.5021
+		4:[Di_Qu_=Shang_Hai_Fen_Bu_<-9.53674e-07] yes=9,no=10,missing=9,gain=7.4192,cover=63.261
+			9:[Xing_Ye_=Can_Yin_/Jiu_Dian_/Lu_You_<-9.53674e-07] yes=19,no=20,missing=19,gain=5.59432,cover=58.5866
+				19:leaf=0.0182138,cover=51.8568
+				20:leaf=0.110033,cover=6.7298
+			10:leaf=-0.0895624,cover=4.67442
+	2:[Qi_Shi_Ri__day<15.5] yes=5,no=6,missing=5,gain=6.63389,cover=20.5086
+		5:[Dao_Qi_Ri__day<12.5] yes=11,no=12,missing=11,gain=8.02829,cover=10.2561
+			11:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4076.93] yes=21,no=22,missing=21,gain=3.03667,cover=7.25384
+				21:leaf=-0.0101119,cover=6.14241
+				22:leaf=0.127531,cover=1.11143
+			12:[Sheng_Yu_Ben_Jin_(Yuan_)<10250] yes=23,no=24,missing=23,gain=7.83982,cover=3.00225
+				23:leaf=0.305383,cover=1.63105
+				24:leaf=0.00598856,cover=1.3712
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<1305] yes=13,no=14,missing=13,gain=3.38821,cover=10.2526
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<1583] yes=25,no=26,missing=26,gain=3.05077,cover=3.58189
+				25:leaf=-0.0595944,cover=1.03129
+				26:leaf=0.0992468,cover=2.55059
+			14:[Sheng_Yu_Qi_Shu_<1.5] yes=27,no=28,missing=27,gain=1.55323,cover=6.67067
+				27:leaf=0.0248533,cover=1.30987
+				28:leaf=-0.0798765,cover=5.3608
+booster[78]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=3.26495,cover=559.149
+	1:[Nian_Ling_<26.7099] yes=3,no=4,missing=3,gain=0.277251,cover=5.74298
+		3:leaf=-0.0816831,cover=4.37454
+		4:leaf=-0.0158608,cover=1.36844
+	2:[Di_Qu_=Zhe_Dong_Fen_Bu_<-9.53674e-07] yes=5,no=6,missing=5,gain=3.28374,cover=553.406
+		5:[Dao_Qi_Ri__day<24.5] yes=7,no=8,missing=7,gain=3.87175,cover=537.271
+			7:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=11,no=12,missing=11,gain=3.83841,cover=381.609
+				11:leaf=-0.013906,cover=269.627
+				12:leaf=0.00805458,cover=111.982
+			8:[Sheng_Yu_Li_Xi_(Yuan_)<1777.5] yes=13,no=14,missing=13,gain=7.75802,cover=155.661
+				13:leaf=0.00639862,cover=149.795
+				14:leaf=0.115171,cover=5.86678
+		6:[Dao_Qi_Ri__day<16.5] yes=9,no=10,missing=9,gain=6.20486,cover=16.1353
+			9:[Yu_Qi_Ben_Jin_(Yuan_)<1649.5] yes=15,no=16,missing=16,gain=8.16128,cover=7.32536
+				15:leaf=-0.0573842,cover=1.81205
+				16:leaf=0.158281,cover=5.51331
+			10:[Yi_Huan_Ben_Jin_(Yuan_)<5660.5] yes=17,no=18,missing=18,gain=2.74129,cover=8.80995
+				17:leaf=0.0320568,cover=5.00031
+				18:leaf=-0.0696286,cover=3.80963
+booster[79]:
+0:[He_Tong_Li_Lu_(%)<14.6943] yes=1,no=2,missing=2,gain=2.99165,cover=557.631
+	1:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<21.06] yes=3,no=4,missing=4,gain=4.33939,cover=11.1558
+		3:leaf=0.0742414,cover=1.53004
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<830.25] yes=7,no=8,missing=7,gain=1.16157,cover=9.62579
+			7:leaf=0.0101888,cover=1.18301
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<16980] yes=13,no=14,missing=13,gain=0.658085,cover=8.44278
+				13:leaf=-0.0965905,cover=7.3883
+				14:leaf=-0.00630363,cover=1.05449
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<83.5] yes=5,no=6,missing=6,gain=5.61442,cover=546.475
+		5:[Nian_Ling_<30.5] yes=9,no=10,missing=9,gain=1.67725,cover=9.36777
+			9:leaf=-0.0888624,cover=8.04275
+			10:leaf=0.0193443,cover=1.32502
+		6:[He_Tong_Li_Lu_(%)<19.0158] yes=11,no=12,missing=11,gain=4.03064,cover=537.107
+			11:[Qi_Shi_Ri__day<2.5] yes=15,no=16,missing=15,gain=4.33938,cover=49.3738
+				15:leaf=-0.0633783,cover=3.84238
+				16:leaf=0.0369701,cover=45.5314
+			12:[Nian_Ling_<25.5] yes=17,no=18,missing=17,gain=4.03272,cover=487.733
+				17:leaf=0.00595565,cover=286.719
+				18:leaf=-0.0124783,cover=201.015
+booster[80]:
+0:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.97563,cover=556.963
+	1:[Di_Qu_=Dong_Wan_Fen_Bu_<-9.53674e-07] yes=3,no=4,missing=3,gain=3.69908,cover=536.388
+		3:[Sheng_Yu_Li_Xi_(Yuan_)<1592.5] yes=7,no=8,missing=7,gain=4.70646,cover=515.917
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<137] yes=15,no=16,missing=15,gain=5.76814,cover=494.904
+				15:leaf=-0.000116452,cover=461.843
+				16:leaf=-0.0427587,cover=33.0615
+			8:[He_Tong_Li_Lu_(%)<20.4384] yes=17,no=18,missing=18,gain=5.35347,cover=21.0128
+				17:leaf=0.0194573,cover=17.9171
+				18:leaf=0.147739,cover=3.09567
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<133332] yes=9,no=10,missing=10,gain=3.81975,cover=20.4713
+			9:[Qi_Shi_Ri__day<5.5] yes=19,no=20,missing=19,gain=1.61407,cover=15.2328
+				19:leaf=0.0130773,cover=1.88755
+				20:leaf=-0.0791567,cover=13.3453
+			10:[Qi_Shi_Ri__day<5.5] yes=21,no=22,missing=21,gain=3.78082,cover=5.23842
+				21:leaf=-0.0912625,cover=1.09438
+				22:leaf=0.0693965,cover=4.14404
+	2:[Qi_Shi_Ri__day<15.5] yes=5,no=6,missing=5,gain=5.51989,cover=20.5751
+		5:[Dao_Qi_Ri__day<12.5] yes=11,no=12,missing=11,gain=5.85711,cover=10.635
+			11:[He_Tong_Li_Lu_(%)<19.6877] yes=23,no=24,missing=24,gain=2.71289,cover=7.25539
+				23:leaf=0.0538269,cover=5.78586
+				24:leaf=-0.0696764,cover=1.46954
+			12:[He_Tong_Jin_E_(Yuan_)<15250] yes=25,no=26,missing=25,gain=6.03603,cover=3.37965
+				25:leaf=0.240874,cover=2.31091
+				26:leaf=-0.0174555,cover=1.06873
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<1305] yes=13,no=14,missing=13,gain=2.91792,cover=9.94005
+			13:[Yu_Qi_Ben_Jin_(Yuan_)<1673] yes=27,no=28,missing=28,gain=2.03755,cover=3.61641
+				27:leaf=-0.0411827,cover=1.16989
+				28:leaf=0.0877193,cover=2.44652
+			14:[Sheng_Yu_Qi_Shu_<1.5] yes=29,no=30,missing=29,gain=1.46148,cover=6.32363
+				29:leaf=0.0243451,cover=1.31768
+				30:leaf=-0.0775514,cover=5.00596
+booster[81]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=2.90338,cover=555.705
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.308797,cover=5.30671
+		3:leaf=-0.0127351,cover=1.27826
+		4:leaf=-0.0802609,cover=4.02845
+	2:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=5,no=6,missing=5,gain=3.03639,cover=550.398
+		5:[Di_Qu_=Zhong_Qing_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=3.1551,cover=537.014
+			7:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=11,no=12,missing=11,gain=3.18854,cover=522.674
+				11:leaf=0.000864487,cover=509.112
+				12:leaf=-0.0465923,cover=13.562
+			8:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=13,no=14,missing=13,gain=5.44493,cover=14.3403
+				13:leaf=0.126512,cover=4.38959
+				14:leaf=0.00155449,cover=9.95071
+		6:[Xing_Bie_=Nan_<-9.53674e-07] yes=9,no=10,missing=9,gain=3.21601,cover=13.3836
+			9:[He_Tong_Li_Lu_(%)<19.0592] yes=15,no=16,missing=16,gain=3.48316,cover=11.828
+				15:leaf=0.0136389,cover=3.77284
+				16:leaf=-0.0974943,cover=8.05519
+			10:leaf=0.0627758,cover=1.55554
+booster[82]:
+0:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.85572,cover=554.931
+	1:[Xing_Bie_=Nan_<-9.53674e-07] yes=3,no=4,missing=3,gain=3.38671,cover=532.603
+		3:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<39.755] yes=7,no=8,missing=8,gain=5.32396,cover=455.606
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<2008] yes=13,no=14,missing=13,gain=1.03872,cover=13.57
+				13:leaf=-0.0196254,cover=4.85049
+				14:leaf=-0.081583,cover=8.7195
+			8:[Nian_Ling_<25.5] yes=15,no=16,missing=15,gain=5.47134,cover=442.036
+				15:leaf=0.00864386,cover=255.164
+				16:leaf=-0.0138244,cover=186.872
+		4:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=9,no=10,missing=9,gain=5.53816,cover=76.9966
+			9:[Sheng_Yu_Ben_Jin_(Yuan_)<2855] yes=17,no=18,missing=17,gain=6.20807,cover=68.4471
+				17:leaf=-0.0640892,cover=8.87596
+				18:leaf=0.0214777,cover=59.5712
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<831.585] yes=19,no=20,missing=19,gain=5.58517,cover=8.54947
+				19:leaf=0.21873,cover=1.5791
+				20:leaf=0.0383962,cover=6.97036
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=5,no=6,missing=6,gain=5.83518,cover=22.3276
+		5:[Qi_Shi_Ri__month<3.5] yes=11,no=12,missing=11,gain=3.96593,cover=13.6576
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<3419] yes=21,no=22,missing=21,gain=1.84147,cover=4.11278
+				21:leaf=0.116901,cover=2.62276
+				22:leaf=-0.00939118,cover=1.49002
+			12:[Dao_Qi_Ri__month<2.5] yes=23,no=24,missing=23,gain=4.6461,cover=9.54483
+				23:leaf=0.0718624,cover=2.42662
+				24:leaf=-0.0681491,cover=7.11821
+		6:leaf=-0.0947423,cover=8.66998
+booster[83]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<9352.5] yes=1,no=2,missing=1,gain=2.72194,cover=553.933
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1633.35] yes=3,no=4,missing=3,gain=4.93555,cover=331.001
+		3:[Yu_Qi_Ben_Jin_(Yuan_)<1613] yes=7,no=8,missing=7,gain=8.16757,cover=223.469
+			7:[Qi_Shi_Ri__day<28.5] yes=15,no=16,missing=15,gain=4.5607,cover=201.448
+				15:leaf=-0.0103718,cover=176.118
+				16:leaf=0.0342438,cover=25.3301
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<6599.5] yes=17,no=18,missing=17,gain=4.80779,cover=22.0208
+				17:leaf=0.0826768,cover=16.9575
+				18:leaf=-0.0237369,cover=5.06326
+		4:[Yu_Qi_Ben_Jin_(Yuan_)<3701] yes=9,no=10,missing=9,gain=4.94127,cover=107.533
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<1862.5] yes=19,no=20,missing=19,gain=4.3196,cover=99.0523
+				19:leaf=0.00227705,cover=28.5411
+				20:leaf=-0.0436625,cover=70.5113
+			10:[Yi_Huan_Ben_Jin_(Yuan_)<4666.5] yes=21,no=22,missing=22,gain=6.42946,cover=8.48044
+				21:leaf=-0.0793538,cover=2.17723
+				22:leaf=0.0935145,cover=6.30321
+	2:[Yi_Huan_Li_Xi_(Yuan_)<174.5] yes=5,no=6,missing=6,gain=4.79604,cover=222.932
+		5:[Yi_Huan_Li_Xi_(Yuan_)<78.5] yes=11,no=12,missing=12,gain=8.25087,cover=11.5373
+			11:leaf=0.114861,cover=1.57496
+			12:[Nian_Ling_<19.5] yes=23,no=24,missing=23,gain=2.76836,cover=9.96234
+				23:leaf=0.0399999,cover=1.00724
+				24:leaf=-0.104003,cover=8.9551
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<9912.5] yes=13,no=14,missing=13,gain=4.47111,cover=211.394
+			13:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3279.51] yes=25,no=26,missing=25,gain=3.24357,cover=9.76098
+				25:leaf=0.0386376,cover=8.30033
+				26:leaf=0.177348,cover=1.46065
+			14:[Qi_Shi_Ri__month<2.5] yes=27,no=28,missing=27,gain=6.41485,cover=201.633
+				27:leaf=0.0590852,cover=20.6999
+				28:leaf=0.00153692,cover=180.934
+booster[84]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=2.56045,cover=551.013
+	1:[Nian_Ling_<26.7099] yes=3,no=4,missing=3,gain=0.339991,cover=4.89468
+		3:leaf=-0.0788864,cover=3.68361
+		4:leaf=-0.00981862,cover=1.21107
+	2:[Sheng_Yu_Ben_Jin_(Yuan_)<1501.5] yes=5,no=6,missing=5,gain=2.71576,cover=546.118
+		5:[Dao_Qi_Ri__year<2016.5] yes=7,no=8,missing=7,gain=6.94176,cover=7.24495
+			7:leaf=-0.0699252,cover=2.23161
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<1425.5] yes=11,no=12,missing=11,gain=4.47033,cover=5.01334
+				11:leaf=0.0222267,cover=3.03661
+				12:leaf=0.203258,cover=1.97673
+		6:[Sheng_Yu_Ben_Jin_(Yuan_)<1932.5] yes=9,no=10,missing=9,gain=4.71479,cover=538.873
+			9:[Di_Qu_=Yan_Dong_Fen_Bu_<-9.53674e-07] yes=13,no=14,missing=13,gain=2.18507,cover=9.8806
+				13:leaf=-0.0815823,cover=8.87598
+				14:leaf=0.0429817,cover=1.00462
+			10:[He_Tong_Li_Lu_(%)<18.2283] yes=15,no=16,missing=15,gain=3.72174,cover=528.992
+				15:leaf=-0.0395855,cover=21.3339
+				16:leaf=0.00212282,cover=507.658
+booster[85]:
+0:[Yu_Qi_Ben_Jin_(Yuan_)<16248] yes=1,no=2,missing=1,gain=2.52948,cover=550.43
+	1:[He_Tong_Li_Lu_(%)<22.0471] yes=3,no=4,missing=3,gain=3.16883,cover=544.427
+		3:[Di_Qu_=Zhe_Dong_Fen_Bu_<-9.53674e-07] yes=7,no=8,missing=7,gain=3.57769,cover=522.538
+			7:[Dao_Qi_Ri__day<24.5] yes=13,no=14,missing=13,gain=3.67465,cover=508.774
+				13:leaf=-0.00677972,cover=360.105
+				14:leaf=0.0118561,cover=148.669
+			8:[Dao_Qi_Ri__day<16.5] yes=15,no=16,missing=15,gain=4.63175,cover=13.7632
+				15:leaf=0.102272,cover=6.70533
+				16:leaf=-0.0087291,cover=7.05786
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<12458] yes=9,no=10,missing=10,gain=1.96619,cover=21.8896
+			9:[Xing_Ye_=Nong_Lin_Mu_Yu_/Zi_You_Zhi_Ye_/Qi_Ta_<-9.53674e-07] yes=17,no=18,missing=17,gain=1.62332,cover=13.6356
+				17:leaf=-0.0751357,cover=11.1307
+				18:leaf=0.00975595,cover=2.50486
+			10:[Dao_Qi_Ri__day<17.5] yes=19,no=20,missing=19,gain=3.73263,cover=8.25396
+				19:leaf=0.0571703,cover=4.48255
+				20:leaf=-0.0637902,cover=3.77141
+	2:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<281.58] yes=5,no=6,missing=5,gain=2.39546,cover=6.00288
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<7286.5] yes=11,no=12,missing=11,gain=0.540097,cover=4.93364
+			11:leaf=0.0997953,cover=3.92196
+			12:leaf=0.00921645,cover=1.01169
+		6:leaf=-0.0467499,cover=1.06924
+booster[86]:
+0:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.42231,cover=549.455
+	1:[Xing_Bie_=Nan_<-9.53674e-07] yes=3,no=4,missing=3,gain=2.79716,cover=528.123
+		3:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<39.755] yes=7,no=8,missing=8,gain=4.61058,cover=451.048
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<2008] yes=13,no=14,missing=13,gain=1.01857,cover=12.7418
+				13:leaf=-0.0170339,cover=4.6582
+				14:leaf=-0.079192,cover=8.08361
+			8:[Yi_Huan_Li_Xi_(Yuan_)<80.5] yes=15,no=16,missing=16,gain=4.77589,cover=438.306
+				15:leaf=0.0595944,cover=11.8251
+				16:leaf=-0.00233785,cover=426.481
+		4:[Di_Qu_=Shen_Zhen_Fen_Bu_<-9.53674e-07] yes=9,no=10,missing=9,gain=5.00051,cover=77.0756
+			9:[Xing_Ye_=Chuan_Tong_Zhi_Zao_Ye_<-9.53674e-07] yes=17,no=18,missing=17,gain=5.75942,cover=71.8398
+				17:leaf=0.0140402,cover=63.107
+				18:leaf=0.0970511,cover=8.73282
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2803.34] yes=19,no=20,missing=19,gain=2.76181,cover=5.23575
+				19:leaf=-0.100627,cover=4.17108
+				20:leaf=0.0457986,cover=1.06467
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=5,no=6,missing=6,gain=5.39591,cover=21.3312
+		5:[Qi_Shi_Ri__month<3.5] yes=11,no=12,missing=11,gain=3.20696,cover=13.4431
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<3419] yes=21,no=22,missing=21,gain=1.42584,cover=4.2563
+				21:leaf=0.102035,cover=2.79867
+				22:leaf=-0.00880105,cover=1.45763
+			12:[Dao_Qi_Ri__month<2.5] yes=23,no=24,missing=23,gain=4.07028,cover=9.1868
+				23:leaf=0.0660361,cover=2.49094
+				24:leaf=-0.0651774,cover=6.69586
+		6:leaf=-0.0934071,cover=7.8881
+booster[87]:
+0:[Yi_Huan_Ben_Jin_(Yuan_)<12535.5] yes=1,no=2,missing=1,gain=2.33492,cover=548.873
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<10002.5] yes=3,no=4,missing=3,gain=3.6385,cover=497.57
+		3:[Yi_Huan_Ben_Jin_(Yuan_)<8977.5] yes=7,no=8,missing=7,gain=4.62051,cover=479.473
+			7:[He_Tong_Jin_E_(Yuan_)<19487] yes=15,no=16,missing=15,gain=3.68766,cover=465.317
+				15:leaf=-0.00264515,cover=381.226
+				16:leaf=0.0203743,cover=84.0906
+			8:[Yu_Qi_Ben_Jin_(Yuan_)<3265.5] yes=17,no=18,missing=17,gain=2.70742,cover=14.1568
+				17:leaf=-0.0790527,cover=10.3751
+				18:leaf=0.0151356,cover=3.78174
+		4:[Sheng_Yu_Ben_Jin_(Yuan_)<22811.5] yes=9,no=10,missing=9,gain=4.68295,cover=18.0965
+			9:[Xing_Ye_=Can_Yin_/Jiu_Dian_/Lu_You_<-9.53674e-07] yes=19,no=20,missing=19,gain=3.99551,cover=14.6358
+				19:leaf=0.0850747,cover=13.3122
+				20:leaf=-0.0638732,cover=1.3236
+			10:[He_Tong_Li_Lu_(%)<19.367] yes=21,no=22,missing=22,gain=0.918843,cover=3.46067
+				21:leaf=-0.0761828,cover=2.40233
+				22:leaf=0.0174197,cover=1.05834
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=5,no=6,missing=5,gain=2.759,cover=51.3029
+		5:[Dao_Qi_Ri__month<8.5] yes=11,no=12,missing=11,gain=3.11545,cover=36.9276
+			11:[Di_Qu_=An_Hui_Fen_Bu_<-9.53674e-07] yes=23,no=24,missing=23,gain=3.81384,cover=27.9671
+				23:leaf=-0.0594103,cover=26.8416
+				24:leaf=0.0840585,cover=1.12546
+			12:[Sheng_Yu_Ben_Jin_(Yuan_)<8631] yes=25,no=26,missing=25,gain=2.68731,cover=8.96053
+				25:leaf=-0.0676554,cover=1.97703
+				26:leaf=0.0440977,cover=6.9835
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<4251.5] yes=13,no=14,missing=14,gain=6.52037,cover=14.3753
+			13:[He_Tong_Jin_E_(Yuan_)<25250] yes=27,no=28,missing=27,gain=2.04716,cover=9.68734
+				27:leaf=0.0258271,cover=3.44944
+				28:leaf=-0.0622443,cover=6.23789
+			14:[Sheng_Yu_Qi_Shu_<2.5] yes=29,no=30,missing=29,gain=2.65633,cover=4.68797
+				29:leaf=0.0158645,cover=2.45198
+				30:leaf=0.161245,cover=2.23599
+booster[88]:
+0:[Di_Qu_=Zhong_Qing_Fen_Bu_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.34587,cover=547.834
+	1:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=3,no=4,missing=3,gain=2.62635,cover=532.829
+		3:[Sheng_Yu_Ben_Jin_(Yuan_)<48719] yes=7,no=8,missing=7,gain=3.14694,cover=519.688
+			7:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<6904] yes=15,no=16,missing=15,gain=3.05433,cover=515.318
+				15:leaf=-0.000116595,cover=503.557
+				16:leaf=-0.0496551,cover=11.7616
+			8:[Qi_Shi_Ri__day<14.5] yes=17,no=18,missing=17,gain=3.08434,cover=4.36991
+				17:leaf=-0.03822,cover=1.22971
+				18:leaf=0.118649,cover=3.1402
+		4:[Qi_Shi_Ri__day<15.5] yes=9,no=10,missing=9,gain=2.24275,cover=13.1405
+			9:[He_Tong_Jin_E_(Yuan_)<4559] yes=19,no=20,missing=19,gain=0.560192,cover=5.68251
+				19:leaf=-0.00962492,cover=1.06239
+				20:leaf=-0.0991269,cover=4.62012
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=21,no=22,missing=21,gain=3.73108,cover=7.45795
+				21:leaf=-0.0533676,cover=4.95041
+				22:leaf=0.0767129,cover=2.50753
+	2:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=5,no=6,missing=5,gain=4.54195,cover=15.0047
+		5:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2675.33] yes=11,no=12,missing=11,gain=4.6208,cover=4.81252
+			11:[Dao_Qi_Ri__month<6.5] yes=23,no=24,missing=23,gain=1.2349,cover=3.1646
+				23:leaf=0.197406,cover=2.15096
+				24:leaf=0.0307956,cover=1.01364
+			12:leaf=-0.0219221,cover=1.64791
+		6:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4073.6] yes=13,no=14,missing=13,gain=2.14385,cover=10.1922
+			13:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1863.01] yes=25,no=26,missing=25,gain=2.30975,cover=9.12274
+				25:leaf=0.0165112,cover=5.87903
+				26:leaf=-0.0781532,cover=3.24372
+			14:leaf=0.0901774,cover=1.06946
+booster[89]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=2.27305,cover=546.939
+	1:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<500.25] yes=3,no=4,missing=3,gain=0.370976,cover=4.54479
+		3:leaf=-0.00667958,cover=1.13265
+		4:leaf=-0.0774562,cover=3.41214
+	2:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=5,no=6,missing=5,gain=2.65097,cover=542.394
+		5:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<210.105] yes=7,no=8,missing=7,gain=2.65347,cover=529.638
+			7:[Sheng_Yu_Li_Xi_(Yuan_)<1213.5] yes=11,no=12,missing=11,gain=5.4841,cover=500.952
+				11:leaf=0.00102961,cover=484.95
+				12:leaf=0.0588132,cover=16.0021
+			8:[He_Tong_Li_Lu_(%)<20.288] yes=13,no=14,missing=14,gain=6.73908,cover=28.6868
+				13:leaf=-0.0484105,cover=24.3847
+				14:leaf=0.0762295,cover=4.30213
+		6:[Yi_Huan_Ben_Jin_(Yuan_)<10616] yes=9,no=10,missing=10,gain=3.12677,cover=12.7559
+			9:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3333.17] yes=15,no=16,missing=15,gain=0.228867,cover=6.95255
+				15:leaf=-0.0912434,cover=5.94595
+				16:leaf=-0.0171021,cover=1.00661
+			10:[Yu_Qi_Ben_Jin_(Yuan_)<6833] yes=17,no=18,missing=18,gain=3.18219,cover=5.80332
+				17:leaf=0.0533343,cover=4.30784
+				18:leaf=-0.0838071,cover=1.49549
+booster[90]:
+0:[Xing_Ye_=Jian_Zhu_Ye_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.24563,cover=546.358
+	1:[Di_Qu_=Gui_Zhou_Fen_Bu_<-9.53674e-07] yes=3,no=4,missing=3,gain=3.6293,cover=525.745
+		3:[Qi_Shi_Ri__day<21.5] yes=7,no=8,missing=7,gain=3.37498,cover=512.382
+			7:[Xing_Ye_=Shang_Ye_/Mao_Yi_<-9.53674e-07] yes=13,no=14,missing=13,gain=4.9045,cover=325.874
+				13:leaf=-0.0137089,cover=288.77
+				14:leaf=0.0244872,cover=37.1042
+			8:[He_Tong_Li_Lu_(%)<19.5238] yes=15,no=16,missing=15,gain=4.83715,cover=186.507
+				15:leaf=0.0166231,cover=141.334
+				16:leaf=-0.020647,cover=45.1736
+		4:[He_Tong_Li_Lu_(%)<19.314] yes=9,no=10,missing=10,gain=7.38534,cover=13.3634
+			9:[Yi_Huan_Ben_Jin_(Yuan_)<1771.5] yes=17,no=18,missing=17,gain=3.62662,cover=7.81999
+				17:leaf=0.0427526,cover=4.23736
+				18:leaf=-0.0794404,cover=3.58263
+			10:[Li_Shi_Yu_Qi_Ci_Shu_<2.5] yes=19,no=20,missing=20,gain=3.7843,cover=5.54343
+				19:leaf=0.0380892,cover=3.32012
+				20:leaf=0.205423,cover=2.22332
+	2:[Mei_Qi_Huan_Kuan_Ri_<30.5] yes=5,no=6,missing=5,gain=4.65787,cover=20.6123
+		5:[Dao_Qi_Ri__day<14.5] yes=11,no=12,missing=11,gain=2.96563,cover=19.4656
+			11:[He_Tong_Jin_E_(Yuan_)<7355] yes=21,no=22,missing=21,gain=4.51796,cover=9.37038
+				21:leaf=-0.0506747,cover=2.41839
+				22:leaf=0.0906076,cover=6.95199
+			12:[Yi_Huan_Ben_Jin_(Yuan_)<1504.5] yes=23,no=24,missing=23,gain=2.46178,cover=10.0952
+				23:leaf=0.0303,cover=4.43749
+				24:leaf=-0.061197,cover=5.65768
+		6:leaf=0.171246,cover=1.14677
+booster[91]:
+0:[He_Tong_Li_Lu_(%)<14.6943] yes=1,no=2,missing=2,gain=2.20838,cover=545.567
+	1:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<21.06] yes=3,no=4,missing=4,gain=3.69503,cover=10.1139
+		3:leaf=0.0697192,cover=1.51361
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<830.25] yes=7,no=8,missing=7,gain=1.1932,cover=8.6003
+			7:leaf=0.0155491,cover=1.1105
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<16980] yes=13,no=14,missing=13,gain=0.63389,cover=7.4898
+				13:leaf=-0.0929902,cover=6.45563
+				14:leaf=-0.00465943,cover=1.03417
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<83.5] yes=5,no=6,missing=6,gain=4.4044,cover=535.453
+		5:[Nian_Ling_<30.5] yes=9,no=10,missing=9,gain=1.6619,cover=8.07614
+			9:leaf=-0.0862766,cover=6.80625
+			10:leaf=0.0226149,cover=1.26988
+		6:[He_Tong_Li_Lu_(%)<19.0158] yes=11,no=12,missing=11,gain=3.18597,cover=527.377
+			11:[Nian_Ling_<30.5] yes=15,no=16,missing=15,gain=3.75682,cover=49.5141
+				15:leaf=0.0111891,cover=39.8616
+				16:leaf=0.0784357,cover=9.6525
+			12:[He_Tong_Li_Lu_(%)<19.0212] yes=17,no=18,missing=18,gain=3.33188,cover=477.862
+				17:leaf=-0.0381706,cover=21.7434
+				18:leaf=0.00104551,cover=456.119
+booster[92]:
+0:[Di_Qu_=Fu_Jian_Fen_Bu_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.15243,cover=545.245
+	1:[Di_Qu_=Zhong_Qing_Fen_Bu_<-9.53674e-07] yes=3,no=4,missing=3,gain=2.25659,cover=508.721
+		3:[Li_Shi_Yu_Qi_Ci_Shu_<1.5] yes=7,no=8,missing=7,gain=2.42101,cover=493.688
+			7:[Xing_Bie_=Nan_<-9.53674e-07] yes=15,no=16,missing=15,gain=3.95567,cover=351.04
+				15:leaf=-0.012229,cover=297.517
+				16:leaf=0.0170849,cover=53.5226
+			8:[Yu_Qi_Ben_Jin_(Yuan_)<16248] yes=17,no=18,missing=18,gain=3.90416,cover=142.648
+				17:leaf=0.00296656,cover=132.872
+				18:leaf=0.0655788,cover=9.77669
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<744.5] yes=9,no=10,missing=9,gain=3.68767,cover=15.0324
+			9:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2675.33] yes=19,no=20,missing=19,gain=3.86853,cover=4.94234
+				19:leaf=0.147787,cover=3.29528
+				20:leaf=-0.0212535,cover=1.64707
+			10:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<4073.6] yes=21,no=22,missing=21,gain=1.8683,cover=10.0901
+				21:leaf=-0.0198907,cover=8.94377
+				22:leaf=0.0829936,cover=1.14632
+	2:[Sheng_Yu_Qi_Shu_<5.5] yes=5,no=6,missing=5,gain=5.41681,cover=36.524
+		5:[Yi_Huan_Ben_Jin_(Yuan_)<2447] yes=11,no=12,missing=11,gain=6.35469,cover=32.1326
+			11:[Sheng_Yu_Qi_Shu_<1.5] yes=23,no=24,missing=23,gain=5.75944,cover=16.1368
+				23:leaf=0.157228,cover=2.87778
+				24:leaf=0.0170195,cover=13.259
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3133.35] yes=25,no=26,missing=25,gain=3.10167,cover=15.9958
+				25:leaf=-0.0659363,cover=10.6181
+				26:leaf=0.0226081,cover=5.37765
+		6:[Nian_Ling_<21.5] yes=13,no=14,missing=13,gain=3.01532,cover=4.3914
+			13:leaf=-0.00628785,cover=1.40164
+			14:[Nian_Ling_<25.5] yes=27,no=28,missing=27,gain=2.77161,cover=2.98976
+				27:leaf=0.229068,cover=1.42107
+				28:leaf=0.0324855,cover=1.56869
+booster[93]:
+0:[Sheng_Yu_Ben_Jin_(Yuan_)<1332.5] yes=1,no=2,missing=1,gain=1.98672,cover=543.632
+	1:[Nian_Ling_<26.7099] yes=3,no=4,missing=3,gain=0.377442,cover=4.196
+		3:leaf=-0.0758057,cover=3.09855
+		4:leaf=-0.00490424,cover=1.09744
+	2:[Xing_Ye_=Jin_Rong_Ye_<-9.53674e-07] yes=5,no=6,missing=5,gain=2.35626,cover=539.436
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<1501.5] yes=7,no=8,missing=7,gain=2.37546,cover=527.184
+			7:[Dao_Qi_Ri__year<2016.5] yes=11,no=12,missing=11,gain=5.57616,cover=7.20375
+				11:leaf=-0.066965,cover=1.95737
+				12:leaf=0.103667,cover=5.24639
+			8:[Sheng_Yu_Ben_Jin_(Yuan_)<1932.5] yes=13,no=14,missing=13,gain=4.01296,cover=519.98
+				13:leaf=-0.0625885,cover=8.87392
+				14:leaf=0.00177445,cover=511.106
+		6:[Dao_Qi_Ri__day<7.5] yes=9,no=10,missing=9,gain=2.98113,cover=12.2517
+			9:[Yu_Qi_Ben_Jin_(Yuan_)<2915] yes=15,no=16,missing=15,gain=4.99293,cover=2.85562
+				15:leaf=-0.0643696,cover=1.61229
+				16:leaf=0.141432,cover=1.24333
+			10:[Yi_Huan_Ben_Jin_(Yuan_)<10616] yes=17,no=18,missing=17,gain=1.1062,cover=9.39611
+				17:leaf=-0.0816073,cover=7.65817
+				18:leaf=0.00374654,cover=1.73794
+booster[94]:
+0:[Xing_Ye_=Zai_Xiao_Da_Xue_Sheng_<-9.53674e-07] yes=1,no=2,missing=1,gain=1.96883,cover=543.385
+	1:[Di_Qu_=Dong_Wan_Fen_Bu_<-9.53674e-07] yes=3,no=4,missing=3,gain=2.57517,cover=523.001
+		3:[Nian_Ling_<25.5] yes=7,no=8,missing=7,gain=3.59092,cover=503.288
+			7:[Sheng_Yu_Ben_Jin_(Yuan_)<28912.5] yes=13,no=14,missing=13,gain=4.10771,cover=290.603
+				13:leaf=0.00689229,cover=277.449
+				14:leaf=0.062178,cover=13.1539
+			8:[Xing_Ye_=Shang_Ye_/Mao_Yi_<-9.53674e-07] yes=15,no=16,missing=15,gain=5.06968,cover=212.685
+				15:leaf=-0.0134207,cover=185.402
+				16:leaf=0.0320402,cover=27.2834
+		4:[Dang_Qian_Qi_Shu_<1.5] yes=9,no=10,missing=9,gain=3.1208,cover=19.7132
+			9:[Qi_Shi_Ri__month<8.5] yes=17,no=18,missing=17,gain=3.72539,cover=6.40244
+				17:leaf=0.0674975,cover=4.51113
+				18:leaf=-0.0734304,cover=1.89132
+			10:[Dao_Qi_Ri__month<2.5] yes=19,no=20,missing=19,gain=2.55948,cover=13.3108
+				19:leaf=0.00643329,cover=4.01317
+				20:leaf=-0.0862033,cover=9.29761
+	2:[Li_Shi_Yu_Qi_Ci_Shu_<3.5] yes=5,no=6,missing=6,gain=5.0655,cover=20.384
+		5:[He_Tong_Jin_E_(Yuan_)<14554] yes=11,no=12,missing=11,gain=2.78261,cover=13.2478
+			11:[Qi_Shi_Ri__month<3.5] yes=21,no=22,missing=21,gain=2.89647,cover=11.0874
+				21:leaf=0.053155,cover=3.3603
+				22:leaf=-0.0469996,cover=7.72708
+			12:[Qi_Shi_Ri__day<10.5] yes=23,no=24,missing=23,gain=1.16394,cover=2.16044
+				23:leaf=0.00293772,cover=1.06739
+				24:leaf=0.1341,cover=1.09304
+		6:leaf=-0.0921302,cover=7.13614
+booster[95]:
+0:[Di_Qu_=Zhe_Xi_Fen_Bu_<-9.53674e-07] yes=1,no=2,missing=1,gain=2.00707,cover=542.959
+	1:[Sheng_Yu_Li_Xi_(Yuan_)<83.5] yes=3,no=4,missing=4,gain=2.26231,cover=492.4
+		3:[He_Tong_Li_Lu_(%)<14.2596] yes=7,no=8,missing=8,gain=3.68596,cover=8.48971
+			7:leaf=0.066156,cover=1.51478
+			8:[Yu_Qi_Ben_Jin_(Yuan_)<1241] yes=15,no=16,missing=15,gain=0.704297,cover=6.97493
+				15:leaf=-0.0876645,cover=5.9655
+				16:leaf=0.000865137,cover=1.00943
+		4:[He_Tong_Li_Lu_(%)<14.6943] yes=9,no=10,missing=10,gain=4.27745,cover=483.91
+			9:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<834.175] yes=17,no=18,missing=17,gain=1.0448,cover=7.89469
+				17:leaf=0.00904379,cover=1.34296
+				18:leaf=-0.080599,cover=6.55174
+			10:[He_Tong_Li_Lu_(%)<19.0203] yes=19,no=20,missing=19,gain=4.30819,cover=476.015
+				19:leaf=0.0334496,cover=43.8488
+				20:leaf=0.000885117,cover=432.167
+	2:[Qi_Shi_Ri__month<4.5] yes=5,no=6,missing=5,gain=2.84128,cover=50.5589
+		5:[He_Tong_Jin_E_(Yuan_)<19035.5] yes=11,no=12,missing=11,gain=3.35842,cover=18.5133
+			11:[Sheng_Yu_Qi_Shu_<1.5] yes=21,no=22,missing=21,gain=0.82676,cover=10.847
+				21:leaf=-0.00713408,cover=1.47238
+				22:leaf=-0.0924673,cover=9.37467
+			12:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3011.12] yes=23,no=24,missing=23,gain=4.28658,cover=7.6663
+				23:leaf=0.0676984,cover=3.89672
+				24:leaf=-0.0655048,cover=3.76958
+		6:[Nian_Ling_<26.2099] yes=13,no=14,missing=13,gain=3.77819,cover=32.0456
+			13:[Sheng_Yu_Ben_Jin_(Yuan_)<6709] yes=25,no=26,missing=25,gain=5.9737,cover=20.845
+				25:leaf=-0.0366121,cover=8.70136
+				26:leaf=0.0673267,cover=12.1436
+			14:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<1251.12] yes=27,no=28,missing=27,gain=4.174,cover=11.2006
+				27:leaf=0.0742539,cover=1.60123
+				28:leaf=-0.070277,cover=9.59936
+booster[96]:
+0:[Xing_Ye_=Zheng_Fu_Ji_Guan_/She_Hui_Tuan_Ti_<-9.53674e-07] yes=1,no=2,missing=1,gain=1.9614,cover=542.724
+	1:[He_Tong_Li_Lu_(%)<18.2283] yes=3,no=4,missing=4,gain=2.0008,cover=534.733
+		3:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<833.36] yes=7,no=8,missing=7,gain=3.52262,cover=21.6121
+			7:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<13.665] yes=15,no=16,missing=15,gain=3.02522,cover=4.1117
+				15:leaf=0.103393,cover=2.42605
+				16:leaf=-0.0426104,cover=1.68564
+			8:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<3617.93] yes=17,no=18,missing=17,gain=2.05632,cover=17.5004
+				17:leaf=-0.0650391,cover=13.6733
+				18:leaf=0.0140865,cover=3.82711
+		4:[He_Tong_Li_Lu_(%)<18.4627] yes=9,no=10,missing=9,gain=4.31236,cover=513.121
+			9:leaf=0.133179,cover=1.48644
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<1343.5] yes=19,no=20,missing=19,gain=2.75282,cover=511.634
+				19:leaf=-0.0597489,cover=6.31543
+				20:leaf=0.00203764,cover=505.319
+	2:[He_Tong_Jin_E_(Yuan_)<7916] yes=5,no=6,missing=5,gain=2.15512,cover=7.99155
+		5:[Sheng_Yu_Ben_Jin_(Yuan_)<3948] yes=11,no=12,missing=11,gain=2.64649,cover=2.45769
+			11:leaf=-0.0577471,cover=1.25158
+			12:leaf=0.0977419,cover=1.20611
+		6:[Yu_Qi_Ben_Jin_(Yuan_)<5306.5] yes=13,no=14,missing=13,gain=0.471793,cover=5.53386
+			13:leaf=-0.0887378,cover=4.53229
+			14:leaf=-0.00672489,cover=1.00157
+booster[97]:
+0:[Yi_Huan_Ben_Jin_(Yuan_)<27783] yes=1,no=2,missing=1,gain=1.94069,cover=542.357
+	1:[Yi_Huan_Ben_Jin_(Yuan_)<26001.5] yes=3,no=4,missing=3,gain=6.55605,cover=536.519
+		3:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<5841.17] yes=7,no=8,missing=7,gain=2.97009,cover=533.978
+			7:[Yu_Qi_Ben_Jin_(Yuan_)<5686.5] yes=13,no=14,missing=13,gain=4.01107,cover=509.052
+				13:leaf=-0.000647894,cover=488.45
+				14:leaf=0.0433841,cover=20.6021
+			8:[Nian_Ling_<23.5] yes=15,no=16,missing=15,gain=3.97832,cover=24.9259
+				15:leaf=0.0243156,cover=7.66499
+				16:leaf=-0.0590723,cover=17.2609
+		4:[Yi_Huan_Ben_Jin_(Yuan_)<26699.5] yes=9,no=10,missing=10,gain=2.03486,cover=2.54048
+			9:leaf=0.189376,cover=1.38312
+			10:leaf=0.014105,cover=1.15737
+	2:[Sheng_Yu_Li_Xi_(Yuan_)<653] yes=5,no=6,missing=5,gain=1.50658,cover=5.83837
+		5:leaf=-0.0837375,cover=3.82792
+		6:[Dao_Qi_Ri__day<19.5] yes=11,no=12,missing=11,gain=0.239469,cover=2.01045
+			11:leaf=-0.0149692,cover=1.00683
+			12:leaf=0.0352795,cover=1.00362
+booster[98]:
+0:[Yi_Huan_Ben_Jin_(Yuan_)<12535.5] yes=1,no=2,missing=1,gain=1.92511,cover=541.215
+	1:[Dang_Qian_Qi_Shu_<4.5] yes=3,no=4,missing=3,gain=2.90898,cover=491.95
+		3:[Sheng_Yu_Qi_Shu_<3.5] yes=7,no=8,missing=7,gain=3.55665,cover=415.001
+			7:[Yi_Huan_Ben_Jin_(Yuan_)<3268] yes=15,no=16,missing=15,gain=4.77177,cover=194.192
+				15:leaf=-0.000502881,cover=130.908
+				16:leaf=-0.0337755,cover=63.2841
+			8:[Dao_Qi_Ri__day<4.5] yes=17,no=18,missing=17,gain=4.13885,cover=220.809
+				17:leaf=0.0489755,cover=20.2857
+				18:leaf=0.00258189,cover=200.524
+		4:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<2865.01] yes=9,no=10,missing=9,gain=13.8282,cover=76.9487
+			9:[Yu_Qi_Ben_Jin_(Yuan_)<1244.5] yes=19,no=20,missing=19,gain=6.26549,cover=71.6627
+				19:leaf=-0.0267322,cover=30.7765
+				20:leaf=0.0321757,cover=40.8861
+			10:[Sheng_Yu_Ben_Jin_(Yuan_)<22694.5] yes=21,no=22,missing=21,gain=1.51292,cover=5.28605
+				21:leaf=0.197965,cover=3.38519
+				22:leaf=0.0510618,cover=1.90085
+	2:[Yi_Huan_Li_Xi_(Yuan_)<1208.5] yes=5,no=6,missing=6,gain=2.55713,cover=49.2656
+		5:[Yu_Qi_Ben_Jin_(Yuan_)<4237.5] yes=11,no=12,missing=11,gain=2.59369,cover=8.56337
+			11:leaf=-0.0919603,cover=6.65731
+			12:leaf=0.0270019,cover=1.90606
+		6:[Mei_Qi_Chang_Huan_Li_Xi_(Yuan_)<172.925] yes=13,no=14,missing=14,gain=4.88899,cover=40.7022
+			13:leaf=0.118782,cover=1.86253
+			14:[Sheng_Yu_Ben_Jin_(Yuan_)<7425.5] yes=23,no=24,missing=23,gain=3.86065,cover=38.8397
+				23:leaf=-0.0785678,cover=7.02798
+				24:leaf=-0.000932246,cover=31.8117
+booster[99]:
+0:[Xing_Ye_=Jiao_Yu_/Ke_Yan_<-9.53674e-07] yes=1,no=2,missing=1,gain=1.92157,cover=539.461
+	1:[Sheng_Yu_Ben_Jin_(Yuan_)<48719] yes=3,no=4,missing=3,gain=2.23262,cover=526.574
+		3:[Mei_Qi_Chang_Huan_Ben_Jin_(Yuan_)<6904] yes=7,no=8,missing=7,gain=2.64719,cover=522.109
+			7:[Yu_Qi_Ben_Jin_(Yuan_)<6665] yes=15,no=16,missing=15,gain=4.4072,cover=511.008
+				15:leaf=-0.000757942,cover=489.39
+				16:leaf=0.0443917,cover=21.6178
+			8:[Dao_Qi_Ri__day<6.5] yes=17,no=18,missing=17,gain=5.3558,cover=11.1009
+				17:leaf=0.0885558,cover=1.59058
+				18:leaf=-0.0748877,cover=9.51035
+		4:[Qi_Shi_Ri__day<14.5] yes=9,no=10,missing=9,gain=3.09423,cover=4.46513
+			9:leaf=-0.0428221,cover=1.32963
+			10:[Xing_Ye_=Mei_Ti_/Ti_Yu_/Yu_Le_<-9.53674e-07] yes=19,no=20,missing=19,gain=0.545499,cover=3.13549
+				19:leaf=0.0424598,cover=2.01088
+				20:leaf=0.152418,cover=1.12462
+	2:[Yu_Qi_Ben_Jin_(Yuan_)<1596.5] yes=5,no=6,missing=6,gain=3.17761,cover=12.8871
+		5:[Nian_Ling_<24.5] yes=11,no=12,missing=11,gain=2.67782,cover=3.90524
+			11:[Yi_Huan_Ben_Jin_(Yuan_)<2133] yes=21,no=22,missing=21,gain=2.68412,cover=2.65194
+				21:leaf=-0.0203483,cover=1.29745
+				22:leaf=0.145529,cover=1.35449
+			12:leaf=-0.0598948,cover=1.2533
+		6:[Sheng_Yu_Li_Xi_(Yuan_)<568.5] yes=13,no=14,missing=14,gain=1.26917,cover=8.98187
+			13:leaf=0.0145896,cover=1.30809
+			14:[Dao_Qi_Ri__month<2.5] yes=23,no=24,missing=23,gain=1.13054,cover=7.67378
+				23:leaf=-0.00797654,cover=1.86715
+				24:leaf=-0.100467,cover=5.80663

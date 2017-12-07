@@ -77,10 +77,13 @@ def main():
     bst.save_model('test'+str(sys.argv[2])+'.model')
 
     feature_score =  bst.get_score(fmap='xgb.fmap', importance_type='gain')
-    for key, value in feature_score.iteritems():
-        print key.encode('u8'), value
-
+    #for key, value in feature_score.iteritems():
+    #    print key.encode('u8'), value
+    
+    #print datetime.now()
+    dtest = xgb.DMatrix(vec_test, label=Y_test)
     output_test['XGB'] = bst.predict(dtest)
+    #print datetime.now()
     output_test['ID'] = test[ID].astype(str)
     output_test['Label'] = test[label]
     #output_test['Money'] = test[u'本金余额']

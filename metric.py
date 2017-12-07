@@ -65,7 +65,7 @@ def main():
         except:
             raise Exception('Please enter the n number')
         pos = result['Label'].sum() 
-        #print pos, len(result)
+        print pos, len(result)
         print "the %d lift is %lf" %(n, lift_at_n(result, n, pos))
         return
 
